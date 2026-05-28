@@ -1,37 +1,35 @@
-# Task 4: Data Storytelling & Statistical Validation
+# Task 4 - Data Storytelling & Statistical Validation
 
-This repository contains the Task 4 submission for the 60-day Data Analytics internship.
+This repository contains Task 4 deliverables for the 60-Day Data Analytics Internship. The task converts the analysis from previous stages into a business narrative and validates one key finding with a statistical test.
 
 ## Objective
 
-Synthesize the analysis into a business narrative and validate a key finding using a statistical hypothesis test.
+Create a clear business story from the sales analysis and use statistical validation to support decision-making.
+
+## Repository Structure
+
+```text
+data/
+  sales_transactions_cleaned.csv
+reports/
+  hypothesis_testing_summary.md
+presentation/
+  final_presentation_deck.md
+Data-Storytelling-and-Statistical-Validation().pptx
+README.md
+```
+
+## Hypothesis
+
+The statistical test compares the high-satisfaction rate between Website and Mobile App orders. High satisfaction is defined as a customer rating of 4 or 5.
 
 ## Deliverables
 
-- Final presentation deck: `presentation/final_presentation_deck.pptx`
 - Hypothesis testing summary: `reports/hypothesis_testing_summary.md`
+- Final presentation outline: `presentation/final_presentation_deck.md`
+- Cleaned dataset: `data/sales_transactions_cleaned.csv`
+- Existing presentation file: `Data-Storytelling-and-Statistical-Validation().pptx`
 
-## Hypothesis Test
+## Business Recommendation
 
-Business question:
-
-Is there a statistically significant relationship between customer segment and sales channel for completed orders?
-
-Test used:
-
-Chi-square test of independence.
-
-Result:
-
-- Chi-square statistic: `19.8872`
-- Degrees of freedom: `6`
-- p-value: `0.0029`
-- Decision: Reject the null hypothesis
-
-## Business Conclusion
-
-Customer segment and sales channel appear to be associated. Channel strategy should be reviewed separately for each customer segment instead of using only overall channel averages.
-
-## Key Presentation Story
-
-The presentation explains the sales performance story, highlights key KPIs, validates the segment-channel relationship statistically, and gives business recommendations for segment-specific sales and marketing decisions.
+The business should continue investing in digital channels while reducing product return risk and tracking customer satisfaction together with revenue performance.

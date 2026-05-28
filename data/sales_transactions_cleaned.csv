@@ -1,0 +1,1251 @@
+order_id,order_date,customer_id,customer_age,region,sales_channel,product_name,category,quantity,unit_price,discount_rate,revenue,cost,campaign,payment_method,delivery_days,customer_rating,returned,gross_profit,gross_margin,month,age_group,returned_flag
+ORD-00001,2025-11-24,C1380,52,North,Mobile App,Bluetooth Headphones,Audio,1,2340.06,0.05,2223.06,1684.84,Influencer,Cash,5,2,No,538.22,0.2421,2025-11,45-54,0
+ORD-00002,2025-01-14,C1175,35,West,Website,Smart Watch,Wearables,2,6189.18,0.0,12378.36,9283.77,Search Ads,UPI,4,3,No,3094.59,0.25,2025-01,35-44,0
+ORD-00003,2025-02-17,C1194,23,North,Website,Webcam Pro,Office,1,3016.38,0.25,2262.28,2141.63,Festive Sale,Credit Card,1,4,No,120.65,0.0533,2025-02,18-24,0
+ORD-00004,2025-12-27,C1195,35,North,Mobile App,Bluetooth Headphones,Audio,3,2645.53,0.0,7936.59,5714.36,Search Ads,Debit Card,2,4,No,2222.23,0.28,2025-12,35-44,0
+ORD-00005,2025-07-01,C1274,33,East,Mobile App,Smart Watch,Wearables,2,6128.56,0.0,12257.12,9192.84,Organic,Credit Card,6,3,No,3064.28,0.25,2025-07,25-34,0
+ORD-00006,2025-12-17,C1291,63,North,Website,Mechanical Keyboard,Accessories,1,3256.14,0.2,2604.91,2279.29,Email Offer,Net Banking,4,4,No,325.62,0.125,2025-12,55+,0
+ORD-00007,2025-03-15,C1299,43,South,Website,Laptop Stand,Office,2,1316.58,0.1,2369.84,1658.89,Influencer,UPI,5,4,No,710.95,0.3,2025-03,35-44,0
+ORD-00008,2025-03-20,C1006,61,West,Mobile App,USB-C Hub,Accessories,1,2042.13,0.2,1633.7,1347.81,Email Offer,Debit Card,5,5,No,285.89,0.175,2025-03,55+,0
+ORD-00009,2026-01-29,C1135,50,North,Website,Mechanical Keyboard,Accessories,1,3709.42,0.0,3709.42,2596.59,Influencer,Cash,5,5,No,1112.83,0.3,2026-01,45-54,0
+ORD-00010,2025-11-08,C1058,41,South,Website,Smart Watch,Wearables,1,5988.06,0.2,4790.45,4491.05,Festive Sale,Credit Card,5,5,No,299.4,0.0625,2025-11,35-44,0
+ORD-00011,2025-01-30,C1066,60,North,Website,Smart Watch,Wearables,1,6254.16,0.0,6254.16,4690.62,Organic,Credit Card,3,4,No,1563.54,0.25,2025-01,55+,0
+ORD-00012,2025-10-04,C1116,22,East,Website,Smart Watch,Wearables,2,5635.22,0.25,8452.83,8452.84,Email Offer,Cash,7,4,No,-0.01,-0.0,2025-10,18-24,0
+ORD-00013,2025-04-23,C1122,35,North,Mobile App,Wireless Mouse,Accessories,1,744.14,0.2,595.31,513.46,Festive Sale,Cash,6,4,No,81.85,0.1375,2025-04,35-44,0
+ORD-00014,2025-08-31,C1217,44,West,Mobile App,Smart Watch,Wearables,1,5932.82,0.0,5932.82,4449.62,Influencer,UPI,6,4,No,1483.2,0.25,2025-08,35-44,0
+ORD-00015,2025-02-01,C1072,45,East,Mobile App,Webcam Pro,Office,1,3016.41,0.05,2865.59,2141.65,Search Ads,UPI,4,3,No,723.94,0.2526,2025-02,45-54,0
+ORD-00016,2025-01-26,C1206,21,North,Retail Store,Wireless Mouse,Accessories,3,796.62,0.25,1792.4,1649.0,Email Offer,Debit Card,3,3,Yes,143.4,0.08,2025-01,18-24,1
+ORD-00017,2026-02-06,C1080,30,East,Website,Portable Speaker,Audio,4,2275.84,0.2,7282.69,6645.47,Influencer,Debit Card,2,4,No,637.22,0.0875,2026-02,25-34,0
+ORD-00018,2025-01-30,C1036,56,West,Mobile App,Wireless Mouse,Accessories,3,843.92,0.1,2278.58,1746.91,Festive Sale,UPI,3,2,No,531.67,0.2333,2025-01,55+,0
+ORD-00019,2025-10-19,C1134,31,North,Mobile App,Smart Watch,Wearables,1,6020.87,0.2,4816.7,4515.65,Organic,Debit Card,4,4,No,301.05,0.0625,2025-10,25-34,0
+ORD-00020,2025-08-23,C1260,34,North,Website,Mechanical Keyboard,Accessories,2,3520.07,0.1,6336.13,4928.1,Festive Sale,Credit Card,5,3,No,1408.03,0.2222,2025-08,25-34,0
+ORD-00021,2025-07-09,C1335,51,South,Website,Laptop Stand,Office,2,1399.56,0.1,2519.21,1763.45,Organic,Debit Card,3,1,No,755.76,0.3,2025-07,45-54,0
+ORD-00022,2025-03-01,C1136,50,South,Website,Bluetooth Headphones,Audio,2,2573.97,0.1,4633.15,3706.52,Search Ads,UPI,6,4,No,926.63,0.2,2025-03,45-54,0
+ORD-00023,2025-11-21,C1083,46,East,Website,Webcam Pro,Office,1,3229.23,0.05,3067.77,2292.75,Influencer,Credit Card,4,4,No,775.02,0.2526,2025-11,45-54,0
+ORD-00024,2025-10-07,C1021,40,East,Mobile App,Wireless Mouse,Accessories,1,781.7,0.2,625.36,539.37,Festive Sale,Debit Card,4,3,No,85.99,0.1375,2025-10,35-44,0
+ORD-00025,2026-02-04,C1013,29,South,Retail Store,Webcam Pro,Office,1,3182.02,0.05,3022.92,2259.23,Search Ads,Credit Card,6,5,No,763.69,0.2526,2026-02,25-34,0
+ORD-00026,2025-05-17,C1236,40,North,Website,USB-C Hub,Accessories,1,1807.72,0.15,1536.56,1193.09,Search Ads,Credit Card,2,4,No,343.47,0.2235,2025-05,35-44,0
+ORD-00027,2025-01-13,C1205,61,West,Website,Smart Watch,Wearables,3,6134.8,0.1,16563.96,13803.3,Referral,Credit Card,4,5,No,2760.66,0.1667,2025-01,55+,0
+ORD-00028,2025-10-25,C1296,30,North,Website,Laptop Stand,Office,1,1275.14,0.1,1147.63,803.34,Email Offer,Cash,3,3,No,344.29,0.3,2025-10,25-34,0
+ORD-00029,2026-02-17,C1064,37,East,Website,Smart Watch,Wearables,4,5820.39,0.1,20953.4,17461.17,Organic,Credit Card,3,4,No,3492.23,0.1667,2026-02,35-44,0
+ORD-00030,2025-04-09,C1281,18,West,Mobile App,Webcam Pro,Office,4,2903.49,0.2,9291.17,8245.91,Organic,Cash,6,4,No,1045.26,0.1125,2025-04,18-24,0
+ORD-00031,2025-12-02,C1146,50,West,Website,Mechanical Keyboard,Accessories,2,3587.93,0.15,6099.48,5023.1,Email Offer,Debit Card,7,4,No,1076.38,0.1765,2025-12,45-54,0
+ORD-00032,2025-04-26,C1038,47,South,Website,Smart Watch,Wearables,1,6334.69,0.15,5384.49,4751.02,Organic,Net Banking,6,4,No,633.47,0.1176,2025-04,45-54,0
+ORD-00033,2025-09-11,C1357,51,South,Website,Webcam Pro,Office,2,2843.48,0.15,4833.92,4037.74,Email Offer,Net Banking,4,4,No,796.18,0.1647,2025-09,45-54,0
+ORD-00034,2025-12-08,C1381,48,West,Mobile App,Mechanical Keyboard,Accessories,2,3721.37,0.25,5582.06,5209.92,Email Offer,Debit Card,3,4,No,372.14,0.0667,2025-12,45-54,0
+ORD-00035,2026-01-28,C1164,52,South,Website,Portable Speaker,Audio,1,2118.68,0.1,1906.81,1546.64,Search Ads,UPI,3,2,No,360.17,0.1889,2026-01,45-54,0
+ORD-00036,2025-08-01,C1300,62,East,Mobile App,Webcam Pro,Office,1,3193.26,0.25,2394.95,2267.21,Email Offer,Net Banking,4,1,No,127.74,0.0533,2025-08,55+,0
+ORD-00037,2025-09-02,C1280,56,East,Website,Wireless Mouse,Accessories,1,830.64,0.15,706.04,573.14,Organic,Debit Card,3,5,No,132.9,0.1882,2025-09,55+,0
+ORD-00038,2025-12-09,C1202,55,South,Retail Store,Webcam Pro,Office,4,2772.02,0.2,8870.46,7872.54,Organic,Net Banking,6,4,Yes,997.92,0.1125,2025-12,55+,1
+ORD-00039,2025-03-11,C1195,35,South,Website,Portable Speaker,Audio,1,2141.83,0.2,1713.46,1563.53,Email Offer,Cash,4,5,No,149.93,0.0875,2025-03,35-44,0
+ORD-00040,2025-01-27,C1011,57,South,Mobile App,Mechanical Keyboard,Accessories,3,3330.69,0.15,8493.26,6994.45,Festive Sale,UPI,4,3,No,1498.81,0.1765,2025-01,55+,0
+ORD-00041,2025-10-16,C1383,63,West,Mobile App,Smart Watch,Wearables,2,6101.94,0.05,11593.69,9152.91,Organic,Debit Card,4,3,No,2440.78,0.2105,2025-10,55+,0
+ORD-00042,2025-10-22,C1125,24,West,Retail Store,Webcam Pro,Office,1,3157.62,0.2,2526.1,2241.91,Influencer,Unknown,4,5,No,284.19,0.1125,2025-10,18-24,0
+ORD-00043,2026-02-17,C1216,49,North,Website,Bluetooth Headphones,Audio,1,2304.14,0.2,1843.31,1658.98,Festive Sale,Credit Card,2,2,No,184.33,0.1,2026-02,45-54,0
+ORD-00044,2025-08-11,C1304,35,East,Mobile App,USB-C Hub,Accessories,4,1997.97,0.25,5993.91,5274.64,Email Offer,Debit Card,1,4,No,719.27,0.12,2025-08,35-44,0
+ORD-00045,2025-08-19,C1094,49,West,Mobile App,Smart Watch,Wearables,2,6335.86,0.25,9503.79,9503.79,Festive Sale,Debit Card,2,3,No,0.0,0.0,2025-08,45-54,0
+ORD-00046,2025-10-12,C1354,48,South,Website,Wireless Mouse,Accessories,2,832.0,0.15,1414.4,1148.17,Organic,UPI,6,4,No,266.23,0.1882,2025-10,45-54,0
+ORD-00047,2025-05-31,C1272,40,West,Mobile App,Smart Watch,Wearables,1,5973.33,0.2,4778.66,4480.0,Referral,Debit Card,2,4,No,298.66,0.0625,2025-05,35-44,0
+ORD-00048,2025-05-09,C1111,48,North,Mobile App,Smart Watch,Wearables,1,5696.79,0.2,4557.43,4272.6,Influencer,Cash,6,3,No,284.83,0.0625,2025-05,45-54,0
+ORD-00049,2025-05-25,C1028,53,South,Website,Bluetooth Headphones,Audio,1,2408.76,0.15,2047.45,1734.31,Festive Sale,UPI,2,4,No,313.14,0.1529,2025-05,45-54,0
+ORD-00050,2025-10-21,C1245,25,West,Mobile App,Laptop Stand,Office,1,1390.67,0.0,1390.67,876.12,Referral,Cash,2,5,No,514.55,0.37,2025-10,25-34,0
+ORD-00051,2025-11-19,C1392,44,South,Website,Wireless Mouse,Accessories,2,750.22,0.15,1275.37,1035.31,Festive Sale,Net Banking,4,4,No,240.06,0.1882,2025-11,35-44,0
+ORD-00052,2025-06-02,C1136,60,East,Mobile App,Webcam Pro,Office,1,3059.23,0.0,3059.23,2172.05,Search Ads,UPI,6,2,No,887.18,0.29,2025-06,55+,0
+ORD-00053,2025-03-22,C1145,62,West,Website,Wireless Mouse,Accessories,2,771.91,0.15,1312.25,1065.24,Festive Sale,Cash,4,5,No,247.01,0.1882,2025-03,55+,0
+ORD-00054,2025-12-05,C1037,21,West,Website,Smart Watch,Wearables,1,6312.51,0.05,5996.88,4734.39,Referral,Cash,5,3,No,1262.49,0.2105,2025-12,18-24,0
+ORD-00055,2025-05-28,C1253,46,North,Mobile App,Portable Speaker,Audio,1,2199.17,0.15,1869.29,1605.39,Referral,UPI,2,2,Yes,263.9,0.1412,2025-05,45-54,1
+ORD-00056,2025-02-16,C1388,29,North,Retail Store,Smart Watch,Wearables,2,5557.7,0.1,10003.86,8336.54,Organic,Credit Card,4,4,No,1667.32,0.1667,2025-02,25-34,0
+ORD-00057,2025-10-27,C1054,28,West,Retail Store,Webcam Pro,Office,1,2913.14,0.15,2476.17,2068.33,Referral,UPI,3,4,No,407.84,0.1647,2025-10,25-34,0
+ORD-00058,2025-08-21,C1001,60,East,Website,Bluetooth Headphones,Audio,1,2628.92,0.15,2234.58,1892.82,Organic,Credit Card,7,5,No,341.76,0.1529,2025-08,55+,0
+ORD-00059,2025-09-23,C1148,46,West,Mobile App,Mechanical Keyboard,Accessories,2,3526.56,0.05,6700.46,4937.18,Referral,Credit Card,6,5,No,1763.28,0.2632,2025-09,45-54,0
+ORD-00060,2025-06-09,C1079,49,West,Website,Wireless Mouse,Accessories,5,817.88,0.1,3680.46,2821.7,Email Offer,Debit Card,4,5,No,858.76,0.2333,2025-06,45-54,0
+ORD-00061,2025-08-01,C1261,26,West,Website,Portable Speaker,Audio,2,2347.43,0.15,3990.63,3427.25,Search Ads,Debit Card,4,5,No,563.38,0.1412,2025-08,25-34,0
+ORD-00062,2026-02-25,C1077,46,East,Mobile App,Wireless Mouse,Accessories,3,797.68,0.2,1914.43,1651.19,Influencer,Cash,2,4,No,263.24,0.1375,2026-02,45-54,0
+ORD-00063,2025-07-13,C1211,20,East,Retail Store,Portable Speaker,Audio,5,2157.82,0.05,10249.64,7876.06,Organic,Credit Card,5,4,No,2373.58,0.2316,2025-07,18-24,0
+ORD-00064,2025-09-11,C1234,41,South,Mobile App,Wireless Mouse,Accessories,2,802.32,0.1,1444.18,1107.2,Email Offer,Credit Card,3,5,No,336.98,0.2333,2025-09,35-44,0
+ORD-00065,2025-02-08,C1274,42,East,Website,Portable Speaker,Audio,2,2322.97,0.0,4645.94,3391.53,Referral,UPI,5,5,No,1254.41,0.27,2025-02,35-44,0
+ORD-00066,2025-11-13,C1051,58,South,Mobile App,Bluetooth Headphones,Audio,4,2335.22,0.05,8873.84,6725.43,Influencer,Debit Card,2,5,No,2148.41,0.2421,2025-11,55+,0
+ORD-00067,2025-01-15,C1211,54,East,Mobile App,Wireless Mouse,Accessories,1,766.3,0.15,651.35,528.75,Email Offer,Cash,5,5,No,122.6,0.1882,2025-01,45-54,0
+ORD-00068,2025-12-16,C1131,60,West,Retail Store,Smart Watch,Wearables,1,5762.86,0.15,4898.43,4322.14,Influencer,Cash,6,1,No,576.29,0.1176,2025-12,55+,0
+ORD-00069,2025-03-22,C1354,34,West,Retail Store,Bluetooth Headphones,Audio,5,2683.74,0.1,12076.83,9661.46,Influencer,Credit Card,7,4,No,2415.37,0.2,2025-03,25-34,0
+ORD-00070,2025-07-15,C1352,21,East,Retail Store,Mechanical Keyboard,Accessories,1,3223.61,0.15,2740.07,2256.53,Referral,Credit Card,4,5,No,483.54,0.1765,2025-07,18-24,0
+ORD-00071,2025-11-07,C1322,59,South,Mobile App,Mechanical Keyboard,Accessories,2,3273.48,0.05,6219.61,4582.87,Influencer,UPI,5,1,No,1636.74,0.2632,2025-11,55+,0
+ORD-00072,2025-06-01,C1140,28,West,Website,Mechanical Keyboard,Accessories,1,3516.27,0.2,2813.02,2461.39,Referral,Debit Card,4,3,No,351.63,0.125,2025-06,25-34,0
+ORD-00073,2026-01-18,C1204,53,North,Mobile App,Mechanical Keyboard,Accessories,1,3624.53,0.05,3443.3,2537.17,Influencer,Debit Card,6,4,No,906.13,0.2632,2026-01,45-54,0
+ORD-00074,2025-12-11,C1013,57,West,Retail Store,Laptop Stand,Office,4,1243.68,0.0,4974.72,3134.07,Influencer,Credit Card,4,5,No,1840.65,0.37,2025-12,55+,0
+ORD-00075,2025-11-28,C1020,37,West,Retail Store,Bluetooth Headphones,Audio,1,2317.21,0.15,1969.63,1668.39,Festive Sale,Net Banking,4,5,No,301.24,0.1529,2025-11,35-44,0
+ORD-00076,2025-07-09,C1144,20,South,Retail Store,Webcam Pro,Office,2,2954.91,0.15,5023.35,4195.97,Organic,Credit Card,6,5,No,827.38,0.1647,2025-07,18-24,0
+ORD-00077,2026-03-14,C1063,47,North,Retail Store,Mechanical Keyboard,Accessories,1,3373.53,0.25,2530.15,2361.47,Festive Sale,Debit Card,1,2,No,168.68,0.0667,2026-03,45-54,0
+ORD-00078,2025-05-05,C1120,39,South,Website,USB-C Hub,Accessories,2,1812.69,0.05,3444.11,2392.76,Organic,UPI,1,5,No,1051.35,0.3053,2025-05,35-44,0
+ORD-00079,2025-05-22,C1068,18,South,Mobile App,USB-C Hub,Accessories,3,2010.34,0.0,6031.02,3980.48,Influencer,UPI,3,4,No,2050.54,0.34,2025-05,18-24,0
+ORD-00080,2025-03-06,C1232,50,North,Mobile App,Webcam Pro,Office,1,3043.94,0.1,2739.55,2161.2,Organic,Cash,4,3,No,578.35,0.2111,2025-03,45-54,0
+ORD-00081,2025-06-04,C1228,22,North,Website,Portable Speaker,Audio,1,2195.58,0.1,1976.02,1602.77,Email Offer,Cash,4,5,No,373.25,0.1889,2025-06,18-24,0
+ORD-00082,2025-10-08,C1051,62,West,Retail Store,Mechanical Keyboard,Accessories,2,3558.02,0.15,6048.63,4981.23,Organic,Credit Card,4,3,No,1067.4,0.1765,2025-10,55+,0
+ORD-00083,2025-08-09,C1161,60,South,Website,Portable Speaker,Audio,3,2133.05,0.1,5759.24,4671.37,Email Offer,UPI,3,3,No,1087.87,0.1889,2025-08,55+,0
+ORD-00084,2025-02-17,C1288,53,North,Mobile App,Webcam Pro,Office,1,2787.86,0.05,2648.47,1979.38,Organic,Net Banking,2,4,No,669.09,0.2526,2025-02,45-54,0
+ORD-00085,2026-03-21,C1337,48,East,Mobile App,Wireless Mouse,Accessories,1,762.28,0.2,609.82,525.97,Organic,Cash,5,3,No,83.85,0.1375,2026-03,45-54,0
+ORD-00086,2025-04-26,C1391,37,North,Mobile App,Webcam Pro,Office,2,2890.21,0.15,4913.36,4104.09,Festive Sale,Credit Card,2,5,No,809.27,0.1647,2025-04,35-44,0
+ORD-00087,2025-10-17,C1233,39,North,Website,Webcam Pro,Office,2,2939.59,0.15,4997.3,4174.22,Festive Sale,UPI,2,3,No,823.08,0.1647,2025-10,35-44,0
+ORD-00088,2025-01-27,C1218,49,South,Mobile App,USB-C Hub,Accessories,1,1881.72,0.0,1881.72,1241.93,Referral,Cash,7,4,No,639.79,0.34,2025-01,45-54,0
+ORD-00089,2025-02-28,C1203,56,West,Website,Mechanical Keyboard,Accessories,2,3244.51,0.2,5191.22,4542.31,Email Offer,Debit Card,6,2,No,648.91,0.125,2025-02,55+,0
+ORD-00090,2025-06-17,C1343,40,North,Mobile App,Bluetooth Headphones,Audio,1,2499.1,0.15,2124.23,1799.36,Email Offer,Net Banking,3,2,No,324.87,0.1529,2025-06,35-44,0
+ORD-00091,2025-01-10,C1208,19,North,Retail Store,Portable Speaker,Audio,2,2124.94,0.25,3187.41,3102.42,Email Offer,Debit Card,5,5,No,84.99,0.0267,2025-01,18-24,0
+ORD-00092,2025-02-15,C1382,39,North,Website,Webcam Pro,Office,2,31767.9,0.25,47651.85,4511.05,Festive Sale,Cash,3,3,No,43140.8,0.9053,2025-02,35-44,0
+ORD-00093,2025-11-21,C1132,30,South,Retail Store,Bluetooth Headphones,Audio,1,2340.19,0.05,2223.18,1684.93,Search Ads,Net Banking,4,3,No,538.25,0.2421,2025-11,25-34,0
+ORD-00094,2025-08-26,C1324,37,East,Retail Store,Portable Speaker,Audio,2,2188.07,0.1,3938.53,3194.58,Email Offer,Cash,3,5,No,743.95,0.1889,2025-08,35-44,0
+ORD-00095,2025-02-07,C1260,42,West,Website,Laptop Stand,Office,1,1322.9,0.1,1190.61,833.43,Festive Sale,Cash,5,4,No,357.18,0.3,2025-02,35-44,0
+ORD-00096,2025-11-30,C1176,63,East,Mobile App,Smart Watch,Wearables,1,6297.48,0.1,5667.73,4723.11,Email Offer,Credit Card,1,2,No,944.62,0.1667,2025-11,55+,0
+ORD-00097,2025-12-29,C1199,44,West,Mobile App,Portable Speaker,Audio,2,2346.05,0.1,4222.89,3425.23,Referral,UPI,6,5,No,797.66,0.1889,2025-12,35-44,0
+ORD-00098,2025-06-18,C1299,60,West,Website,Bluetooth Headphones,Audio,2,2432.37,0.2,3891.79,3502.61,Search Ads,Net Banking,4,3,No,389.18,0.1,2025-06,55+,0
+ORD-00099,2025-03-08,C1379,61,East,Mobile App,Bluetooth Headphones,Audio,2,2567.02,0.1,4620.64,3696.51,Search Ads,Debit Card,3,5,No,924.13,0.2,2025-03,55+,0
+ORD-00100,2025-06-08,C1080,22,South,Website,USB-C Hub,Accessories,2,2050.91,0.05,3896.73,2707.21,Search Ads,Cash,2,4,No,1189.52,0.3053,2025-06,18-24,0
+ORD-00101,2026-03-04,C1355,57,East,Retail Store,Wireless Mouse,Accessories,2,755.82,0.15,1284.89,1043.03,Email Offer,Credit Card,2,5,No,241.86,0.1882,2026-03,55+,0
+ORD-00102,2025-08-16,C1293,46,West,Website,Laptop Stand,Office,1,1271.53,0.15,1080.8,801.07,Search Ads,Cash,4,4,No,279.73,0.2588,2025-08,45-54,0
+ORD-00103,2025-09-28,C1247,41,South,Mobile App,Webcam Pro,Office,3,2784.12,0.05,7934.74,5930.17,Referral,UPI,5,4,No,2004.57,0.2526,2025-09,35-44,0
+ORD-00104,2026-01-26,C1179,19,East,Website,USB-C Hub,Accessories,1,1995.23,0.15,1695.95,1316.85,Festive Sale,Credit Card,1,4,No,379.1,0.2235,2026-01,18-24,0
+ORD-00105,2025-07-17,C1075,26,East,Website,Bluetooth Headphones,Audio,1,2558.96,0.0,2558.96,1842.45,Influencer,Net Banking,1,1,No,716.51,0.28,2025-07,25-34,0
+ORD-00106,2025-08-18,C1312,51,North,Website,Wireless Mouse,Accessories,1,855.28,0.05,812.52,590.14,Organic,Debit Card,4,4,No,222.38,0.2737,2025-08,45-54,0
+ORD-00107,2025-03-04,C1256,56,South,Website,Wireless Mouse,Accessories,3,842.04,0.1,2273.51,1743.03,Festive Sale,Net Banking,1,4,No,530.48,0.2333,2025-03,55+,0
+ORD-00108,2025-01-01,C1035,51,South,Mobile App,Mechanical Keyboard,Accessories,1,3764.73,0.0,3764.73,2635.31,Organic,Cash,3,4,No,1129.42,0.3,2025-01,45-54,0
+ORD-00109,2025-01-11,C1183,22,West,Website,Webcam Pro,Office,1,3117.67,0.1,2805.9,2213.55,Referral,Debit Card,2,4,No,592.35,0.2111,2025-01,18-24,0
+ORD-00110,2025-03-10,C1357,48,East,Mobile App,Wireless Mouse,Accessories,3,794.48,0.05,2264.27,1644.57,Influencer,Net Banking,2,4,No,619.7,0.2737,2025-03,45-54,0
+ORD-00111,2025-01-19,C1264,43,South,Website,Laptop Stand,Office,1,1389.07,0.0,1389.07,875.12,Referral,Debit Card,4,5,No,513.95,0.37,2025-01,35-44,0
+ORD-00112,2025-07-02,C1198,39,East,Website,Wireless Mouse,Accessories,3,849.45,0.25,1911.26,1758.36,Email Offer,Debit Card,6,5,No,152.9,0.08,2025-07,35-44,0
+ORD-00113,2026-02-13,C1165,24,North,Mobile App,Laptop Stand,Office,1,1308.45,0.2,1046.76,824.32,Search Ads,Credit Card,3,2,No,222.44,0.2125,2026-02,18-24,0
+ORD-00114,2025-12-20,C1141,58,East,Website,Portable Speaker,Audio,2,2374.27,0.1,4273.69,3466.43,Organic,Net Banking,6,5,No,807.26,0.1889,2025-12,55+,0
+ORD-00115,2025-07-06,C1331,41,North,Website,USB-C Hub,Accessories,2,1767.51,0.15,3004.77,2333.11,Festive Sale,Debit Card,5,4,No,671.66,0.2235,2025-07,35-44,0
+ORD-00116,2025-07-10,C1128,25,North,Mobile App,Portable Speaker,Audio,2,2251.62,0.15,3827.75,3287.37,Referral,Net Banking,4,1,No,540.38,0.1412,2025-07,25-34,0
+ORD-00117,2025-10-15,C1252,30,East,Mobile App,Bluetooth Headphones,Audio,2,2413.27,0.05,4585.21,3475.1,Organic,UPI,1,3,No,1110.11,0.2421,2025-10,25-34,0
+ORD-00118,2026-02-19,C1365,63,East,Mobile App,Mechanical Keyboard,Accessories,2,3695.71,0.1,6652.28,5173.99,Referral,Cash,5,5,No,1478.29,0.2222,2026-02,55+,0
+ORD-00119,2025-04-25,C1189,47,South,Mobile App,Bluetooth Headphones,Audio,1,2520.6,0.2,2016.48,1814.83,Festive Sale,Net Banking,3,5,No,201.65,0.1,2025-04,45-54,0
+ORD-00120,2026-01-03,C1329,22,West,Mobile App,Portable Speaker,Audio,3,2365.2,0.0,7095.6,5179.79,Search Ads,Credit Card,3,4,No,1915.81,0.27,2026-01,18-24,0
+ORD-00121,2026-03-26,C1083,38,South,Website,USB-C Hub,Accessories,4,1839.49,0.15,6254.27,4856.24,Festive Sale,UPI,6,5,No,1398.03,0.2235,2026-03,35-44,0
+ORD-00122,2025-05-09,C1298,27,East,Website,Smart Watch,Wearables,1,6087.12,0.15,5174.05,4565.34,Festive Sale,Debit Card,3,3,No,608.71,0.1176,2025-05,25-34,0
+ORD-00123,2026-03-08,C1393,54,North,Website,Wireless Mouse,Accessories,4,818.32,0.2,2618.62,2258.56,Referral,Debit Card,1,4,No,360.06,0.1375,2026-03,45-54,0
+ORD-00124,2025-09-05,C1248,47,West,Website,Smart Watch,Wearables,1,5941.03,0.0,5941.03,4455.77,Search Ads,Debit Card,4,3,No,1485.26,0.25,2025-09,45-54,0
+ORD-00125,2026-01-11,C1063,35,West,Website,Mechanical Keyboard,Accessories,1,3354.41,0.2,2683.53,2348.09,Festive Sale,Net Banking,7,4,No,335.44,0.125,2026-01,35-44,0
+ORD-00126,2025-05-08,C1264,47,East,Retail Store,USB-C Hub,Accessories,2,1898.47,0.05,3607.09,2505.98,Search Ads,UPI,5,4,No,1101.11,0.3053,2025-05,45-54,0
+ORD-00127,2025-07-21,C1335,61,South,Website,Portable Speaker,Audio,1,2197.2,0.0,2197.2,1603.96,Referral,Debit Card,5,4,No,593.24,0.27,2025-07,55+,0
+ORD-00128,2026-01-27,C1148,22,East,Website,Webcam Pro,Office,1,2933.03,0.2,2346.42,2082.45,Search Ads,Debit Card,2,4,No,263.97,0.1125,2026-01,18-24,0
+ORD-00129,2026-02-27,C1387,27,South,Retail Store,Bluetooth Headphones,Audio,1,2674.51,0.1,2407.06,1925.65,Organic,Debit Card,3,3,No,481.41,0.2,2026-02,25-34,0
+ORD-00130,2026-02-16,C1164,28,West,Website,Portable Speaker,Audio,3,2350.77,0.05,6699.69,5148.19,Referral,Cash,4,4,No,1551.5,0.2316,2026-02,25-34,0
+ORD-00131,2025-06-22,C1214,55,East,Mobile App,Portable Speaker,Audio,1,2061.64,0.1,1855.48,1505.0,Influencer,Net Banking,5,4,No,350.48,0.1889,2025-06,55+,0
+ORD-00132,2025-05-16,C1125,20,North,Mobile App,Smart Watch,Wearables,1,6307.74,0.15,5361.58,4730.81,Email Offer,UPI,2,4,No,630.77,0.1176,2025-05,18-24,0
+ORD-00133,2025-08-14,C1242,21,West,Website,Mechanical Keyboard,Accessories,2,3652.94,0.15,6210.0,5114.12,Organic,Cash,1,5,No,1095.88,0.1765,2025-08,18-24,0
+ORD-00134,2025-07-12,C1370,61,South,Website,Mechanical Keyboard,Accessories,2,3597.46,0.2,5755.94,5036.44,Referral,Net Banking,2,4,No,719.5,0.125,2025-07,55+,0
+ORD-00135,2025-04-09,C1354,63,East,Mobile App,Smart Watch,Wearables,1,6195.67,0.1,5576.1,4646.75,Referral,Debit Card,1,4,No,929.35,0.1667,2025-04,55+,0
+ORD-00136,2025-05-28,C1148,63,West,Retail Store,Bluetooth Headphones,Audio,1,2415.21,0.1,2173.69,1738.95,Search Ads,Debit Card,2,2,No,434.74,0.2,2025-05,55+,0
+ORD-00137,2026-01-18,C1056,57,South,Website,Portable Speaker,Audio,2,2118.65,0.2,3389.84,3093.23,Influencer,Credit Card,7,5,No,296.61,0.0875,2026-01,55+,0
+ORD-00138,2025-01-27,C1244,48,West,Website,Bluetooth Headphones,Audio,1,2461.78,0.15,2092.51,1772.48,Festive Sale,Debit Card,5,4,No,320.03,0.1529,2025-01,45-54,0
+ORD-00139,2025-05-27,C1091,20,North,Mobile App,Wireless Mouse,Accessories,1,788.5,0.0,788.5,544.07,Search Ads,UPI,1,5,No,244.43,0.31,2025-05,18-24,0
+ORD-00140,2025-01-05,C1253,26,North,Retail Store,Laptop Stand,Office,1,1308.0,0.15,1111.8,824.04,Influencer,UPI,4,5,No,287.76,0.2588,2025-01,25-34,0
+ORD-00141,2025-06-19,C1152,54,West,Mobile App,USB-C Hub,Accessories,2,1849.51,0.0,3699.02,2441.35,Influencer,Net Banking,2,4,No,1257.67,0.34,2025-06,45-54,0
+ORD-00142,2025-09-21,C1004,34,North,Website,Mechanical Keyboard,Accessories,1,3742.99,0.2,2994.39,2620.09,Email Offer,Debit Card,2,4,No,374.3,0.125,2025-09,25-34,0
+ORD-00143,2025-06-04,C1158,28,East,Mobile App,Wireless Mouse,Accessories,2,750.19,0.0,1500.38,1035.27,Influencer,UPI,6,4,No,465.11,0.31,2025-06,25-34,0
+ORD-00144,2025-11-24,C1311,41,East,Mobile App,Laptop Stand,Office,1,1289.64,0.15,1096.19,812.47,Email Offer,Cash,2,4,No,283.72,0.2588,2025-11,35-44,0
+ORD-00145,2026-02-15,C1361,41,South,Mobile App,Smart Watch,Wearables,2,5947.89,0.0,11895.78,8921.83,Organic,Credit Card,6,2,No,2973.95,0.25,2026-02,35-44,0
+ORD-00146,2025-10-21,C1299,49,South,Website,USB-C Hub,Accessories,2,1809.49,0.0,3618.98,2388.53,Influencer,Net Banking,4,2,No,1230.45,0.34,2025-10,45-54,0
+ORD-00147,2025-03-09,C1131,18,West,Mobile App,Webcam Pro,Office,2,2769.53,0.1,4985.15,3932.73,Influencer,Cash,5,5,No,1052.42,0.2111,2025-03,18-24,0
+ORD-00148,2025-01-31,C1331,44,West,Website,Bluetooth Headphones,Audio,1,2690.26,0.05,2555.75,1936.98,Influencer,Net Banking,4,4,No,618.77,0.2421,2025-01,35-44,0
+ORD-00149,2025-07-12,C1066,32,South,Mobile App,Bluetooth Headphones,Audio,1,2456.24,0.05,2333.43,1768.49,Organic,Cash,5,5,No,564.94,0.2421,2025-07,25-34,0
+ORD-00150,2025-08-06,C1372,25,South,Website,Webcam Pro,Office,1,3208.89,0.1,2888.0,2278.31,Search Ads,UPI,3,1,No,609.69,0.2111,2025-08,25-34,0
+ORD-00151,2025-05-04,C1025,33,North,Website,Smart Watch,Wearables,1,6194.12,0.2,4955.3,4645.59,Influencer,Credit Card,4,5,No,309.71,0.0625,2025-05,25-34,0
+ORD-00152,2025-09-15,C1345,38,South,Mobile App,Laptop Stand,Office,2,1319.35,0.1,2374.83,1662.38,Organic,Cash,5,3,No,712.45,0.3,2025-09,35-44,0
+ORD-00153,2025-04-24,C1321,61,East,Website,Webcam Pro,Office,2,3196.49,0.2,5114.38,4539.02,Influencer,Net Banking,7,4,No,575.36,0.1125,2025-04,55+,0
+ORD-00154,2026-02-07,C1116,37,West,Website,Mechanical Keyboard,Accessories,1,3484.17,0.05,3309.96,2438.92,Organic,UPI,3,5,No,871.04,0.2632,2026-02,35-44,0
+ORD-00155,2025-10-15,C1332,23,West,Mobile App,Webcam Pro,Office,1,2856.65,0.05,2713.82,2028.22,Referral,UPI,6,5,No,685.6,0.2526,2025-10,18-24,0
+ORD-00156,2025-05-18,C1112,48,North,Retail Store,Webcam Pro,Office,1,3081.27,0.2,2465.02,2187.7,Influencer,UPI,5,3,No,277.32,0.1125,2025-05,45-54,0
+ORD-00157,2025-04-19,C1105,43,North,Mobile App,Smart Watch,Wearables,2,6099.21,0.05,11588.5,9148.81,Influencer,Debit Card,4,5,No,2439.69,0.2105,2025-04,35-44,0
+ORD-00158,2025-06-07,C1164,31,East,Mobile App,Laptop Stand,Office,1,1292.66,0.0,1292.66,814.38,Influencer,Credit Card,2,4,No,478.28,0.37,2025-06,25-34,0
+ORD-00159,2026-01-15,C1079,30,North,Website,USB-C Hub,Accessories,4,1873.96,0.2,5996.67,4947.25,Influencer,Debit Card,5,4,No,1049.42,0.175,2026-01,25-34,0
+ORD-00160,2025-05-12,C1280,49,West,Mobile App,Portable Speaker,Audio,2,2072.32,0.1,3730.18,3025.59,Search Ads,UPI,2,3,No,704.59,0.1889,2025-05,45-54,0
+ORD-00161,2025-09-26,C1119,22,North,Retail Store,Wireless Mouse,Accessories,2,842.79,0.15,1432.74,1163.05,Email Offer,Cash,2,5,Yes,269.69,0.1882,2025-09,18-24,1
+ORD-00162,2025-09-05,C1147,19,North,Website,Portable Speaker,Audio,2,2211.57,0.2,3538.51,3228.9,Festive Sale,Credit Card,4,4,No,309.61,0.0875,2025-09,18-24,0
+ORD-00163,2025-02-24,C1204,23,South,Website,Bluetooth Headphones,Audio,2,2405.97,0.1,4330.75,3464.59,Referral,Debit Card,1,4,No,866.16,0.2,2025-02,18-24,0
+ORD-00164,2025-12-17,C1360,28,North,Website,Bluetooth Headphones,Audio,1,2553.68,0.1,2298.31,1838.65,Email Offer,Debit Card,2,2,No,459.66,0.2,2025-12,25-34,0
+ORD-00165,2025-10-17,C1039,61,North,Website,Bluetooth Headphones,Audio,4,2317.7,0.2,7416.64,6674.97,Email Offer,UPI,3,5,No,741.67,0.1,2025-10,55+,0
+ORD-00166,2025-04-17,C1200,61,West,Retail Store,USB-C Hub,Accessories,1,1919.26,0.2,1535.41,1266.71,Search Ads,Credit Card,4,5,No,268.7,0.175,2025-04,55+,0
+ORD-00167,2026-02-09,C1315,56,East,Website,Bluetooth Headphones,Audio,1,2541.05,0.0,2541.05,1829.56,Referral,Net Banking,5,4,No,711.49,0.28,2026-02,55+,0
+ORD-00168,2025-04-27,C1366,22,West,Website,Mechanical Keyboard,Accessories,2,3665.86,0.2,5865.38,5132.21,Festive Sale,Credit Card,4,2,No,733.17,0.125,2025-04,18-24,0
+ORD-00169,2026-01-14,C1053,26,East,Website,Webcam Pro,Office,1,3124.4,0.2,2499.52,2218.33,Email Offer,UPI,2,2,No,281.19,0.1125,2026-01,25-34,0
+ORD-00170,2025-02-15,C1044,53,North,Mobile App,Mechanical Keyboard,Accessories,3,3450.75,0.2,8281.8,7246.57,Festive Sale,Cash,3,5,No,1035.23,0.125,2025-02,45-54,0
+ORD-00171,2025-03-28,C1223,35,South,Website,Webcam Pro,Office,1,2789.44,0.15,2371.02,1980.5,Search Ads,Net Banking,5,4,No,390.52,0.1647,2025-03,35-44,0
+ORD-00172,2025-11-01,C1195,39,West,Website,Smart Watch,Wearables,1,6326.89,0.15,5377.86,4745.17,Referral,Cash,4,4,No,632.69,0.1176,2025-11,35-44,0
+ORD-00173,2025-03-11,C1204,38,East,Mobile App,Laptop Stand,Office,2,1232.0,0.15,2094.4,1552.32,Referral,Debit Card,2,4,No,542.08,0.2588,2025-03,35-44,0
+ORD-00174,2025-07-12,C1093,61,West,Website,Laptop Stand,Office,4,1402.35,0.05,5328.93,3533.93,Organic,Net Banking,4,5,Yes,1795.0,0.3368,2025-07,55+,1
+ORD-00175,2025-12-29,C1156,33,West,Mobile App,Smart Watch,Wearables,3,5652.67,0.25,12718.51,12718.51,Email Offer,Cash,2,3,No,0.0,0.0,2025-12,25-34,0
+ORD-00176,2025-09-03,C1275,56,West,Mobile App,Webcam Pro,Office,3,3188.78,0.1,8609.71,6792.1,Influencer,Debit Card,4,4,No,1817.61,0.2111,2025-09,55+,0
+ORD-00177,2025-03-27,C1114,50,West,Retail Store,Wireless Mouse,Accessories,1,747.69,0.1,672.92,515.9,Festive Sale,Net Banking,3,5,No,157.02,0.2333,2025-03,45-54,0
+ORD-00178,2025-08-26,C1374,27,East,Retail Store,USB-C Hub,Accessories,1,1782.35,0.1,1604.12,1176.35,Email Offer,Cash,3,4,No,427.77,0.2667,2025-08,25-34,0
+ORD-00179,2025-09-05,C1023,63,West,Website,Mechanical Keyboard,Accessories,2,3256.69,0.15,5536.37,4559.36,Referral,Credit Card,2,3,No,977.01,0.1765,2025-09,55+,0
+ORD-00180,2025-09-22,C1323,29,South,Website,USB-C Hub,Accessories,1,1989.47,0.15,1691.05,1313.05,Search Ads,UPI,2,3,No,378.0,0.2235,2025-09,25-34,0
+ORD-00181,2026-01-13,C1361,22,West,Mobile App,Smart Watch,Wearables,1,5786.25,0.05,5496.94,4339.68,Search Ads,Net Banking,2,4,No,1157.26,0.2105,2026-01,18-24,0
+ORD-00182,2025-02-28,C1179,40,West,Mobile App,Laptop Stand,Office,2,1317.08,0.25,1975.62,1659.52,Email Offer,Debit Card,3,5,No,316.1,0.16,2025-02,35-44,0
+ORD-00183,2025-11-11,C1073,50,South,Website,Bluetooth Headphones,Audio,1,2448.34,0.0,2448.34,1762.81,Search Ads,Cash,2,4,No,685.53,0.28,2025-11,45-54,0
+ORD-00184,2025-12-22,C1005,49,South,Mobile App,USB-C Hub,Accessories,1,2010.06,0.1,1809.05,1326.64,Email Offer,Cash,3,3,No,482.41,0.2667,2025-12,45-54,0
+ORD-00185,2025-12-01,C1016,32,West,Mobile App,Portable Speaker,Audio,1,2052.17,0.15,1744.34,1498.08,Email Offer,Cash,3,4,No,246.26,0.1412,2025-12,25-34,0
+ORD-00186,2026-01-16,C1388,20,North,Mobile App,Portable Speaker,Audio,1,2213.79,0.2,1771.03,1616.07,Referral,Net Banking,3,5,No,154.96,0.0875,2026-01,18-24,0
+ORD-00187,2025-02-22,C1045,46,East,Retail Store,Smart Watch,Wearables,1,6346.65,0.1,5711.98,4759.99,Referral,Cash,4,5,No,951.99,0.1667,2025-02,45-54,0
+ORD-00188,2025-12-19,C1292,40,West,Website,Mechanical Keyboard,Accessories,1,3670.0,0.05,3486.5,2569.0,Search Ads,Debit Card,3,4,No,917.5,0.2632,2025-12,35-44,0
+ORD-00189,2025-12-27,C1070,44,East,Mobile App,Laptop Stand,Office,4,1364.51,0.2,4366.43,3438.56,Influencer,Credit Card,4,5,No,927.87,0.2125,2025-12,35-44,0
+ORD-00190,2025-03-16,C1138,58,South,Mobile App,Mechanical Keyboard,Accessories,2,3542.35,0.15,6022.0,4959.28,Search Ads,UPI,3,4,No,1062.72,0.1765,2025-03,55+,0
+ORD-00191,2025-07-26,C1235,58,East,Website,Laptop Stand,Office,1,1347.0,0.1,1212.3,848.61,Festive Sale,Net Banking,6,4,No,363.69,0.3,2025-07,55+,0
+ORD-00192,2026-02-27,C1290,49,West,Website,Smart Watch,Wearables,3,6073.8,0.1,16399.26,13666.06,Organic,UPI,4,5,No,2733.2,0.1667,2026-02,45-54,0
+ORD-00193,2025-02-20,C1220,30,North,Website,Portable Speaker,Audio,3,2372.05,0.1,6404.54,5194.79,Email Offer,UPI,5,5,No,1209.75,0.1889,2025-02,25-34,0
+ORD-00194,2025-12-02,C1372,62,East,Website,Mechanical Keyboard,Accessories,2,3569.32,0.25,5353.98,4997.05,Festive Sale,UPI,3,5,No,356.93,0.0667,2025-12,55+,0
+ORD-00195,2025-01-01,C1005,62,West,Website,Smart Watch,Wearables,2,5946.27,0.2,9514.03,8919.41,Influencer,UPI,5,4,No,594.62,0.0625,2025-01,55+,0
+ORD-00196,2025-04-28,C1071,42,North,Mobile App,Webcam Pro,Office,1,3181.81,0.1,2863.63,2259.09,Referral,Credit Card,2,5,No,604.54,0.2111,2025-04,35-44,0
+ORD-00197,2025-02-05,C1045,24,South,Website,Wireless Mouse,Accessories,2,845.02,0.25,1267.53,1166.12,Email Offer,Debit Card,4,3,No,101.41,0.08,2025-02,18-24,0
+ORD-00198,2026-02-10,C1312,36,South,Website,USB-C Hub,Accessories,1,1929.39,0.2,1543.51,1273.4,Organic,Debit Card,2,5,No,270.11,0.175,2026-02,35-44,0
+ORD-00199,2025-04-16,C1256,58,West,Website,Smart Watch,Wearables,1,5627.3,0.25,4220.48,4220.47,Email Offer,Credit Card,8,4,No,0.01,0.0,2025-04,55+,0
+ORD-00200,2025-07-18,C1008,34,East,Mobile App,Webcam Pro,Office,1,3040.92,0.1,2736.83,2159.05,Festive Sale,Cash,3,3,No,577.78,0.2111,2025-07,25-34,0
+ORD-00201,2025-05-27,C1143,23,West,Mobile App,Webcam Pro,Office,1,3054.68,0.2,2443.74,2168.83,Organic,Debit Card,5,4,No,274.91,0.1125,2025-05,18-24,0
+ORD-00202,2025-07-20,C1223,25,East,Mobile App,Bluetooth Headphones,Audio,2,2333.55,0.15,3967.04,3360.31,Festive Sale,Credit Card,6,4,No,606.73,0.1529,2025-07,25-34,0
+ORD-00203,2025-03-03,C1370,34,South,Mobile App,Wireless Mouse,Accessories,1,801.2,0.1,721.08,552.83,Organic,UPI,4,3,No,168.25,0.2333,2025-03,25-34,0
+ORD-00204,2025-06-21,C1234,50,East,Mobile App,Webcam Pro,Office,1,2796.06,0.2,2236.85,1985.2,Influencer,Credit Card,2,4,No,251.65,0.1125,2025-06,45-54,0
+ORD-00205,2025-07-08,C1002,20,East,Mobile App,USB-C Hub,Accessories,3,1972.16,0.0,5916.48,3904.87,Search Ads,Credit Card,5,5,Yes,2011.61,0.34,2025-07,18-24,1
+ORD-00206,2026-03-16,C1293,41,West,Website,Wireless Mouse,Accessories,1,840.68,0.1,756.61,580.07,Referral,Credit Card,4,3,No,176.54,0.2333,2026-03,35-44,0
+ORD-00207,2025-04-25,C1284,47,West,Website,Wireless Mouse,Accessories,1,776.92,0.1,699.23,536.08,Referral,Credit Card,2,1,No,163.15,0.2333,2025-04,45-54,0
+ORD-00208,2025-08-26,C1210,19,West,Retail Store,Mechanical Keyboard,Accessories,3,3303.37,0.2,7928.09,6937.08,Search Ads,UPI,3,3,No,991.01,0.125,2025-08,18-24,0
+ORD-00209,2025-06-21,C1122,44,West,Retail Store,Wireless Mouse,Accessories,2,802.81,0.0,1605.62,1107.88,Search Ads,UPI,6,4,No,497.74,0.31,2025-06,35-44,0
+ORD-00210,2025-04-29,C1202,22,East,Website,Webcam Pro,Office,2,3064.84,0.15,5210.23,4352.08,Festive Sale,Credit Card,4,4,No,858.15,0.1647,2025-04,18-24,0
+ORD-00211,2025-05-02,C1168,38,East,Retail Store,Laptop Stand,Office,4,1367.98,0.15,4651.13,3447.31,Influencer,UPI,5,4,No,1203.82,0.2588,2025-05,35-44,0
+ORD-00212,2025-03-21,C1395,31,South,Website,Bluetooth Headphones,Audio,1,2442.34,0.0,2442.34,1758.48,Organic,UPI,3,4,No,683.86,0.28,2025-03,25-34,0
+ORD-00213,2025-03-22,C1203,50,North,Website,Laptop Stand,Office,3,1396.35,0.15,3560.69,2639.11,Festive Sale,Net Banking,4,2,No,921.58,0.2588,2025-03,45-54,0
+ORD-00214,2025-10-12,C1114,26,North,Mobile App,Smart Watch,Wearables,3,5578.27,0.1,15061.33,12551.11,Festive Sale,UPI,3,3,No,2510.22,0.1667,2025-10,25-34,0
+ORD-00215,2025-10-26,C1170,25,North,Website,Laptop Stand,Office,1,1214.2,0.15,1032.07,764.94,Search Ads,Net Banking,5,2,No,267.13,0.2588,2025-10,25-34,0
+ORD-00216,2025-09-12,C1229,27,West,Mobile App,Wireless Mouse,Accessories,1,770.23,0.05,731.72,531.46,Search Ads,Debit Card,6,1,No,200.26,0.2737,2025-09,25-34,0
+ORD-00217,2025-09-13,C1270,33,West,Website,Webcam Pro,Office,1,3067.45,0.15,2607.33,2177.89,Email Offer,Debit Card,5,4,No,429.44,0.1647,2025-09,25-34,0
+ORD-00218,2025-09-03,C1164,56,East,Retail Store,Portable Speaker,Audio,1,2086.35,0.15,1773.4,1523.03,Referral,UPI,1,3,No,250.37,0.1412,2025-09,55+,0
+ORD-00219,2026-02-19,C1137,52,East,Mobile App,Portable Speaker,Audio,5,2254.19,0.15,9580.31,8227.8,Festive Sale,Cash,9,5,No,1352.51,0.1412,2026-02,45-54,0
+ORD-00220,2026-03-10,C1163,62,East,Retail Store,Webcam Pro,Office,5,2872.59,0.05,13644.8,10197.68,Search Ads,Debit Card,6,4,No,3447.12,0.2526,2026-03,55+,0
+ORD-00221,2025-10-18,C1252,20,South,Retail Store,USB-C Hub,Accessories,3,1840.98,0.15,4694.5,3645.15,Organic,Debit Card,4,2,No,1049.35,0.2235,2025-10,18-24,0
+ORD-00222,2025-11-11,C1361,27,South,Website,Smart Watch,Wearables,1,5660.86,0.1,5094.77,4245.64,Festive Sale,UPI,6,5,No,849.13,0.1667,2025-11,25-34,0
+ORD-00223,2025-07-11,C1328,49,North,Website,Webcam Pro,Office,1,3214.3,0.05,3053.58,2282.15,Influencer,Debit Card,6,4,No,771.43,0.2526,2025-07,45-54,0
+ORD-00224,2025-04-25,C1360,54,West,Website,USB-C Hub,Accessories,2,1968.53,0.05,3740.21,2598.46,Search Ads,UPI,3,4,No,1141.75,0.3053,2025-04,45-54,0
+ORD-00225,2025-04-04,C1040,33,South,Mobile App,Mechanical Keyboard,Accessories,1,3404.48,0.15,2893.81,2383.14,Search Ads,Debit Card,1,4,No,510.67,0.1765,2025-04,25-34,0
+ORD-00226,2025-08-17,C1369,18,East,Website,Wireless Mouse,Accessories,2,835.69,0.1,1504.24,1153.26,Referral,Credit Card,1,2,No,350.98,0.2333,2025-08,18-24,0
+ORD-00227,2025-07-31,C1352,32,West,Website,Portable Speaker,Audio,1,2252.12,0.15,1914.3,1644.05,Organic,Debit Card,4,3,Yes,270.25,0.1412,2025-07,25-34,1
+ORD-00228,2025-02-23,C1048,39,East,Website,Bluetooth Headphones,Audio,1,2675.66,0.0,2675.66,1926.48,Organic,UPI,3,4,No,749.18,0.28,2025-02,35-44,0
+ORD-00229,2025-08-09,C1284,52,West,Website,USB-C Hub,Accessories,1,1871.44,0.05,1777.87,1235.15,Search Ads,Cash,4,3,No,542.72,0.3053,2025-08,45-54,0
+ORD-00230,2026-03-07,C1321,56,South,Website,Portable Speaker,Audio,1,2312.96,0.0,2312.96,1688.46,Referral,Credit Card,4,4,No,624.5,0.27,2026-03,55+,0
+ORD-00231,2025-11-23,C1136,23,North,Mobile App,Laptop Stand,Office,1,1381.07,0.25,1035.8,870.07,Email Offer,Net Banking,3,4,No,165.73,0.16,2025-11,18-24,0
+ORD-00232,2025-01-23,C1386,62,West,Mobile App,Laptop Stand,Office,1,1207.89,0.1,1087.1,760.97,Organic,Cash,5,4,No,326.13,0.3,2025-01,55+,0
+ORD-00233,2025-07-31,C1244,54,North,Retail Store,Smart Watch,Wearables,3,6178.56,0.15,15755.33,13901.75,Organic,UPI,7,5,No,1853.58,0.1176,2025-07,45-54,0
+ORD-00234,2025-09-15,C1065,20,North,Retail Store,USB-C Hub,Accessories,1,1992.72,0.05,1893.08,1315.2,Search Ads,Credit Card,5,4,No,577.88,0.3053,2025-09,18-24,0
+ORD-00235,2026-02-26,C1283,38,East,Website,USB-C Hub,Accessories,2,1916.13,0.25,2874.2,2529.29,Festive Sale,Cash,4,5,No,344.91,0.12,2026-02,35-44,0
+ORD-00236,2025-10-28,C1052,24,North,Website,Webcam Pro,Office,1,3122.98,0.2,2498.38,2217.32,Organic,Cash,4,4,No,281.06,0.1125,2025-10,18-24,0
+ORD-00237,2025-06-26,C1207,27,East,Website,Webcam Pro,Office,1,2841.71,0.1,2557.54,2017.61,Email Offer,Credit Card,2,4,No,539.93,0.2111,2025-06,25-34,0
+ORD-00238,2025-01-26,C1252,62,East,Retail Store,Portable Speaker,Audio,1,2121.72,0.1,1909.55,1548.85,Referral,Credit Card,5,5,No,360.7,0.1889,2025-01,55+,0
+ORD-00239,2025-06-03,C1209,49,East,Website,Portable Speaker,Audio,1,2178.49,0.0,2178.49,1590.3,Search Ads,UPI,5,5,No,588.19,0.27,2025-06,45-54,0
+ORD-00240,2025-06-09,C1103,21,South,Mobile App,Webcam Pro,Office,2,2851.58,0.15,4847.69,4049.24,Festive Sale,Credit Card,2,3,No,798.45,0.1647,2025-06,18-24,0
+ORD-00241,2025-05-21,C1191,49,West,Mobile App,Mechanical Keyboard,Accessories,2,3236.19,0.0,6472.38,4530.67,Influencer,Debit Card,5,4,No,1941.71,0.3,2025-05,45-54,0
+ORD-00242,2025-03-25,C1110,32,North,Website,Laptop Stand,Office,1,1357.16,0.05,1289.3,855.01,Organic,Net Banking,2,4,No,434.29,0.3368,2025-03,25-34,0
+ORD-00243,2025-09-20,C1115,34,North,Mobile App,Wireless Mouse,Accessories,1,837.46,0.05,795.59,577.85,Organic,Net Banking,3,4,No,217.74,0.2737,2025-09,25-34,0
+ORD-00244,2025-07-12,C1053,18,West,Website,Mechanical Keyboard,Accessories,1,3441.42,0.2,2753.14,2409.0,Organic,Cash,1,4,No,344.14,0.125,2025-07,18-24,0
+ORD-00245,2025-11-28,C1142,34,East,Mobile App,Laptop Stand,Office,1,1328.22,0.1,1195.4,836.78,Referral,Credit Card,3,4,No,358.62,0.3,2025-11,25-34,0
+ORD-00246,2025-01-30,C1215,43,East,Mobile App,Webcam Pro,Office,2,2883.56,0.15,4902.05,4094.66,Referral,Cash,3,4,Yes,807.39,0.1647,2025-01,35-44,1
+ORD-00247,2026-02-22,C1344,40,East,Mobile App,Smart Watch,Wearables,1,6272.46,0.2,5017.97,4704.34,Influencer,Debit Card,5,4,No,313.63,0.0625,2026-02,35-44,0
+ORD-00248,2025-02-19,C1172,59,South,Mobile App,Portable Speaker,Audio,2,2356.25,0.2,3770.0,3440.12,Search Ads,Debit Card,1,2,No,329.88,0.0875,2025-02,55+,0
+ORD-00249,2025-08-04,C1299,55,East,Website,Mechanical Keyboard,Accessories,1,3704.12,0.1,3333.71,2592.89,Email Offer,Net Banking,5,5,No,740.82,0.2222,2025-08,55+,0
+ORD-00250,2025-09-29,C1292,47,West,Website,Laptop Stand,Office,3,1266.3,0.05,3608.95,2393.31,Search Ads,UPI,2,3,No,1215.64,0.3368,2025-09,45-54,0
+ORD-00251,2025-09-07,C1087,54,South,Website,Mechanical Keyboard,Accessories,1,3336.3,0.15,2835.86,2335.41,Referral,Net Banking,4,5,No,500.45,0.1765,2025-09,45-54,0
+ORD-00252,2025-11-21,C1008,38,West,Website,Webcam Pro,Office,1,3109.68,0.15,2643.23,2207.87,Festive Sale,UPI,3,5,No,435.36,0.1647,2025-11,35-44,0
+ORD-00253,2025-11-17,C1157,28,South,Mobile App,Smart Watch,Wearables,1,6002.2,0.25,4501.65,4501.65,Festive Sale,Cash,5,2,Yes,0.0,0.0,2025-11,25-34,1
+ORD-00254,2025-09-26,C1085,43,West,Retail Store,Mechanical Keyboard,Accessories,5,3639.02,0.2,14556.08,12736.59,Email Offer,Credit Card,3,1,No,1819.49,0.125,2025-09,35-44,0
+ORD-00255,2026-01-11,C1320,21,South,Website,Wireless Mouse,Accessories,2,833.68,0.2,1333.89,1150.47,Email Offer,UPI,6,4,Yes,183.42,0.1375,2026-01,18-24,1
+ORD-00256,2025-08-02,C1323,18,West,Website,Portable Speaker,Audio,1,2267.68,0.05,2154.3,1655.4,Search Ads,Cash,6,4,No,498.9,0.2316,2025-08,18-24,0
+ORD-00257,2025-05-19,C1055,49,West,Retail Store,USB-C Hub,Accessories,1,1781.72,0.2,1425.38,1175.94,Festive Sale,Debit Card,4,3,No,249.44,0.175,2025-05,45-54,0
+ORD-00258,2025-12-27,C1170,33,East,Website,Webcam Pro,Office,2,3206.83,0.05,6092.98,4553.7,Influencer,Cash,6,1,No,1539.28,0.2526,2025-12,25-34,0
+ORD-00259,2025-12-09,C1132,59,South,Retail Store,Portable Speaker,Audio,3,2277.66,0.0,6832.98,4988.08,Influencer,Credit Card,3,3,No,1844.9,0.27,2025-12,55+,0
+ORD-00260,2026-03-24,C1389,20,East,Website,Wireless Mouse,Accessories,2,749.9,0.15,1274.83,1034.86,Influencer,Credit Card,5,1,No,239.97,0.1882,2026-03,18-24,0
+ORD-00261,2025-06-18,C1094,25,West,Retail Store,Mechanical Keyboard,Accessories,1,3675.33,0.0,3675.33,2572.73,Referral,Net Banking,3,4,No,1102.6,0.3,2025-06,25-34,0
+ORD-00262,2025-11-29,C1248,54,North,Website,USB-C Hub,Accessories,2,2023.95,0.25,3035.92,2671.61,Festive Sale,Debit Card,5,4,No,364.31,0.12,2025-11,45-54,0
+ORD-00263,2025-11-10,C1336,38,South,Mobile App,Wireless Mouse,Accessories,1,743.18,0.1,668.86,512.79,Email Offer,Cash,1,1,No,156.07,0.2333,2025-11,35-44,0
+ORD-00264,2025-04-25,C1329,42,North,Website,Mechanical Keyboard,Accessories,2,3590.65,0.15,6104.1,5026.91,Referral,UPI,3,3,No,1077.19,0.1765,2025-04,35-44,0
+ORD-00265,2025-01-06,C1143,21,West,Retail Store,USB-C Hub,Accessories,3,1820.27,0.2,4368.65,3604.14,Email Offer,Net Banking,2,4,No,764.51,0.175,2025-01,18-24,0
+ORD-00266,2025-08-16,C1212,20,North,Retail Store,Portable Speaker,Audio,1,2059.19,0.1,1853.27,1503.21,Email Offer,Cash,6,4,Yes,350.06,0.1889,2025-08,18-24,1
+ORD-00267,2025-11-13,C1115,47,South,Mobile App,Laptop Stand,Office,1,1366.61,0.1,1229.95,860.97,Referral,Net Banking,2,4,No,368.98,0.3,2025-11,45-54,0
+ORD-00268,2025-02-28,C1360,24,South,Website,Bluetooth Headphones,Audio,1,2507.79,0.1,2257.01,1805.61,Organic,Net Banking,2,2,No,451.4,0.2,2025-02,18-24,0
+ORD-00269,2025-02-24,C1098,63,South,Website,Laptop Stand,Office,4,1290.07,0.15,4386.24,3250.98,Search Ads,Cash,6,4,No,1135.26,0.2588,2025-02,55+,0
+ORD-00270,2025-03-05,C1025,53,West,Mobile App,Portable Speaker,Audio,4,2209.68,0.1,7954.85,6452.28,Email Offer,Cash,4,5,No,1502.57,0.1889,2025-03,45-54,0
+ORD-00271,2026-02-04,C1165,50,South,Mobile App,USB-C Hub,Accessories,1,1929.55,0.15,1640.12,1273.5,Influencer,Debit Card,2,5,No,366.62,0.2235,2026-02,45-54,0
+ORD-00272,2025-07-23,C1384,50,East,Website,Mechanical Keyboard,Accessories,1,3610.98,0.15,3069.33,2527.68,Organic,Cash,2,4,No,541.65,0.1765,2025-07,45-54,0
+ORD-00273,2025-11-20,C1364,59,South,Website,Smart Watch,Wearables,2,5646.42,0.1,10163.56,8469.64,Influencer,UPI,2,5,No,1693.92,0.1667,2025-11,55+,0
+ORD-00274,2026-01-25,C1274,36,West,Mobile App,Mechanical Keyboard,Accessories,4,3637.77,0.15,12368.42,10185.75,Influencer,Cash,3,5,No,2182.67,0.1765,2026-01,35-44,0
+ORD-00275,2025-02-24,C1083,36,West,Website,Wireless Mouse,Accessories,2,830.98,0.05,1578.86,1146.76,Referral,Cash,6,5,No,432.1,0.2737,2025-02,35-44,0
+ORD-00276,2025-01-17,C1288,42,West,Website,Mechanical Keyboard,Accessories,3,3634.71,0.2,8723.3,7632.9,Search Ads,Debit Card,5,3,No,1090.4,0.125,2025-01,35-44,0
+ORD-00277,2025-12-21,C1381,34,West,Website,Wireless Mouse,Accessories,4,741.96,0.1,2671.06,2047.8,Organic,Debit Card,5,3,No,623.26,0.2333,2025-12,25-34,0
+ORD-00278,2026-01-22,C1377,50,South,Website,Smart Watch,Wearables,1,6442.9,0.0,6442.9,4832.18,Search Ads,Unknown,2,3,Yes,1610.72,0.25,2026-01,45-54,1
+ORD-00279,2025-05-16,C1166,56,South,Mobile App,USB-C Hub,Accessories,1,1759.22,0.15,1495.34,1161.08,Email Offer,Cash,2,2,No,334.26,0.2235,2025-05,55+,0
+ORD-00280,2025-10-09,C1259,28,North,Mobile App,Mechanical Keyboard,Accessories,1,3510.54,0.05,3335.01,2457.38,Search Ads,Debit Card,2,4,No,877.63,0.2632,2025-10,25-34,0
+ORD-00281,2025-04-24,C1288,59,East,Website,Smart Watch,Wearables,1,5974.87,0.2,4779.9,4481.15,Organic,Cash,1,1,No,298.75,0.0625,2025-04,55+,0
+ORD-00282,2025-05-05,C1145,19,East,Website,Wireless Mouse,Accessories,3,804.14,0.2,1929.94,1664.58,Email Offer,Cash,5,5,No,265.36,0.1375,2025-05,18-24,0
+ORD-00283,2026-02-16,C1050,28,West,Website,Portable Speaker,Audio,3,2203.89,0.05,6281.09,4826.52,Referral,Credit Card,2,5,No,1454.57,0.2316,2026-02,25-34,0
+ORD-00284,2026-03-19,C1037,61,North,Website,Webcam Pro,Office,3,3150.99,0.15,8035.02,6711.61,Influencer,UPI,3,3,No,1323.41,0.1647,2026-03,55+,0
+ORD-00285,2025-02-14,C1133,44,North,Website,Bluetooth Headphones,Audio,1,2627.6,0.0,2627.6,1891.87,Organic,UPI,3,4,No,735.73,0.28,2025-02,35-44,0
+ORD-00286,2025-10-01,C1055,36,North,Mobile App,Wireless Mouse,Accessories,2,853.72,0.0,1707.44,1178.14,Referral,Debit Card,4,5,No,529.3,0.31,2025-10,35-44,0
+ORD-00287,2026-01-27,C1070,43,West,Website,Portable Speaker,Audio,2,2210.78,0.15,3758.33,3227.73,Search Ads,Debit Card,3,5,No,530.6,0.1412,2026-01,35-44,0
+ORD-00288,2025-01-06,C1044,37,North,Website,USB-C Hub,Accessories,2,1913.44,0.15,3252.85,2525.74,Organic,Debit Card,6,3,No,727.11,0.2235,2025-01,35-44,0
+ORD-00289,2025-04-19,C1344,54,South,Website,Webcam Pro,Office,1,2814.08,0.1,2532.67,1998.0,Search Ads,Cash,8,5,No,534.67,0.2111,2025-04,45-54,0
+ORD-00290,2025-02-07,C1344,59,North,Website,Laptop Stand,Office,1,1269.31,0.2,1015.45,799.66,Email Offer,Credit Card,2,3,No,215.79,0.2125,2025-02,55+,0
+ORD-00291,2025-06-12,C1187,38,West,Website,Portable Speaker,Audio,2,2222.06,0.2,3555.3,3244.21,Search Ads,Net Banking,3,5,No,311.09,0.0875,2025-06,35-44,0
+ORD-00292,2025-05-22,C1157,49,South,Mobile App,Mechanical Keyboard,Accessories,1,3419.92,0.25,2564.94,2393.94,Email Offer,UPI,6,4,No,171.0,0.0667,2025-05,45-54,0
+ORD-00293,2026-03-07,C1010,50,South,Retail Store,Laptop Stand,Office,1,1210.75,0.0,1210.75,762.77,Influencer,UPI,1,4,No,447.98,0.37,2026-03,45-54,0
+ORD-00294,2025-10-10,C1302,36,West,Mobile App,Laptop Stand,Office,1,1380.36,0.15,1173.31,869.62,Search Ads,Net Banking,2,3,No,303.69,0.2588,2025-10,35-44,0
+ORD-00295,2025-07-06,C1264,26,South,Retail Store,Wireless Mouse,Accessories,3,756.28,0.2,1815.07,1565.5,Influencer,Net Banking,6,4,No,249.57,0.1375,2025-07,25-34,0
+ORD-00296,2025-07-03,C1343,31,South,Mobile App,Wireless Mouse,Accessories,1,765.0,0.1,688.5,527.85,Referral,Net Banking,3,4,No,160.65,0.2333,2025-07,25-34,0
+ORD-00297,2025-08-21,C1380,34,North,Retail Store,Wireless Mouse,Accessories,1,841.14,0.2,672.91,580.39,Influencer,UPI,3,4,No,92.52,0.1375,2025-08,25-34,0
+ORD-00298,2025-09-22,C1177,49,West,Retail Store,Laptop Stand,Office,1,1364.93,0.15,1160.19,859.91,Referral,Cash,5,5,No,300.28,0.2588,2025-09,45-54,0
+ORD-00299,2025-03-13,C1081,41,South,Website,Portable Speaker,Audio,1,2075.94,0.1,1868.35,1515.44,Search Ads,UPI,3,4,No,352.91,0.1889,2025-03,35-44,0
+ORD-00300,2025-09-04,C1294,55,West,Website,Portable Speaker,Audio,1,2038.26,0.15,1732.52,1487.93,Festive Sale,Cash,2,3,No,244.59,0.1412,2025-09,55+,0
+ORD-00301,2025-03-17,C1327,19,South,Website,Wireless Mouse,Accessories,1,858.99,0.15,730.14,592.7,Organic,Net Banking,5,5,No,137.44,0.1882,2025-03,18-24,0
+ORD-00302,2025-11-07,C1393,29,West,Website,Portable Speaker,Audio,3,2302.66,0.2,5526.38,5042.82,Search Ads,Debit Card,1,4,No,483.56,0.0875,2025-11,25-34,0
+ORD-00303,2025-08-21,C1259,61,South,Website,Bluetooth Headphones,Audio,1,2508.08,0.0,2508.08,1805.82,Search Ads,Cash,5,4,No,702.26,0.28,2025-08,55+,0
+ORD-00304,2025-01-20,C1348,59,North,Mobile App,Bluetooth Headphones,Audio,1,2629.96,0.2,2103.97,1893.57,Organic,Cash,5,4,No,210.4,0.1,2025-01,55+,0
+ORD-00305,2025-08-08,C1357,54,West,Mobile App,Smart Watch,Wearables,1,6390.48,0.2,5112.38,4792.86,Influencer,Debit Card,3,2,No,319.52,0.0625,2025-08,45-54,0
+ORD-00306,2025-11-03,C1267,18,East,Website,Webcam Pro,Office,2,3009.82,0.0,6019.64,4273.94,Organic,Net Banking,4,4,No,1745.7,0.29,2025-11,18-24,0
+ORD-00307,2025-07-05,C1188,57,South,Website,Bluetooth Headphones,Audio,2,2468.44,0.1,4443.19,3554.55,Organic,Net Banking,4,3,No,888.64,0.2,2025-07,55+,0
+ORD-00308,2025-04-02,C1071,60,West,Website,Mechanical Keyboard,Accessories,1,3441.97,0.1,3097.77,2409.38,Influencer,Credit Card,2,3,No,688.39,0.2222,2025-04,55+,0
+ORD-00309,2025-02-21,C1027,28,West,Mobile App,Smart Watch,Wearables,3,6176.15,0.2,14822.76,13896.34,Influencer,Cash,5,4,No,926.42,0.0625,2025-02,25-34,0
+ORD-00310,2025-08-11,C1206,57,North,Website,Bluetooth Headphones,Audio,1,2671.21,0.25,2003.41,1923.27,Festive Sale,UPI,1,4,No,80.14,0.04,2025-08,55+,0
+ORD-00311,2026-02-01,C1307,50,West,Website,USB-C Hub,Accessories,1,1806.25,0.2,1445.0,1192.13,Referral,UPI,4,4,No,252.87,0.175,2026-02,45-54,0
+ORD-00312,2025-03-22,C1378,63,East,Mobile App,Bluetooth Headphones,Audio,1,2506.09,0.15,2130.18,1804.39,Email Offer,Cash,4,2,No,325.79,0.1529,2025-03,55+,0
+ORD-00313,2025-10-26,C1207,54,East,Retail Store,Mechanical Keyboard,Accessories,1,3473.67,0.2,2778.94,2431.57,Search Ads,Debit Card,2,1,No,347.37,0.125,2025-10,45-54,0
+ORD-00314,2025-06-24,C1194,54,East,Retail Store,Bluetooth Headphones,Audio,3,2576.65,0.2,6183.96,5565.55,Referral,Net Banking,4,4,No,618.41,0.1,2025-06,45-54,0
+ORD-00315,2025-12-15,C1113,61,North,Mobile App,Portable Speaker,Audio,1,2300.56,0.15,1955.48,1679.41,Influencer,UPI,2,5,No,276.07,0.1412,2025-12,55+,0
+ORD-00316,2025-12-25,C1182,31,South,Website,Laptop Stand,Office,1,1294.13,0.15,1100.01,815.3,Festive Sale,Credit Card,4,5,No,284.71,0.2588,2025-12,25-34,0
+ORD-00317,2025-09-13,C1128,57,South,Mobile App,Smart Watch,Wearables,3,5713.7,0.05,16284.04,12855.83,Search Ads,Net Banking,4,4,No,3428.21,0.2105,2025-09,55+,0
+ORD-00318,2025-11-11,C1392,50,North,Retail Store,Wireless Mouse,Accessories,1,797.82,0.2,638.26,550.5,Email Offer,Credit Card,4,3,No,87.76,0.1375,2025-11,45-54,0
+ORD-00319,2025-01-28,C1062,62,West,Retail Store,Webcam Pro,Office,1,2978.46,0.15,2531.69,2114.71,Email Offer,Cash,6,4,No,416.98,0.1647,2025-01,55+,0
+ORD-00320,2025-02-21,C1242,57,East,Mobile App,Mechanical Keyboard,Accessories,1,3351.84,0.2,2681.47,2346.29,Referral,Credit Card,4,4,No,335.18,0.125,2025-02,55+,0
+ORD-00321,2025-08-03,C1295,61,East,Retail Store,Mechanical Keyboard,Accessories,1,3292.5,0.05,3127.88,2304.75,Organic,Net Banking,4,3,No,823.13,0.2632,2025-08,55+,0
+ORD-00322,2025-04-11,C1323,51,South,Mobile App,USB-C Hub,Accessories,1,2049.57,0.15,1742.13,1352.72,Email Offer,Debit Card,5,4,No,389.41,0.2235,2025-04,45-54,0
+ORD-00323,2025-05-09,C1323,24,West,Website,Wireless Mouse,Accessories,1,796.0,0.05,756.2,549.24,Referral,Debit Card,2,4,No,206.96,0.2737,2025-05,18-24,0
+ORD-00324,2025-01-11,C1333,59,North,Website,Webcam Pro,Office,2,3035.88,0.2,4857.41,4310.95,Search Ads,Debit Card,5,4,No,546.46,0.1125,2025-01,55+,0
+ORD-00325,2025-06-16,C1328,39,West,Retail Store,Portable Speaker,Audio,1,2328.57,0.15,1979.28,1699.85,Email Offer,Credit Card,1,4,No,279.43,0.1412,2025-06,35-44,0
+ORD-00326,2025-06-25,C1139,46,East,Website,Smart Watch,Wearables,1,6137.84,0.1,5524.06,4603.38,Organic,Cash,6,5,No,920.68,0.1667,2025-06,45-54,0
+ORD-00327,2025-09-24,C1129,62,West,Website,Portable Speaker,Audio,3,2105.63,0.05,6001.05,4611.33,Influencer,Cash,3,5,No,1389.72,0.2316,2025-09,55+,0
+ORD-00328,2025-01-28,C1044,59,West,Mobile App,Wireless Mouse,Accessories,5,814.1,0.0,4070.5,2808.64,Referral,Credit Card,4,5,No,1261.86,0.31,2025-01,55+,0
+ORD-00329,2026-01-13,C1167,48,West,Mobile App,Laptop Stand,Office,1,1332.99,0.1,1199.69,839.78,Festive Sale,Cash,6,4,No,359.91,0.3,2026-01,45-54,0
+ORD-00330,2025-04-01,C1117,23,West,Mobile App,Portable Speaker,Audio,2,2192.54,0.1,3946.57,3201.11,Referral,Credit Card,3,4,No,745.46,0.1889,2025-04,18-24,0
+ORD-00331,2025-06-05,C1274,18,North,Mobile App,Wireless Mouse,Accessories,2,771.74,0.05,1466.31,1065.0,Referral,Debit Card,4,5,No,401.31,0.2737,2025-06,18-24,0
+ORD-00332,2025-11-02,C1367,59,North,Mobile App,Smart Watch,Wearables,1,5758.94,0.25,4319.2,4319.21,Email Offer,UPI,2,4,No,-0.01,-0.0,2025-11,55+,0
+ORD-00333,2025-08-05,C1094,26,East,Website,Smart Watch,Wearables,2,6338.29,0.15,10775.09,9507.43,Email Offer,Net Banking,3,3,No,1267.66,0.1176,2025-08,25-34,0
+ORD-00334,2025-04-07,C1145,35,North,Website,Mechanical Keyboard,Accessories,4,3763.43,0.0,15053.72,10537.61,Search Ads,Credit Card,3,3,No,4516.11,0.3,2025-04,35-44,0
+ORD-00335,2025-02-16,C1017,39,North,Mobile App,USB-C Hub,Accessories,1,1887.97,0.2,1510.38,1246.06,Email Offer,UPI,4,2,No,264.32,0.175,2025-02,35-44,0
+ORD-00336,2025-10-06,C1366,33,South,Website,Portable Speaker,Audio,3,2365.98,0.1,6388.15,5181.5,Festive Sale,UPI,5,4,No,1206.65,0.1889,2025-10,25-34,0
+ORD-00337,2025-04-12,C1082,58,North,Mobile App,Portable Speaker,Audio,5,2352.48,0.2,9409.92,8586.54,Email Offer,Debit Card,3,5,No,823.38,0.0875,2025-04,55+,0
+ORD-00338,2025-04-12,C1167,18,North,Retail Store,Mechanical Keyboard,Accessories,1,3573.41,0.0,3573.41,2501.39,Search Ads,Net Banking,3,3,No,1072.02,0.3,2025-04,18-24,0
+ORD-00339,2026-02-09,C1191,23,North,Retail Store,Smart Watch,Wearables,2,6091.35,0.15,10355.3,9137.02,Influencer,UPI,3,3,No,1218.28,0.1176,2026-02,18-24,0
+ORD-00340,2025-01-31,C1286,59,South,Mobile App,Mechanical Keyboard,Accessories,3,3396.4,0.15,8660.82,7132.45,Email Offer,Credit Card,2,5,No,1528.37,0.1765,2025-01,55+,0
+ORD-00341,2025-01-11,C1278,62,East,Mobile App,Webcam Pro,Office,1,3027.32,0.25,2270.49,2149.4,Email Offer,Debit Card,2,4,No,121.09,0.0533,2025-01,55+,0
+ORD-00342,2026-03-21,C1001,58,North,Mobile App,USB-C Hub,Accessories,1,1858.62,0.1,1672.76,1226.69,Organic,Cash,3,4,No,446.07,0.2667,2026-03,55+,0
+ORD-00343,2026-03-15,C1255,53,South,Website,Mechanical Keyboard,Accessories,1,3512.48,0.15,2985.61,2458.73,Email Offer,Cash,3,3,No,526.88,0.1765,2026-03,45-54,0
+ORD-00344,2025-12-04,C1099,24,North,Retail Store,Bluetooth Headphones,Audio,1,2341.88,0.0,2341.88,1686.16,Search Ads,Net Banking,4,1,No,655.72,0.28,2025-12,18-24,0
+ORD-00345,2025-09-27,C1041,47,North,Website,Laptop Stand,Office,2,1331.37,0.15,2263.33,1677.53,Festive Sale,Debit Card,1,5,No,585.8,0.2588,2025-09,45-54,0
+ORD-00346,2026-02-11,C1050,24,East,Mobile App,Wireless Mouse,Accessories,2,857.88,0.15,1458.4,1183.88,Festive Sale,Credit Card,2,5,No,274.52,0.1882,2026-02,18-24,0
+ORD-00347,2025-09-27,C1346,47,South,Mobile App,Smart Watch,Wearables,2,6072.49,0.0,12144.98,9108.73,Influencer,Net Banking,6,5,No,3036.25,0.25,2025-09,45-54,0
+ORD-00348,2025-09-16,C1167,41,South,Mobile App,Mechanical Keyboard,Accessories,2,3527.04,0.1,6348.67,4937.85,Referral,Debit Card,5,4,No,1410.82,0.2222,2025-09,35-44,0
+ORD-00349,2025-11-08,C1230,43,South,Website,Smart Watch,Wearables,2,6442.11,0.1,11595.8,9663.17,Referral,Debit Card,4,1,Yes,1932.63,0.1667,2025-11,35-44,1
+ORD-00350,2025-01-04,C1293,54,South,Website,Laptop Stand,Office,1,1301.34,0.1,1171.21,819.85,Organic,Credit Card,4,3,Yes,351.36,0.3,2025-01,45-54,1
+ORD-00351,2025-03-12,C1205,54,East,Retail Store,Laptop Stand,Office,1,1214.18,0.1,1092.76,764.93,Referral,Net Banking,3,5,No,327.83,0.3,2025-03,45-54,0
+ORD-00352,2026-02-27,C1172,40,East,Website,Bluetooth Headphones,Audio,3,2667.68,0.1,7202.74,5762.19,Festive Sale,Credit Card,1,5,No,1440.55,0.2,2026-02,35-44,0
+ORD-00353,2026-01-18,C1168,50,West,Website,Wireless Mouse,Accessories,2,807.3,0.1,1453.14,1114.07,Organic,Cash,1,5,No,339.07,0.2333,2026-01,45-54,0
+ORD-00354,2025-10-22,C1244,54,South,Website,Bluetooth Headphones,Audio,3,2433.49,0.05,6935.45,5256.35,Search Ads,UPI,1,5,No,1679.1,0.2421,2025-10,45-54,0
+ORD-00355,2025-07-24,C1101,53,South,Mobile App,Webcam Pro,Office,1,3072.05,0.25,2304.04,2181.16,Email Offer,Debit Card,4,4,No,122.88,0.0533,2025-07,45-54,0
+ORD-00356,2025-12-17,C1305,59,North,Mobile App,Bluetooth Headphones,Audio,1,2427.32,0.1,2184.59,1747.67,Search Ads,Cash,4,1,No,436.92,0.2,2025-12,55+,0
+ORD-00357,2026-02-25,C1080,23,South,Website,Portable Speaker,Audio,4,2264.22,0.05,8604.04,6611.51,Search Ads,UPI,7,3,Yes,1992.53,0.2316,2026-02,18-24,1
+ORD-00358,2025-06-25,C1105,52,East,Website,Bluetooth Headphones,Audio,1,2514.2,0.05,2388.49,1810.22,Influencer,Cash,3,4,No,578.27,0.2421,2025-06,45-54,0
+ORD-00359,2026-01-09,C1146,30,North,Website,USB-C Hub,Accessories,4,1798.83,0.2,5756.26,4748.91,Festive Sale,UPI,6,5,No,1007.35,0.175,2026-01,25-34,0
+ORD-00360,2025-07-18,C1261,63,East,Retail Store,Laptop Stand,Office,1,1398.72,0.15,1188.91,881.19,Search Ads,Cash,4,2,No,307.72,0.2588,2025-07,55+,0
+ORD-00361,2025-02-15,C1157,39,South,Mobile App,USB-C Hub,Accessories,1,2027.3,0.15,1723.2,1338.02,Festive Sale,Debit Card,6,4,No,385.18,0.2235,2025-02,35-44,0
+ORD-00362,2025-05-01,C1116,27,North,Mobile App,Laptop Stand,Office,3,1392.34,0.0,4177.02,2631.53,Organic,UPI,4,4,No,1545.49,0.37,2025-05,25-34,0
+ORD-00363,2026-01-09,C1169,46,South,Website,Webcam Pro,Office,2,3195.61,0.15,5432.54,4537.76,Referral,Credit Card,5,4,No,894.78,0.1647,2026-01,45-54,0
+ORD-00364,2025-06-08,C1081,38,West,Retail Store,USB-C Hub,Accessories,5,2030.57,0.05,9645.21,6700.89,Influencer,UPI,5,2,No,2944.32,0.3053,2025-06,35-44,0
+ORD-00365,2025-04-05,C1327,35,South,Mobile App,Mechanical Keyboard,Accessories,2,3467.09,0.2,5547.34,4853.93,Email Offer,Cash,4,3,No,693.41,0.125,2025-04,35-44,0
+ORD-00366,2025-05-17,C1069,50,South,Website,Smart Watch,Wearables,1,6267.59,0.0,6267.59,4700.69,Influencer,Debit Card,4,5,No,1566.9,0.25,2025-05,45-54,0
+ORD-00367,2025-04-05,C1008,35,West,Mobile App,Webcam Pro,Office,1,3125.94,0.25,2344.46,2219.41,Festive Sale,UPI,3,5,No,125.05,0.0533,2025-04,35-44,0
+ORD-00368,2025-04-01,C1312,42,West,Mobile App,Portable Speaker,Audio,3,2296.18,0.25,5166.4,5028.64,Email Offer,Cash,3,5,No,137.76,0.0267,2025-04,35-44,0
+ORD-00369,2025-11-01,C1203,20,North,Website,Wireless Mouse,Accessories,3,801.39,0.0,2404.17,1658.88,Search Ads,Net Banking,3,4,No,745.29,0.31,2025-11,18-24,0
+ORD-00370,2025-07-23,C1331,46,East,Mobile App,Laptop Stand,Office,1,1291.43,0.15,1097.72,813.6,Festive Sale,Cash,3,2,No,284.12,0.2588,2025-07,45-54,0
+ORD-00371,2025-12-23,C1047,34,West,Website,USB-C Hub,Accessories,1,2015.23,0.15,1712.95,1330.05,Email Offer,UPI,3,4,No,382.9,0.2235,2025-12,25-34,0
+ORD-00372,2025-02-16,C1262,57,West,Mobile App,Bluetooth Headphones,Audio,1,2615.38,0.15,2223.07,1883.07,Influencer,UPI,3,5,No,340.0,0.1529,2025-02,55+,0
+ORD-00373,2026-01-29,C1092,63,East,Mobile App,USB-C Hub,Accessories,2,2011.06,0.05,3821.01,2654.6,Search Ads,Credit Card,3,2,No,1166.41,0.3053,2026-01,55+,0
+ORD-00374,2025-03-02,C1279,18,South,Website,USB-C Hub,Accessories,2,2006.99,0.25,3010.48,2649.22,Email Offer,Cash,1,4,No,361.26,0.12,2025-03,18-24,0
+ORD-00375,2025-12-04,C1143,57,West,Website,Portable Speaker,Audio,1,2333.46,0.15,1983.44,1703.43,Festive Sale,Debit Card,4,4,No,280.01,0.1412,2025-12,55+,0
+ORD-00376,2025-01-19,C1026,24,North,Mobile App,USB-C Hub,Accessories,3,2026.73,0.1,5472.17,4012.92,Referral,Debit Card,5,4,No,1459.25,0.2667,2025-01,18-24,0
+ORD-00377,2025-11-09,C1195,22,West,Mobile App,USB-C Hub,Accessories,1,1845.17,0.2,1476.14,1217.81,Festive Sale,Debit Card,5,5,No,258.33,0.175,2025-11,18-24,0
+ORD-00378,2025-06-18,C1323,51,South,Mobile App,Webcam Pro,Office,2,3109.23,0.0,6218.46,4415.11,Organic,Cash,4,5,No,1803.35,0.29,2025-06,45-54,0
+ORD-00379,2026-02-08,C1182,26,West,Mobile App,Laptop Stand,Office,1,1401.89,0.2,1121.51,883.19,Organic,Cash,3,4,No,238.32,0.2125,2026-02,25-34,0
+ORD-00380,2025-04-30,C1316,44,South,Website,Laptop Stand,Office,1,1371.34,0.0,1371.34,863.95,Influencer,Credit Card,2,4,No,507.39,0.37,2025-04,35-44,0
+ORD-00381,2025-01-06,C1393,18,East,Website,Smart Watch,Wearables,1,6046.99,0.1,5442.29,4535.24,Organic,Credit Card,2,3,No,907.05,0.1667,2025-01,18-24,0
+ORD-00382,2025-04-10,C1322,47,East,Retail Store,Mechanical Keyboard,Accessories,1,3488.64,0.15,2965.34,2442.05,Festive Sale,Net Banking,5,5,No,523.29,0.1765,2025-04,45-54,0
+ORD-00383,2026-02-06,C1107,54,North,Retail Store,Webcam Pro,Office,1,3016.22,0.1,2714.6,2141.52,Organic,Debit Card,5,5,No,573.08,0.2111,2026-02,45-54,0
+ORD-00384,2026-03-07,C1096,56,East,Retail Store,Wireless Mouse,Accessories,2,812.51,0.05,1543.77,1121.27,Organic,Debit Card,3,3,No,422.5,0.2737,2026-03,55+,0
+ORD-00385,2025-12-30,C1155,31,East,Website,Wireless Mouse,Accessories,1,792.85,0.05,753.21,547.07,Referral,UPI,3,4,No,206.14,0.2737,2025-12,25-34,0
+ORD-00386,2025-08-16,C1074,24,West,Retail Store,Wireless Mouse,Accessories,1,834.22,0.2,667.38,575.61,Email Offer,Credit Card,4,5,No,91.77,0.1375,2025-08,18-24,0
+ORD-00387,2025-04-16,C1352,56,West,Website,Wireless Mouse,Accessories,3,854.27,0.2,2050.25,1768.34,Festive Sale,Debit Card,4,5,No,281.91,0.1375,2025-04,55+,0
+ORD-00388,2025-01-12,C1226,60,South,Website,Laptop Stand,Office,1,1261.41,0.1,1135.27,794.69,Organic,UPI,3,3,No,340.58,0.3,2025-01,55+,0
+ORD-00389,2025-01-08,C1146,54,South,Mobile App,Bluetooth Headphones,Audio,2,2676.24,0.1,4817.23,3853.79,Search Ads,UPI,3,3,Yes,963.44,0.2,2025-01,45-54,1
+ORD-00390,2025-03-08,C1092,63,West,Retail Store,Wireless Mouse,Accessories,1,789.6,0.1,710.64,544.82,Festive Sale,Net Banking,3,4,No,165.82,0.2333,2025-03,55+,0
+ORD-00391,2025-11-12,C1048,62,East,Website,Mechanical Keyboard,Accessories,1,3536.95,0.25,2652.71,2475.87,Festive Sale,Net Banking,3,4,No,176.84,0.0667,2025-11,55+,0
+ORD-00392,2025-04-29,C1341,39,South,Retail Store,Smart Watch,Wearables,2,6190.6,0.15,10524.02,9285.9,Email Offer,Net Banking,1,5,No,1238.12,0.1176,2025-04,35-44,0
+ORD-00393,2025-01-16,C1310,54,West,Website,Bluetooth Headphones,Audio,1,2606.13,0.05,2475.82,1876.42,Referral,Cash,5,3,No,599.4,0.2421,2025-01,45-54,0
+ORD-00394,2025-11-29,C1281,28,East,Mobile App,Bluetooth Headphones,Audio,1,2547.33,0.15,2165.23,1834.08,Search Ads,Credit Card,1,5,No,331.15,0.1529,2025-11,25-34,0
+ORD-00395,2026-02-21,C1040,63,West,Mobile App,Webcam Pro,Office,1,3077.03,0.05,2923.18,2184.69,Search Ads,UPI,2,4,No,738.49,0.2526,2026-02,55+,0
+ORD-00396,2026-02-25,C1331,60,South,Website,Portable Speaker,Audio,1,2138.28,0.25,1603.71,1560.94,Festive Sale,Cash,3,2,No,42.77,0.0267,2026-02,55+,0
+ORD-00397,2026-01-22,C1349,38,South,Mobile App,Wireless Mouse,Accessories,1,760.09,0.25,570.07,524.46,Email Offer,Debit Card,2,4,No,45.61,0.08,2026-01,35-44,0
+ORD-00398,2025-02-15,C1028,18,West,Retail Store,Wireless Mouse,Accessories,3,850.27,0.0,2550.81,1760.07,Referral,UPI,1,5,No,790.74,0.31,2025-02,18-24,0
+ORD-00399,2026-03-17,C1196,43,North,Website,Laptop Stand,Office,2,1261.2,0.15,2144.04,1589.11,Influencer,Cash,3,4,No,554.93,0.2588,2026-03,35-44,0
+ORD-00400,2025-07-16,C1332,19,West,Website,Mechanical Keyboard,Accessories,5,3225.58,0.05,15321.5,11289.51,Search Ads,Net Banking,2,3,No,4031.99,0.2632,2025-07,18-24,0
+ORD-00401,2025-03-11,C1218,57,South,Mobile App,Bluetooth Headphones,Audio,1,2540.76,0.15,2159.65,1829.34,Influencer,Credit Card,2,3,No,330.31,0.1529,2025-03,55+,0
+ORD-00402,2025-04-06,C1211,52,North,Mobile App,Webcam Pro,Office,3,2999.83,0.05,8549.52,6389.64,Influencer,Cash,3,4,Yes,2159.88,0.2526,2025-04,45-54,1
+ORD-00403,2025-09-05,C1270,35,North,Mobile App,Mechanical Keyboard,Accessories,4,3627.87,0.0,14511.48,10158.03,Search Ads,UPI,4,4,No,4353.45,0.3,2025-09,35-44,0
+ORD-00404,2025-12-17,C1241,54,North,Retail Store,Laptop Stand,Office,2,1301.63,0.25,1952.45,1640.06,Email Offer,Debit Card,3,5,No,312.39,0.16,2025-12,45-54,0
+ORD-00405,2025-03-27,C1087,54,East,Mobile App,Wireless Mouse,Accessories,2,795.57,0.0,1591.14,1097.89,Influencer,Net Banking,5,2,No,493.25,0.31,2025-03,45-54,0
+ORD-00406,2025-02-12,C1132,18,North,Retail Store,USB-C Hub,Accessories,1,1832.45,0.05,1740.83,1209.42,Organic,Credit Card,2,5,No,531.41,0.3053,2025-02,18-24,0
+ORD-00407,2025-12-04,C1017,39,East,Mobile App,Portable Speaker,Audio,1,2304.33,0.15,1958.68,1682.16,Email Offer,Net Banking,1,5,No,276.52,0.1412,2025-12,35-44,0
+ORD-00408,2026-01-30,C1177,21,South,Mobile App,Webcam Pro,Office,2,3036.31,0.05,5768.99,4311.56,Search Ads,UPI,2,4,No,1457.43,0.2526,2026-01,18-24,0
+ORD-00409,2025-03-27,C1362,42,West,Mobile App,Portable Speaker,Audio,1,2156.71,0.2,1725.37,1574.4,Search Ads,Net Banking,4,4,No,150.97,0.0875,2025-03,35-44,0
+ORD-00410,2025-12-14,C1137,24,North,Website,Mechanical Keyboard,Accessories,2,3406.61,0.2,5450.58,4769.25,Email Offer,Credit Card,4,3,No,681.33,0.125,2025-12,18-24,0
+ORD-00411,2026-01-11,C1005,22,East,Mobile App,Smart Watch,Wearables,5,5529.23,0.1,24881.54,20734.62,Organic,Debit Card,5,1,No,4146.92,0.1667,2026-01,18-24,0
+ORD-00412,2025-05-09,C1112,56,North,Website,Smart Watch,Wearables,1,6377.15,0.2,5101.72,4782.86,Influencer,UPI,5,4,No,318.86,0.0625,2025-05,55+,0
+ORD-00413,2026-03-15,C1357,29,West,Mobile App,USB-C Hub,Accessories,3,2019.32,0.2,4846.37,3998.26,Search Ads,Net Banking,6,3,No,848.11,0.175,2026-03,25-34,0
+ORD-00414,2025-12-21,C1031,34,East,Website,Mechanical Keyboard,Accessories,1,3405.31,0.25,2553.98,2383.72,Email Offer,UPI,3,5,No,170.26,0.0667,2025-12,25-34,0
+ORD-00415,2025-09-09,C1112,57,West,Website,Smart Watch,Wearables,1,6256.92,0.05,5944.07,4692.69,Organic,UPI,4,4,No,1251.38,0.2105,2025-09,55+,0
+ORD-00416,2025-10-20,C1359,39,West,Website,Laptop Stand,Office,1,1250.46,0.25,937.84,787.79,Festive Sale,Net Banking,3,5,No,150.05,0.16,2025-10,35-44,0
+ORD-00417,2025-09-02,C1197,62,West,Retail Store,Webcam Pro,Office,3,2867.45,0.0,8602.35,6107.67,Organic,Debit Card,1,5,No,2494.68,0.29,2025-09,55+,0
+ORD-00418,2025-12-16,C1175,23,West,Website,Laptop Stand,Office,5,1306.2,0.0,6531.0,4114.52,Referral,Credit Card,2,5,No,2416.48,0.37,2025-12,18-24,0
+ORD-00419,2025-04-01,C1324,46,West,Mobile App,Wireless Mouse,Accessories,1,797.27,0.2,637.82,550.12,Festive Sale,Credit Card,5,5,No,87.7,0.1375,2025-04,45-54,0
+ORD-00420,2025-09-08,C1231,19,North,Mobile App,Webcam Pro,Office,2,3222.1,0.15,5477.57,4575.39,Organic,UPI,6,1,No,902.18,0.1647,2025-09,18-24,0
+ORD-00421,2025-07-27,C1275,27,South,Mobile App,Bluetooth Headphones,Audio,2,2647.02,0.15,4499.93,3811.71,Influencer,UPI,6,5,No,688.22,0.1529,2025-07,25-34,0
+ORD-00422,2025-08-30,C1158,24,South,Mobile App,Wireless Mouse,Accessories,1,741.47,0.05,704.4,511.61,Influencer,UPI,5,4,No,192.79,0.2737,2025-08,18-24,0
+ORD-00423,2026-02-23,C1378,61,North,Mobile App,Bluetooth Headphones,Audio,3,2469.5,0.15,6297.22,5334.11,Festive Sale,Credit Card,3,4,No,963.11,0.1529,2026-02,55+,0
+ORD-00424,2026-01-27,C1284,28,South,Website,Wireless Mouse,Accessories,1,824.09,0.15,700.48,568.63,Email Offer,Credit Card,2,4,No,131.85,0.1882,2026-01,25-34,0
+ORD-00425,2025-02-21,C1362,59,South,Website,Webcam Pro,Office,1,3203.48,0.15,2722.96,2274.47,Festive Sale,Credit Card,3,4,No,448.49,0.1647,2025-02,55+,0
+ORD-00426,2025-04-16,C1306,29,East,Mobile App,USB-C Hub,Accessories,1,1957.24,0.05,1859.38,1291.78,Organic,Debit Card,1,5,No,567.6,0.3053,2025-04,25-34,0
+ORD-00427,2025-06-28,C1277,50,North,Mobile App,Webcam Pro,Office,1,3173.05,0.2,2538.44,2252.87,Festive Sale,UPI,3,3,No,285.57,0.1125,2025-06,45-54,0
+ORD-00428,2026-02-12,C1223,34,West,Mobile App,USB-C Hub,Accessories,1,1833.69,0.2,1466.95,1210.24,Festive Sale,UPI,3,4,No,256.71,0.175,2026-02,25-34,0
+ORD-00429,2025-02-23,C1370,46,South,Website,Wireless Mouse,Accessories,1,849.51,0.1,764.56,586.16,Festive Sale,Credit Card,4,4,No,178.4,0.2333,2025-02,45-54,0
+ORD-00430,2026-02-03,C1113,22,East,Website,Bluetooth Headphones,Audio,1,2449.23,0.15,2081.85,1763.45,Search Ads,Credit Card,6,4,No,318.4,0.1529,2026-02,18-24,0
+ORD-00431,2025-04-21,C1139,30,South,Website,Portable Speaker,Audio,1,2149.25,0.05,2041.79,1568.95,Influencer,Net Banking,3,4,Yes,472.84,0.2316,2025-04,25-34,1
+ORD-00432,2025-08-23,C1327,57,South,Mobile App,Webcam Pro,Office,1,2834.31,0.1,2550.88,2012.36,Organic,Credit Card,3,5,No,538.52,0.2111,2025-08,55+,0
+ORD-00433,2025-02-14,C1220,33,West,Retail Store,Webcam Pro,Office,1,2766.04,0.2,2212.83,1963.89,Email Offer,Cash,4,3,No,248.94,0.1125,2025-02,25-34,0
+ORD-00434,2025-01-03,C1246,62,North,Website,Webcam Pro,Office,1,3013.93,0.25,2260.45,2139.89,Festive Sale,UPI,7,5,No,120.56,0.0533,2025-01,55+,0
+ORD-00435,2025-10-13,C1047,19,West,Retail Store,Wireless Mouse,Accessories,1,817.87,0.1,736.08,564.33,Search Ads,Cash,3,4,No,171.75,0.2333,2025-10,18-24,0
+ORD-00436,2025-01-13,C1190,58,West,Mobile App,Portable Speaker,Audio,3,2300.98,0.15,5867.5,5039.15,Search Ads,UPI,1,4,No,828.35,0.1412,2025-01,55+,0
+ORD-00437,2025-07-17,C1107,61,North,Website,Mechanical Keyboard,Accessories,2,3541.12,0.2,5665.79,4957.56,Organic,Debit Card,4,2,No,708.23,0.125,2025-07,55+,0
+ORD-00438,2025-01-27,C1287,63,West,Website,Bluetooth Headphones,Audio,2,2369.16,0.1,4264.49,3411.59,Referral,Credit Card,3,2,No,852.9,0.2,2025-01,55+,0
+ORD-00439,2025-06-21,C1382,32,North,Mobile App,Smart Watch,Wearables,2,5720.45,0.2,9152.72,8580.67,Influencer,UPI,2,4,No,572.05,0.0625,2025-06,25-34,0
+ORD-00440,2025-07-10,C1189,61,West,Mobile App,Mechanical Keyboard,Accessories,2,3472.12,0.2,5555.39,4860.96,Email Offer,Credit Card,4,5,No,694.43,0.125,2025-07,55+,0
+ORD-00441,2025-08-23,C1357,27,North,Website,Bluetooth Headphones,Audio,1,2409.41,0.15,2048.0,1734.78,Festive Sale,Net Banking,1,4,No,313.22,0.1529,2025-08,25-34,0
+ORD-00442,2025-12-16,C1012,32,West,Website,USB-C Hub,Accessories,1,1804.52,0.0,1804.52,1190.99,Referral,Net Banking,3,5,No,613.53,0.34,2025-12,25-34,0
+ORD-00443,2025-10-24,C1156,54,East,Mobile App,Mechanical Keyboard,Accessories,2,3468.35,0.2,5549.36,4855.69,Organic,Debit Card,4,3,No,693.67,0.125,2025-10,45-54,0
+ORD-00444,2025-05-28,C1365,52,South,Website,Wireless Mouse,Accessories,1,853.22,0.05,810.56,588.72,Organic,Credit Card,5,3,No,221.84,0.2737,2025-05,45-54,0
+ORD-00445,2025-03-24,C1106,41,North,Website,Smart Watch,Wearables,1,5873.91,0.2,4699.13,4405.43,Email Offer,Cash,5,5,No,293.7,0.0625,2025-03,35-44,0
+ORD-00446,2025-03-25,C1164,27,North,Retail Store,Laptop Stand,Office,1,1392.07,0.15,1183.26,877.0,Search Ads,Debit Card,4,1,No,306.26,0.2588,2025-03,25-34,0
+ORD-00447,2025-11-28,C1290,46,West,Retail Store,Laptop Stand,Office,4,1225.65,0.2,3922.08,3088.64,Influencer,Cash,3,4,No,833.44,0.2125,2025-11,45-54,0
+ORD-00448,2025-03-01,C1029,56,North,Website,Laptop Stand,Office,3,1214.3,0.15,3096.46,2295.03,Referral,Debit Card,4,4,No,801.43,0.2588,2025-03,55+,0
+ORD-00449,2025-04-11,C1252,38,North,Mobile App,Wireless Mouse,Accessories,1,785.5,0.0,785.5,542.0,Organic,Credit Card,6,4,No,243.5,0.31,2025-04,35-44,0
+ORD-00450,2026-01-02,C1229,53,East,Website,Webcam Pro,Office,1,2906.91,0.1,2616.22,2063.91,Referral,Net Banking,5,2,No,552.31,0.2111,2026-01,45-54,0
+ORD-00451,2026-02-16,C1072,55,East,Website,Portable Speaker,Audio,2,2338.48,0.15,3975.42,3414.18,Influencer,Debit Card,2,4,No,561.24,0.1412,2026-02,55+,0
+ORD-00452,2025-02-03,C1364,54,North,Website,Webcam Pro,Office,2,3025.78,0.15,5143.83,4296.61,Email Offer,Net Banking,8,5,No,847.22,0.1647,2025-02,45-54,0
+ORD-00453,2025-05-29,C1379,47,North,Retail Store,Portable Speaker,Audio,1,2196.92,0.2,1757.54,1603.75,Referral,Net Banking,4,3,No,153.79,0.0875,2025-05,45-54,0
+ORD-00454,2025-03-05,C1253,22,West,Website,Laptop Stand,Office,4,1354.02,0.1,4874.47,3412.13,Festive Sale,Cash,5,4,No,1462.34,0.3,2025-03,18-24,0
+ORD-00455,2025-08-12,C1009,34,West,Retail Store,Laptop Stand,Office,3,1347.42,0.1,3638.03,2546.62,Organic,Debit Card,2,3,No,1091.41,0.3,2025-08,25-34,0
+ORD-00456,2025-03-25,C1328,22,East,Website,Wireless Mouse,Accessories,2,772.37,0.2,1235.79,1065.87,Festive Sale,UPI,7,4,No,169.92,0.1375,2025-03,18-24,0
+ORD-00457,2025-11-03,C1353,41,East,Retail Store,USB-C Hub,Accessories,3,1955.35,0.1,5279.44,3871.58,Referral,Debit Card,4,2,No,1407.86,0.2667,2025-11,35-44,0
+ORD-00458,2025-07-10,C1114,30,West,Website,Portable Speaker,Audio,4,2077.46,0.0,8309.84,6066.18,Search Ads,Cash,3,5,No,2243.66,0.27,2025-07,25-34,0
+ORD-00459,2026-03-10,C1354,41,West,Mobile App,Bluetooth Headphones,Audio,1,2438.31,0.25,1828.73,1755.58,Festive Sale,Credit Card,6,3,No,73.15,0.04,2026-03,35-44,0
+ORD-00460,2025-12-30,C1117,37,North,Mobile App,Laptop Stand,Office,1,1224.67,0.05,1163.44,771.54,Influencer,Net Banking,4,3,No,391.9,0.3368,2025-12,35-44,0
+ORD-00461,2025-12-20,C1338,50,North,Website,Bluetooth Headphones,Audio,1,2342.19,0.15,1990.86,1686.38,Festive Sale,UPI,4,4,No,304.48,0.1529,2025-12,45-54,0
+ORD-00462,2026-01-22,C1015,23,North,Retail Store,Bluetooth Headphones,Audio,1,2567.21,0.05,2438.85,1848.39,Search Ads,Cash,3,3,No,590.46,0.2421,2026-01,18-24,0
+ORD-00463,2025-06-28,C1035,24,South,Retail Store,Mechanical Keyboard,Accessories,3,3501.75,0.2,8404.2,7353.67,Search Ads,Credit Card,1,5,No,1050.53,0.125,2025-06,18-24,0
+ORD-00464,2026-01-22,C1095,46,North,Retail Store,Wireless Mouse,Accessories,4,824.33,0.15,2802.72,2275.15,Referral,Net Banking,3,4,No,527.57,0.1882,2026-01,45-54,0
+ORD-00465,2025-08-06,C1070,49,South,Website,Smart Watch,Wearables,2,5624.97,0.25,8437.46,8437.45,Festive Sale,Net Banking,3,5,No,0.01,0.0,2025-08,45-54,0
+ORD-00466,2025-03-01,C1149,45,East,Website,Webcam Pro,Office,2,3024.87,0.15,5142.28,4295.32,Search Ads,Debit Card,4,3,No,846.96,0.1647,2025-03,45-54,0
+ORD-00467,2025-04-02,C1062,27,West,Mobile App,Wireless Mouse,Accessories,1,821.57,0.2,657.26,566.88,Influencer,UPI,6,4,No,90.38,0.1375,2025-04,25-34,0
+ORD-00468,2025-07-06,C1372,49,East,Website,Smart Watch,Wearables,3,6323.53,0.15,16125.0,14227.94,Festive Sale,Cash,3,3,No,1897.06,0.1176,2025-07,45-54,0
+ORD-00469,2025-05-20,C1233,24,East,Mobile App,Webcam Pro,Office,2,2829.8,0.2,4527.68,4018.31,Email Offer,UPI,4,3,No,509.37,0.1125,2025-05,18-24,0
+ORD-00470,2026-01-13,C1319,57,North,Mobile App,Wireless Mouse,Accessories,1,754.61,0.2,603.69,520.68,Email Offer,Net Banking,7,2,No,83.01,0.1375,2026-01,55+,0
+ORD-00471,2026-02-10,C1277,52,South,Website,Portable Speaker,Audio,1,2213.93,0.2,1771.14,1616.17,Referral,Net Banking,7,1,No,154.97,0.0875,2026-02,45-54,0
+ORD-00472,2025-08-19,C1156,63,West,Website,Mechanical Keyboard,Accessories,1,3588.24,0.05,3408.83,2511.77,Organic,Net Banking,4,3,No,897.06,0.2632,2025-08,55+,0
+ORD-00473,2025-09-07,C1081,50,West,Mobile App,Bluetooth Headphones,Audio,2,2523.89,0.25,3785.84,3634.4,Email Offer,Debit Card,2,2,No,151.44,0.04,2025-09,45-54,0
+ORD-00474,2026-01-28,C1380,55,East,Website,Laptop Stand,Office,2,1267.59,0.05,2408.42,1597.16,Referral,Net Banking,3,1,No,811.26,0.3368,2026-01,55+,0
+ORD-00475,2025-02-19,C1121,59,East,Retail Store,Webcam Pro,Office,1,2876.27,0.0,2876.27,2042.15,Influencer,Debit Card,2,4,No,834.12,0.29,2025-02,55+,0
+ORD-00476,2025-03-28,C1216,35,East,Website,Wireless Mouse,Accessories,2,800.89,0.15,1361.51,1105.22,Organic,Debit Card,1,1,No,256.29,0.1882,2025-03,35-44,0
+ORD-00477,2025-07-13,C1173,49,East,Mobile App,Webcam Pro,Office,3,3083.03,0.0,9249.09,6566.84,Influencer,Net Banking,3,4,No,2682.25,0.29,2025-07,45-54,0
+ORD-00478,2025-04-14,C1294,43,North,Retail Store,Portable Speaker,Audio,2,2039.8,0.1,3671.64,2978.11,Referral,Cash,6,5,No,693.53,0.1889,2025-04,35-44,0
+ORD-00479,2025-02-18,C1040,59,East,Website,Mechanical Keyboard,Accessories,3,3413.52,0.15,8704.48,7168.4,Email Offer,Credit Card,3,5,No,1536.08,0.1765,2025-02,55+,0
+ORD-00480,2025-08-01,C1322,63,East,Mobile App,Webcam Pro,Office,1,3181.77,0.2,2545.42,2259.06,Search Ads,Credit Card,6,4,No,286.36,0.1125,2025-08,55+,0
+ORD-00481,2025-12-05,C1187,47,East,Retail Store,Portable Speaker,Audio,2,2206.84,0.1,3972.31,3221.98,Email Offer,Net Banking,3,3,No,750.33,0.1889,2025-12,45-54,0
+ORD-00482,2025-06-13,C1352,56,South,Retail Store,Bluetooth Headphones,Audio,1,2363.29,0.1,2126.96,1701.57,Influencer,Credit Card,2,3,No,425.39,0.2,2025-06,55+,0
+ORD-00483,2025-01-15,C1140,26,East,Mobile App,Smart Watch,Wearables,2,5712.96,0.1,10283.33,8569.44,Email Offer,UPI,3,1,No,1713.89,0.1667,2025-01,25-34,0
+ORD-00484,2026-01-05,C1033,44,North,Website,Portable Speaker,Audio,3,2127.92,0.1,5745.38,4660.15,Organic,Net Banking,6,5,No,1085.23,0.1889,2026-01,35-44,0
+ORD-00485,2026-03-06,C1298,51,South,Website,USB-C Hub,Accessories,2,1948.9,0.0,3897.8,2572.54,Organic,Debit Card,4,3,No,1325.26,0.34,2026-03,45-54,0
+ORD-00486,2026-03-03,C1141,46,South,Retail Store,Webcam Pro,Office,1,2861.82,0.0,2861.82,2031.89,Search Ads,Net Banking,5,4,No,829.93,0.29,2026-03,45-54,0
+ORD-00487,2025-10-01,C1075,41,North,Website,Mechanical Keyboard,Accessories,1,3711.42,0.05,3525.85,2598.0,Referral,UPI,3,4,No,927.85,0.2632,2025-10,35-44,0
+ORD-00488,2026-03-07,C1122,46,South,Website,Wireless Mouse,Accessories,1,750.68,0.1,675.61,517.97,Influencer,Debit Card,6,4,No,157.64,0.2333,2026-03,45-54,0
+ORD-00489,2025-06-04,C1393,59,South,Website,Bluetooth Headphones,Audio,3,2650.73,0.2,6361.75,5725.57,Email Offer,Net Banking,6,4,Yes,636.18,0.1,2025-06,55+,1
+ORD-00490,2026-01-13,C1260,22,East,Mobile App,Webcam Pro,Office,3,3094.24,0.0,9282.72,6590.73,Search Ads,Debit Card,1,4,No,2691.99,0.29,2026-01,18-24,0
+ORD-00491,2025-08-21,C1206,30,North,Mobile App,Wireless Mouse,Accessories,1,752.48,0.15,639.61,519.21,Influencer,Credit Card,5,4,No,120.4,0.1882,2025-08,25-34,0
+ORD-00492,2026-03-10,C1304,38,East,Website,Webcam Pro,Office,3,2842.32,0.05,8100.61,6054.15,Referral,Debit Card,4,5,No,2046.46,0.2526,2026-03,35-44,0
+ORD-00493,2025-04-04,C1332,57,West,Retail Store,Webcam Pro,Office,3,3202.03,0.1,8645.48,6820.32,Festive Sale,Credit Card,5,4,No,1825.16,0.2111,2025-04,55+,0
+ORD-00494,2025-01-26,C1061,18,West,Mobile App,Webcam Pro,Office,1,3213.61,0.1,2892.25,2281.66,Search Ads,Net Banking,4,5,No,610.59,0.2111,2025-01,18-24,0
+ORD-00495,2025-03-02,C1196,26,South,Website,Smart Watch,Wearables,3,6235.55,0.1,16835.98,14029.98,Referral,Credit Card,4,4,No,2806.0,0.1667,2025-03,25-34,0
+ORD-00496,2025-08-03,C1128,41,West,Mobile App,USB-C Hub,Accessories,1,1934.76,0.1,1741.28,1276.94,Search Ads,UPI,7,4,No,464.34,0.2667,2025-08,35-44,0
+ORD-00497,2025-08-29,C1217,56,East,Retail Store,USB-C Hub,Accessories,1,1863.6,0.05,1770.42,1229.98,Influencer,Net Banking,5,3,No,540.44,0.3053,2025-08,55+,0
+ORD-00498,2025-07-01,C1287,20,North,Website,Wireless Mouse,Accessories,2,751.99,0.2,1203.18,1037.74,Email Offer,Net Banking,4,4,No,165.44,0.1375,2025-07,18-24,0
+ORD-00499,2025-06-23,C1161,20,South,Website,Portable Speaker,Audio,2,2114.7,0.15,3594.99,3087.46,Search Ads,Net Banking,5,5,No,507.53,0.1412,2025-06,18-24,0
+ORD-00500,2025-05-25,C1252,27,East,Mobile App,Laptop Stand,Office,1,1348.23,0.05,1280.82,849.39,Referral,Net Banking,3,4,No,431.43,0.3368,2025-05,25-34,0
+ORD-00501,2025-01-28,C1240,45,South,Website,Smart Watch,Wearables,1,5676.07,0.15,4824.66,4257.05,Referral,Cash,2,3,No,567.61,0.1176,2025-01,45-54,0
+ORD-00502,2025-09-06,C1146,29,West,Website,Portable Speaker,Audio,2,2056.0,0.2,3289.6,3001.77,Festive Sale,Cash,4,5,No,287.83,0.0875,2025-09,25-34,0
+ORD-00503,2025-12-06,C1347,24,North,Mobile App,Smart Watch,Wearables,2,6256.48,0.15,10636.02,9384.72,Festive Sale,Debit Card,3,5,Yes,1251.3,0.1176,2025-12,18-24,1
+ORD-00504,2025-10-30,C1003,39,East,Website,Bluetooth Headphones,Audio,1,2536.67,0.2,2029.34,1826.4,Email Offer,Debit Card,2,5,No,202.94,0.1,2025-10,35-44,0
+ORD-00505,2026-01-10,C1381,22,South,Retail Store,USB-C Hub,Accessories,3,1989.59,0.1,5371.89,3939.39,Referral,Net Banking,5,4,No,1432.5,0.2667,2026-01,18-24,0
+ORD-00506,2025-02-15,C1335,27,South,Website,Wireless Mouse,Accessories,3,831.29,0.1,2244.48,1720.76,Influencer,Debit Card,4,3,No,523.72,0.2333,2025-02,25-34,0
+ORD-00507,2025-12-17,C1199,48,East,Mobile App,USB-C Hub,Accessories,3,1895.85,0.2,4550.04,3753.78,Search Ads,Cash,5,3,No,796.26,0.175,2025-12,45-54,0
+ORD-00508,2025-04-06,C1352,63,West,Website,Webcam Pro,Office,1,2866.67,0.15,2436.67,2035.34,Influencer,Cash,5,3,No,401.33,0.1647,2025-04,55+,0
+ORD-00509,2025-02-12,C1066,61,West,Website,Laptop Stand,Office,4,1225.97,0.15,4168.3,3089.44,Referral,Cash,2,5,No,1078.86,0.2588,2025-02,55+,0
+ORD-00510,2025-02-09,C1130,40,North,Mobile App,Wireless Mouse,Accessories,1,827.16,0.15,703.09,570.74,Influencer,UPI,4,3,No,132.35,0.1882,2025-02,35-44,0
+ORD-00511,2025-02-28,C1153,38,South,Mobile App,Portable Speaker,Audio,3,2331.56,0.25,5246.01,5106.11,Festive Sale,Debit Card,3,4,No,139.9,0.0267,2025-02,35-44,0
+ORD-00512,2026-03-23,C1055,45,South,Website,USB-C Hub,Accessories,2,2011.91,0.2,3219.06,2655.72,Referral,UPI,2,4,Yes,563.34,0.175,2026-03,45-54,1
+ORD-00513,2025-03-29,C1317,57,West,Mobile App,Portable Speaker,Audio,3,2194.33,0.2,5266.39,4805.58,Influencer,UPI,3,4,No,460.81,0.0875,2025-03,55+,0
+ORD-00514,2025-03-06,C1075,59,North,Website,USB-C Hub,Accessories,3,1893.26,0.15,4827.81,3748.66,Festive Sale,Credit Card,2,3,No,1079.15,0.2235,2025-03,55+,0
+ORD-00515,2025-02-14,C1379,62,West,Website,Laptop Stand,Office,1,1382.64,0.0,1382.64,871.06,Search Ads,Credit Card,5,4,No,511.58,0.37,2025-02,55+,0
+ORD-00516,2025-05-31,C1306,53,North,Website,Webcam Pro,Office,1,3112.76,0.25,2334.57,2210.06,Email Offer,Net Banking,4,5,Yes,124.51,0.0533,2025-05,45-54,1
+ORD-00517,2025-09-20,C1033,35,South,Mobile App,Portable Speaker,Audio,2,2134.21,0.15,3628.16,3115.94,Organic,Debit Card,2,5,No,512.22,0.1412,2025-09,35-44,0
+ORD-00518,2025-08-18,C1260,32,North,Website,Webcam Pro,Office,2,2969.3,0.15,5047.81,4216.41,Referral,Net Banking,4,4,No,831.4,0.1647,2025-08,25-34,0
+ORD-00519,2025-03-09,C1145,62,West,Retail Store,Laptop Stand,Office,3,1324.32,0.15,3377.02,2502.97,Email Offer,Net Banking,4,5,No,874.05,0.2588,2025-03,55+,0
+ORD-00520,2025-02-21,C1183,61,West,Website,Webcam Pro,Office,1,3181.77,0.2,2545.42,2259.06,Festive Sale,UPI,4,3,No,286.36,0.1125,2025-02,55+,0
+ORD-00521,2026-02-18,C1133,39,East,Website,Bluetooth Headphones,Audio,2,2388.68,0.0,4777.36,3439.7,Organic,Cash,4,5,No,1337.66,0.28,2026-02,35-44,0
+ORD-00522,2025-11-06,C1313,24,North,Retail Store,Bluetooth Headphones,Audio,1,2611.62,0.1,2350.46,1880.36,Festive Sale,Credit Card,2,5,Yes,470.1,0.2,2025-11,18-24,1
+ORD-00523,2025-11-19,C1260,49,South,Retail Store,Bluetooth Headphones,Audio,1,2475.62,0.1,2228.06,1782.44,Influencer,UPI,3,5,No,445.62,0.2,2025-11,45-54,0
+ORD-00524,2026-03-11,C1243,39,West,Retail Store,Smart Watch,Wearables,2,6320.37,0.0,12640.74,9480.55,Search Ads,Debit Card,3,3,No,3160.19,0.25,2026-03,35-44,0
+ORD-00525,2026-01-02,C1220,44,East,Mobile App,Webcam Pro,Office,1,2825.3,0.15,2401.5,2005.96,Email Offer,Debit Card,6,5,No,395.54,0.1647,2026-01,35-44,0
+ORD-00526,2025-01-16,C1206,28,South,Mobile App,Portable Speaker,Audio,2,2142.11,0.1,3855.8,3127.48,Festive Sale,Credit Card,3,4,No,728.32,0.1889,2025-01,25-34,0
+ORD-00527,2025-10-22,C1161,40,East,Website,Wireless Mouse,Accessories,3,827.32,0.2,1985.57,1712.56,Referral,Net Banking,1,1,No,273.01,0.1375,2025-10,35-44,0
+ORD-00528,2025-08-17,C1044,20,West,Mobile App,Smart Watch,Wearables,3,6364.67,0.15,16229.91,14320.52,Search Ads,Credit Card,3,4,No,1909.39,0.1176,2025-08,18-24,0
+ORD-00529,2025-09-24,C1082,19,South,Website,Laptop Stand,Office,2,1352.42,0.2,2163.87,1704.05,Referral,Net Banking,3,1,No,459.82,0.2125,2025-09,18-24,0
+ORD-00530,2025-09-16,C1388,59,North,Retail Store,Bluetooth Headphones,Audio,1,2348.59,0.2,1878.87,1690.98,Referral,UPI,3,5,No,187.89,0.1,2025-09,55+,0
+ORD-00531,2025-08-21,C1322,60,South,Mobile App,Mechanical Keyboard,Accessories,5,3719.77,0.2,14879.08,13019.18,Influencer,Cash,3,4,No,1859.9,0.125,2025-08,55+,0
+ORD-00532,2025-12-11,C1185,47,West,Mobile App,USB-C Hub,Accessories,1,1924.03,0.1,1731.63,1269.86,Organic,UPI,5,2,No,461.77,0.2667,2025-12,45-54,0
+ORD-00533,2025-02-17,C1207,55,West,Retail Store,Wireless Mouse,Accessories,1,821.6,0.2,657.28,566.91,Festive Sale,Net Banking,5,4,No,90.37,0.1375,2025-02,55+,0
+ORD-00534,2025-08-14,C1361,50,West,Retail Store,Portable Speaker,Audio,1,2068.6,0.25,1551.45,1510.08,Email Offer,Net Banking,2,5,No,41.37,0.0267,2025-08,45-54,0
+ORD-00535,2025-08-31,C1057,25,South,Retail Store,Wireless Mouse,Accessories,1,844.04,0.0,844.04,582.39,Organic,Debit Card,3,4,No,261.65,0.31,2025-08,25-34,0
+ORD-00536,2025-06-05,C1157,36,West,Website,Laptop Stand,Office,1,1389.79,0.1,1250.81,875.57,Email Offer,UPI,4,3,No,375.24,0.3,2025-06,35-44,0
+ORD-00537,2025-03-04,C1173,42,North,Retail Store,Mechanical Keyboard,Accessories,1,3535.82,0.2,2828.66,2475.07,Referral,Net Banking,2,4,No,353.59,0.125,2025-03,35-44,0
+ORD-00538,2026-01-25,C1210,42,West,Website,Portable Speaker,Audio,2,2256.88,0.0,4513.76,3295.04,Organic,UPI,2,3,No,1218.72,0.27,2026-01,35-44,0
+ORD-00539,2025-12-10,C1363,37,East,Mobile App,Portable Speaker,Audio,3,2244.78,0.0,6734.34,4916.06,Organic,Cash,3,4,No,1818.28,0.27,2025-12,35-44,0
+ORD-00540,2025-10-23,C1141,31,South,Mobile App,Wireless Mouse,Accessories,1,858.11,0.15,729.39,592.1,Festive Sale,Net Banking,3,3,No,137.29,0.1882,2025-10,25-34,0
+ORD-00541,2025-02-13,C1213,19,West,Mobile App,Mechanical Keyboard,Accessories,1,3463.74,0.0,3463.74,2424.62,Referral,Cash,4,5,No,1039.12,0.3,2025-02,18-24,0
+ORD-00542,2025-03-28,C1348,28,South,Website,Laptop Stand,Office,2,1392.98,0.05,2646.66,1755.15,Referral,UPI,4,2,No,891.51,0.3368,2025-03,25-34,0
+ORD-00543,2026-01-01,C1062,21,East,Website,Wireless Mouse,Accessories,1,768.05,0.15,652.84,529.96,Referral,Net Banking,2,3,No,122.88,0.1882,2026-01,18-24,0
+ORD-00544,2025-02-28,C1120,19,North,Website,Laptop Stand,Office,2,1279.77,0.1,2303.59,1612.51,Email Offer,UPI,3,3,No,691.08,0.3,2025-02,18-24,0
+ORD-00545,2025-05-07,C1073,41,East,Mobile App,USB-C Hub,Accessories,1,1984.95,0.2,1587.96,1310.07,Search Ads,Net Banking,4,4,No,277.89,0.175,2025-05,35-44,0
+ORD-00546,2025-01-22,C1247,35,West,Retail Store,Wireless Mouse,Accessories,2,854.42,0.1,1537.96,1179.1,Festive Sale,Debit Card,8,4,No,358.86,0.2333,2025-01,35-44,0
+ORD-00547,2026-03-08,C1358,25,East,Website,Smart Watch,Wearables,2,5605.19,0.2,8968.3,8407.79,Festive Sale,Cash,7,5,No,560.51,0.0625,2026-03,25-34,0
+ORD-00548,2025-09-16,C1165,39,East,Mobile App,Mechanical Keyboard,Accessories,5,3356.76,0.15,14266.23,11748.66,Referral,UPI,4,3,No,2517.57,0.1765,2025-09,35-44,0
+ORD-00549,2025-12-21,C1285,62,North,Mobile App,USB-C Hub,Accessories,1,1799.81,0.0,1799.81,1187.87,Influencer,UPI,1,5,No,611.94,0.34,2025-12,55+,0
+ORD-00550,2025-10-03,C1091,62,West,Mobile App,Wireless Mouse,Accessories,1,780.84,0.15,663.71,538.78,Organic,Credit Card,3,5,No,124.93,0.1882,2025-10,55+,0
+ORD-00551,2025-08-16,C1315,58,South,Mobile App,Wireless Mouse,Accessories,2,746.58,0.1,1343.84,1030.28,Search Ads,UPI,4,4,No,313.56,0.2333,2025-08,55+,0
+ORD-00552,2025-05-24,C1253,28,South,Website,Portable Speaker,Audio,5,2223.31,0.2,8893.24,8115.09,Festive Sale,Cash,6,4,No,778.15,0.0875,2025-05,25-34,0
+ORD-00553,2025-10-17,C1117,51,North,Mobile App,USB-C Hub,Accessories,2,2030.73,0.05,3858.39,2680.57,Referral,Cash,4,5,No,1177.82,0.3053,2025-10,45-54,0
+ORD-00554,2025-11-11,C1209,35,West,Website,Laptop Stand,Office,1,1284.98,0.0,1284.98,809.54,Referral,Debit Card,3,3,No,475.44,0.37,2025-11,35-44,0
+ORD-00555,2025-09-22,C1100,39,South,Website,Wireless Mouse,Accessories,4,735.74,0.2,2354.37,2030.64,Email Offer,Net Banking,6,2,No,323.73,0.1375,2025-09,35-44,0
+ORD-00556,2025-02-08,C1013,55,South,Website,Smart Watch,Wearables,1,5933.68,0.25,4450.26,4450.26,Festive Sale,Credit Card,4,5,No,0.0,0.0,2025-02,55+,0
+ORD-00557,2025-02-25,C1038,56,South,Retail Store,Portable Speaker,Audio,3,2302.48,0.1,6216.7,5042.43,Organic,UPI,2,4,No,1174.27,0.1889,2025-02,55+,0
+ORD-00558,2025-01-18,C1313,58,East,Retail Store,Webcam Pro,Office,2,2785.37,0.25,4178.06,3955.23,Festive Sale,Cash,2,4,No,222.83,0.0533,2025-01,55+,0
+ORD-00559,2025-01-27,C1338,57,West,Website,Laptop Stand,Office,2,1374.77,0.15,2337.11,1732.22,Search Ads,UPI,5,1,No,604.89,0.2588,2025-01,55+,0
+ORD-00560,2025-06-23,C1035,55,West,Mobile App,Wireless Mouse,Accessories,2,811.17,0.1,1460.11,1119.41,Festive Sale,Credit Card,1,5,No,340.7,0.2333,2025-06,55+,0
+ORD-00561,2025-11-23,C1023,21,East,Website,Laptop Stand,Office,2,1245.62,0.15,2117.55,1569.48,Search Ads,Debit Card,1,3,No,548.07,0.2588,2025-11,18-24,0
+ORD-00562,2025-10-26,C1266,55,South,Mobile App,USB-C Hub,Accessories,2,2041.89,0.1,3675.4,2695.29,Referral,Cash,4,4,No,980.11,0.2667,2025-10,55+,0
+ORD-00563,2026-02-24,C1244,62,West,Website,Wireless Mouse,Accessories,5,759.29,0.2,3037.16,2619.54,Festive Sale,Debit Card,3,5,No,417.62,0.1375,2026-02,55+,0
+ORD-00564,2025-11-12,C1328,32,West,Website,Laptop Stand,Office,1,1386.28,0.15,1178.34,873.36,Email Offer,Credit Card,1,5,No,304.98,0.2588,2025-11,25-34,0
+ORD-00565,2025-09-04,C1184,19,West,Website,Mechanical Keyboard,Accessories,1,3224.62,0.0,3224.62,2257.23,Referral,UPI,2,4,No,967.39,0.3,2025-09,18-24,0
+ORD-00566,2025-01-16,C1284,33,South,Website,Smart Watch,Wearables,1,5686.37,0.1,5117.73,4264.77,Influencer,UPI,5,3,Yes,852.96,0.1667,2025-01,25-34,1
+ORD-00567,2025-01-11,C1123,41,West,Mobile App,USB-C Hub,Accessories,3,1839.77,0.1,4967.38,3642.75,Search Ads,Net Banking,8,5,No,1324.63,0.2667,2025-01,35-44,0
+ORD-00568,2026-03-26,C1356,41,North,Website,Bluetooth Headphones,Audio,4,2512.02,0.05,9545.68,7234.61,Search Ads,Credit Card,2,4,No,2311.07,0.2421,2026-03,35-44,0
+ORD-00569,2025-01-24,C1065,50,East,Mobile App,Smart Watch,Wearables,1,6282.74,0.0,6282.74,4712.06,Influencer,Cash,4,5,No,1570.68,0.25,2025-01,45-54,0
+ORD-00570,2025-02-03,C1238,29,West,Mobile App,USB-C Hub,Accessories,2,1898.57,0.2,3037.71,2506.11,Referral,Net Banking,4,4,No,531.6,0.175,2025-02,25-34,0
+ORD-00571,2026-01-02,C1113,30,West,Website,Portable Speaker,Audio,1,2035.96,0.2,1628.77,1486.25,Influencer,Cash,4,4,No,142.52,0.0875,2026-01,25-34,0
+ORD-00572,2025-03-22,C1181,32,East,Mobile App,Mechanical Keyboard,Accessories,1,3467.93,0.0,3467.93,2427.55,Referral,Debit Card,5,4,No,1040.38,0.3,2025-03,25-34,0
+ORD-00573,2025-08-07,C1013,29,West,Website,Portable Speaker,Audio,1,2119.14,0.15,1801.27,1546.97,Referral,Cash,7,4,No,254.3,0.1412,2025-08,25-34,0
+ORD-00574,2025-09-20,C1103,39,East,Retail Store,Bluetooth Headphones,Audio,1,2314.39,0.0,2314.39,1666.36,Referral,Debit Card,5,3,No,648.03,0.28,2025-09,35-44,0
+ORD-00575,2025-04-08,C1388,59,East,Website,USB-C Hub,Accessories,1,1996.79,0.25,1497.59,1317.88,Email Offer,Credit Card,8,1,No,179.71,0.12,2025-04,55+,0
+ORD-00576,2025-04-27,C1044,38,West,Website,Smart Watch,Wearables,2,5846.06,0.25,8769.09,8769.09,Email Offer,Net Banking,3,5,No,0.0,0.0,2025-04,35-44,0
+ORD-00577,2025-04-18,C1157,18,West,Retail Store,Portable Speaker,Audio,1,2330.5,0.05,2213.98,1701.27,Organic,Net Banking,3,4,No,512.71,0.2316,2025-04,18-24,0
+ORD-00578,2026-01-26,C1170,54,East,Mobile App,Laptop Stand,Office,2,1227.02,0.0,2454.04,1546.05,Search Ads,Cash,5,4,No,907.99,0.37,2026-01,45-54,0
+ORD-00579,2026-03-20,C1169,54,West,Website,Webcam Pro,Office,1,2986.9,0.15,2538.87,2120.7,Email Offer,Cash,3,5,No,418.17,0.1647,2026-03,45-54,0
+ORD-00580,2025-04-01,C1150,60,West,Website,Wireless Mouse,Accessories,1,761.4,0.15,647.19,525.37,Referral,Cash,5,4,No,121.82,0.1882,2025-04,55+,0
+ORD-00581,2025-01-06,C1245,22,East,Retail Store,USB-C Hub,Accessories,1,1910.08,0.15,1623.57,1260.65,Festive Sale,Net Banking,5,4,No,362.92,0.2235,2025-01,18-24,0
+ORD-00582,2026-02-23,C1351,47,South,Mobile App,Portable Speaker,Audio,4,2199.87,0.2,7039.58,6423.62,Search Ads,Net Banking,7,3,Yes,615.96,0.0875,2026-02,45-54,1
+ORD-00583,2025-02-02,C1378,23,South,Mobile App,Webcam Pro,Office,4,3035.53,0.25,9106.59,8620.91,Email Offer,Debit Card,1,3,No,485.68,0.0533,2025-02,18-24,0
+ORD-00584,2025-07-20,C1094,62,West,Website,USB-C Hub,Accessories,3,2023.83,0.25,4553.62,4007.18,Email Offer,Credit Card,4,4,No,546.44,0.12,2025-07,55+,0
+ORD-00585,2026-03-22,C1112,49,East,Retail Store,USB-C Hub,Accessories,2,1967.83,0.0,3935.66,2597.54,Influencer,Cash,5,4,No,1338.12,0.34,2026-03,45-54,0
+ORD-00586,2026-01-28,C1328,62,West,Website,Mechanical Keyboard,Accessories,1,3234.04,0.25,2425.53,2263.83,Festive Sale,Net Banking,5,4,No,161.7,0.0667,2026-01,55+,0
+ORD-00587,2026-03-15,C1238,49,West,Website,Smart Watch,Wearables,1,6162.46,0.05,5854.34,4621.84,Referral,Credit Card,2,4,No,1232.5,0.2105,2026-03,45-54,0
+ORD-00588,2025-08-30,C1274,43,South,Website,Laptop Stand,Office,1,1256.22,0.0,1256.22,791.42,Search Ads,Debit Card,2,3,No,464.8,0.37,2025-08,35-44,0
+ORD-00589,2025-03-20,C1025,58,East,Website,Portable Speaker,Audio,2,2178.61,0.2,3485.78,3180.78,Search Ads,Debit Card,3,5,No,305.0,0.0875,2025-03,55+,0
+ORD-00590,2025-08-16,C1123,30,North,Website,Wireless Mouse,Accessories,1,782.97,0.05,743.82,540.25,Search Ads,Debit Card,1,2,No,203.57,0.2737,2025-08,25-34,0
+ORD-00591,2026-02-25,C1213,50,North,Website,Smart Watch,Wearables,3,5679.42,0.05,16186.35,12778.69,Influencer,Cash,3,2,No,3407.66,0.2105,2026-02,45-54,0
+ORD-00592,2025-07-22,C1335,38,North,Website,Webcam Pro,Office,1,2766.27,0.1,2489.64,1964.06,Search Ads,UPI,3,1,No,525.58,0.2111,2025-07,35-44,0
+ORD-00593,2025-12-03,C1256,24,East,Website,Laptop Stand,Office,3,1354.61,0.15,3454.26,2560.21,Referral,UPI,6,5,No,894.05,0.2588,2025-12,18-24,0
+ORD-00594,2025-11-04,C1390,62,West,Mobile App,Mechanical Keyboard,Accessories,5,3317.24,0.05,15756.89,11610.33,Referral,UPI,3,4,No,4146.56,0.2632,2025-11,55+,0
+ORD-00595,2025-06-21,C1007,32,West,Website,Wireless Mouse,Accessories,2,810.18,0.05,1539.34,1118.05,Organic,Credit Card,5,1,No,421.29,0.2737,2025-06,25-34,0
+ORD-00596,2025-11-14,C1329,20,North,Website,Bluetooth Headphones,Audio,1,2449.32,0.05,2326.85,1763.51,Search Ads,Debit Card,5,3,No,563.34,0.2421,2025-11,18-24,0
+ORD-00597,2025-03-10,C1118,39,East,Mobile App,Laptop Stand,Office,2,1351.07,0.2,2161.71,1702.35,Email Offer,Credit Card,7,4,No,459.36,0.2125,2025-03,35-44,0
+ORD-00598,2025-11-08,C1027,58,East,Website,Webcam Pro,Office,2,3216.68,0.1,5790.02,4567.69,Email Offer,UPI,5,5,No,1222.33,0.2111,2025-11,55+,0
+ORD-00599,2025-03-30,C1102,33,South,Mobile App,Smart Watch,Wearables,1,5676.65,0.15,4825.15,4257.48,Referral,Credit Card,3,4,No,567.67,0.1176,2025-03,25-34,0
+ORD-00600,2025-05-20,C1217,50,North,Retail Store,Portable Speaker,Audio,1,2188.7,0.15,1860.39,1597.75,Search Ads,Net Banking,6,4,No,262.64,0.1412,2025-05,45-54,0
+ORD-00601,2025-01-11,C1284,29,West,Retail Store,Webcam Pro,Office,2,3016.85,0.1,5430.33,4283.93,Organic,Net Banking,2,3,No,1146.4,0.2111,2025-01,25-34,0
+ORD-00602,2025-02-06,C1374,41,South,Mobile App,Mechanical Keyboard,Accessories,1,3701.47,0.1,3331.32,2591.03,Festive Sale,Debit Card,4,4,No,740.29,0.2222,2025-02,35-44,0
+ORD-00603,2025-07-16,C1290,28,East,Mobile App,Portable Speaker,Audio,2,2158.48,0.1,3885.26,3151.38,Festive Sale,Debit Card,4,3,No,733.88,0.1889,2025-07,25-34,0
+ORD-00604,2025-09-18,C1245,20,East,Mobile App,Portable Speaker,Audio,2,2109.91,0.15,3586.85,3080.47,Influencer,UPI,7,5,No,506.38,0.1412,2025-09,18-24,0
+ORD-00605,2025-12-24,C1297,60,East,Mobile App,USB-C Hub,Accessories,4,1822.25,0.05,6924.55,4810.75,Referral,Net Banking,4,5,Yes,2113.8,0.3053,2025-12,55+,1
+ORD-00606,2025-12-28,C1257,52,South,Retail Store,Bluetooth Headphones,Audio,1,2575.7,0.15,2189.34,1854.51,Referral,Net Banking,1,4,No,334.83,0.1529,2025-12,45-54,0
+ORD-00607,2026-01-21,C1108,43,North,Mobile App,Bluetooth Headphones,Audio,3,24066.5,0.1,64979.55,5198.35,Search Ads,UPI,5,5,Yes,59781.2,0.92,2026-01,35-44,1
+ORD-00608,2026-02-01,C1361,26,West,Mobile App,Webcam Pro,Office,2,2938.85,0.05,5583.82,4173.17,Search Ads,Net Banking,5,3,No,1410.65,0.2526,2026-02,25-34,0
+ORD-00609,2025-10-18,C1210,46,South,Website,Smart Watch,Wearables,2,6462.55,0.05,12278.84,9693.83,Referral,UPI,4,4,No,2585.01,0.2105,2025-10,45-54,0
+ORD-00610,2025-07-13,C1052,18,East,Website,Bluetooth Headphones,Audio,1,2568.09,0.25,1926.07,1849.03,Email Offer,Cash,3,2,No,77.04,0.04,2025-07,18-24,0
+ORD-00611,2026-02-09,C1390,35,North,Website,Wireless Mouse,Accessories,3,801.57,0.15,2044.0,1659.24,Organic,Debit Card,3,5,No,384.76,0.1882,2026-02,35-44,0
+ORD-00612,2025-06-11,C1052,18,East,Mobile App,Smart Watch,Wearables,1,6357.09,0.0,6357.09,4767.82,Referral,Credit Card,5,4,No,1589.27,0.25,2025-06,18-24,0
+ORD-00613,2025-01-14,C1352,60,East,Retail Store,Bluetooth Headphones,Audio,2,2479.77,0.05,4711.56,3570.88,Referral,Debit Card,4,5,No,1140.68,0.2421,2025-01,55+,0
+ORD-00614,2025-01-09,C1205,57,North,Retail Store,Mechanical Keyboard,Accessories,2,3558.77,0.15,6049.91,4982.28,Search Ads,UPI,4,5,No,1067.63,0.1765,2025-01,55+,0
+ORD-00615,2026-01-11,C1367,50,East,Mobile App,Webcam Pro,Office,2,3135.69,0.2,5017.1,4452.68,Organic,Net Banking,6,1,No,564.42,0.1125,2026-01,45-54,0
+ORD-00616,2025-03-28,C1338,62,North,Mobile App,Portable Speaker,Audio,2,2083.05,0.05,3957.8,3041.25,Search Ads,UPI,5,2,No,916.55,0.2316,2025-03,55+,0
+ORD-00617,2025-03-24,C1344,25,West,Mobile App,Mechanical Keyboard,Accessories,1,3485.73,0.1,3137.16,2440.01,Influencer,Debit Card,2,4,No,697.15,0.2222,2025-03,25-34,0
+ORD-00618,2026-03-23,C1288,45,North,Mobile App,Smart Watch,Wearables,1,6135.4,0.15,5215.09,4601.55,Influencer,Debit Card,2,5,No,613.54,0.1176,2026-03,45-54,0
+ORD-00619,2025-02-14,C1294,41,North,Website,Bluetooth Headphones,Audio,2,2675.73,0.05,5083.89,3853.05,Influencer,UPI,2,3,No,1230.84,0.2421,2025-02,35-44,0
+ORD-00620,2025-10-30,C1065,51,West,Retail Store,Smart Watch,Wearables,1,6415.5,0.1,5773.95,4811.62,Influencer,Net Banking,5,4,No,962.33,0.1667,2025-10,45-54,0
+ORD-00621,2025-01-05,C1146,27,East,Website,Portable Speaker,Audio,4,2074.95,0.25,6224.85,6058.85,Email Offer,Debit Card,4,5,No,166.0,0.0267,2025-01,25-34,0
+ORD-00622,2025-09-15,C1254,36,East,Retail Store,Bluetooth Headphones,Audio,2,2630.42,0.15,4471.71,3787.81,Influencer,Credit Card,3,5,No,683.9,0.1529,2025-09,35-44,0
+ORD-00623,2026-02-28,C1338,28,South,Mobile App,Smart Watch,Wearables,1,5806.17,0.25,4354.63,4354.63,Email Offer,Net Banking,2,5,No,0.0,0.0,2026-02,25-34,0
+ORD-00624,2025-07-20,C1386,55,East,Website,Bluetooth Headphones,Audio,4,2351.42,0.1,8465.11,6772.09,Email Offer,Debit Card,6,5,Yes,1693.02,0.2,2025-07,55+,1
+ORD-00625,2025-08-23,C1384,30,South,Website,USB-C Hub,Accessories,1,1813.36,0.05,1722.69,1196.82,Search Ads,Credit Card,3,5,Yes,525.87,0.3053,2025-08,25-34,1
+ORD-00626,2025-07-12,C1061,50,South,Retail Store,Webcam Pro,Office,1,3212.56,0.15,2730.68,2280.92,Search Ads,Net Banking,2,4,No,449.76,0.1647,2025-07,45-54,0
+ORD-00627,2025-05-06,C1193,62,North,Website,Wireless Mouse,Accessories,1,818.53,0.2,654.82,564.79,Search Ads,Net Banking,5,5,No,90.03,0.1375,2025-05,55+,0
+ORD-00628,2025-05-21,C1294,54,East,Website,Portable Speaker,Audio,1,2031.18,0.15,1726.5,1482.76,Email Offer,Cash,5,4,No,243.74,0.1412,2025-05,45-54,0
+ORD-00629,2025-04-03,C1167,22,West,Retail Store,Webcam Pro,Office,2,2819.17,0.1,5074.51,4003.23,Organic,UPI,2,5,No,1071.28,0.2111,2025-04,18-24,0
+ORD-00630,2025-07-21,C1061,29,North,Mobile App,Portable Speaker,Audio,2,2362.85,0.0,4725.7,3449.75,Search Ads,Cash,3,5,No,1275.95,0.27,2025-07,25-34,0
+ORD-00631,2025-08-17,C1018,23,North,Website,Mechanical Keyboard,Accessories,2,3695.76,0.2,5913.22,5174.06,Festive Sale,UPI,2,5,No,739.16,0.125,2025-08,18-24,0
+ORD-00632,2025-05-08,C1072,54,North,Retail Store,Laptop Stand,Office,1,1306.09,0.1,1175.48,822.84,Influencer,Cash,5,4,No,352.64,0.3,2025-05,45-54,0
+ORD-00633,2025-10-03,C1111,26,North,Mobile App,Smart Watch,Wearables,1,5655.06,0.0,5655.06,4241.29,Search Ads,Net Banking,3,4,No,1413.77,0.25,2025-10,25-34,0
+ORD-00634,2025-02-08,C1347,45,East,Website,Laptop Stand,Office,4,1391.43,0.1,5009.15,3506.42,Email Offer,UPI,4,5,No,1502.73,0.3,2025-02,45-54,0
+ORD-00635,2025-11-19,C1079,38,South,Mobile App,Laptop Stand,Office,2,1229.17,0.2,1966.67,1548.76,Organic,Debit Card,6,5,No,417.91,0.2125,2025-11,35-44,0
+ORD-00636,2025-03-05,C1075,32,West,Website,Bluetooth Headphones,Audio,2,2610.18,0.1,4698.32,3758.66,Referral,Net Banking,4,3,No,939.66,0.2,2025-03,25-34,0
+ORD-00637,2025-02-23,C1359,54,South,Mobile App,Bluetooth Headphones,Audio,3,2510.58,0.1,6778.57,5422.85,Email Offer,Debit Card,1,5,No,1355.72,0.2,2025-02,45-54,0
+ORD-00638,2026-01-20,C1207,48,South,Website,Webcam Pro,Office,2,3044.4,0.2,4871.04,4323.05,Organic,Cash,2,4,No,547.99,0.1125,2026-01,45-54,0
+ORD-00639,2026-01-01,C1128,61,South,Website,USB-C Hub,Accessories,2,1962.05,0.2,3139.28,2589.9,Festive Sale,Cash,6,4,No,549.38,0.175,2026-01,55+,0
+ORD-00640,2025-05-27,C1045,37,West,Mobile App,Laptop Stand,Office,2,1327.19,0.05,2521.66,1672.26,Referral,UPI,8,4,No,849.4,0.3368,2025-05,35-44,0
+ORD-00641,2025-02-09,C1006,45,North,Website,Smart Watch,Wearables,1,6411.34,0.1,5770.21,4808.5,Organic,Cash,5,4,No,961.71,0.1667,2025-02,45-54,0
+ORD-00642,2025-12-24,C1274,40,West,Website,Bluetooth Headphones,Audio,1,2469.0,0.0,2469.0,1777.68,Influencer,Cash,5,3,No,691.32,0.28,2025-12,35-44,0
+ORD-00643,2025-01-22,C1188,26,South,Mobile App,Portable Speaker,Audio,3,2084.59,0.2,5003.02,4565.24,Search Ads,UPI,2,4,No,437.78,0.0875,2025-01,25-34,0
+ORD-00644,2025-06-23,C1324,54,North,Website,Smart Watch,Wearables,1,5521.22,0.1,4969.1,4140.92,Search Ads,Cash,4,4,No,828.18,0.1667,2025-06,45-54,0
+ORD-00645,2026-02-27,C1236,39,West,Retail Store,Wireless Mouse,Accessories,3,735.83,0.0,2207.49,1523.17,Referral,Debit Card,2,4,No,684.32,0.31,2026-02,35-44,0
+ORD-00646,2025-01-05,C1250,18,West,Mobile App,Bluetooth Headphones,Audio,1,2463.3,0.2,1970.64,1773.58,Search Ads,Net Banking,6,3,No,197.06,0.1,2025-01,18-24,0
+ORD-00647,2025-07-22,C1225,60,East,Website,Mechanical Keyboard,Accessories,3,3279.93,0.2,7871.83,6887.86,Referral,Credit Card,3,5,No,983.97,0.125,2025-07,55+,0
+ORD-00648,2025-02-26,C1246,60,East,Website,Smart Watch,Wearables,1,6158.53,0.15,5234.75,4618.9,Festive Sale,Cash,5,5,No,615.85,0.1176,2025-02,55+,0
+ORD-00649,2025-09-11,C1380,42,East,Mobile App,USB-C Hub,Accessories,3,1967.67,0.15,5017.56,3895.98,Organic,Cash,4,3,No,1121.58,0.2235,2025-09,35-44,0
+ORD-00650,2025-01-07,C1246,36,North,Mobile App,Smart Watch,Wearables,1,5526.79,0.2,4421.43,4145.09,Influencer,Credit Card,3,3,No,276.34,0.0625,2025-01,35-44,0
+ORD-00651,2025-11-13,C1220,30,South,Website,USB-C Hub,Accessories,2,1822.24,0.1,3280.03,2405.35,Influencer,Credit Card,6,4,No,874.68,0.2667,2025-11,25-34,0
+ORD-00652,2025-04-07,C1219,19,South,Website,USB-C Hub,Accessories,1,2029.38,0.1,1826.44,1339.39,Search Ads,Net Banking,5,4,No,487.05,0.2667,2025-04,18-24,0
+ORD-00653,2025-07-28,C1027,37,South,Website,Laptop Stand,Office,1,1283.84,0.0,1283.84,808.82,Organic,Debit Card,6,3,No,475.02,0.37,2025-07,35-44,0
+ORD-00654,2025-01-25,C1144,56,North,Website,USB-C Hub,Accessories,2,1833.77,0.1,3300.79,2420.58,Search Ads,Debit Card,3,2,No,880.21,0.2667,2025-01,55+,0
+ORD-00655,2025-06-21,C1380,41,North,Website,Laptop Stand,Office,1,1263.92,0.2,1011.14,796.27,Search Ads,Credit Card,3,5,No,214.87,0.2125,2025-06,35-44,0
+ORD-00656,2025-10-27,C1336,30,North,Retail Store,Webcam Pro,Office,1,3040.54,0.1,2736.49,2158.78,Festive Sale,UPI,3,3,No,577.71,0.2111,2025-10,25-34,0
+ORD-00657,2025-10-07,C1023,26,East,Mobile App,Mechanical Keyboard,Accessories,5,3622.6,0.05,17207.35,12679.08,Organic,Debit Card,4,3,No,4528.27,0.2632,2025-10,25-34,0
+ORD-00658,2025-07-07,C1258,19,North,Retail Store,Portable Speaker,Audio,1,2350.76,0.15,1998.15,1716.05,Organic,Debit Card,7,3,No,282.1,0.1412,2025-07,18-24,0
+ORD-00659,2025-01-24,C1085,46,South,Mobile App,Wireless Mouse,Accessories,1,859.28,0.2,687.42,592.9,Organic,Credit Card,4,5,No,94.52,0.1375,2025-01,45-54,0
+ORD-00660,2025-04-05,C1363,51,South,Mobile App,Wireless Mouse,Accessories,2,793.3,0.0,1586.6,1094.76,Organic,Debit Card,2,3,No,491.84,0.31,2025-04,45-54,0
+ORD-00661,2025-10-10,C1143,26,South,Website,Bluetooth Headphones,Audio,2,2675.75,0.15,4548.77,3853.08,Festive Sale,Cash,3,3,No,695.69,0.1529,2025-10,25-34,0
+ORD-00662,2025-03-01,C1210,57,East,Mobile App,Wireless Mouse,Accessories,5,827.39,0.2,3309.56,2854.5,Festive Sale,UPI,3,4,No,455.06,0.1375,2025-03,55+,0
+ORD-00663,2026-02-26,C1353,42,South,Mobile App,Mechanical Keyboard,Accessories,1,3623.62,0.1,3261.26,2536.54,Festive Sale,Net Banking,2,5,No,724.72,0.2222,2026-02,35-44,0
+ORD-00664,2025-04-23,C1374,45,East,Website,Mechanical Keyboard,Accessories,2,3468.8,0.15,5896.96,4856.32,Search Ads,Net Banking,2,4,No,1040.64,0.1765,2025-04,45-54,0
+ORD-00665,2025-04-03,C1011,37,South,Mobile App,Portable Speaker,Audio,1,2250.92,0.15,1913.28,1643.17,Email Offer,Credit Card,2,3,No,270.11,0.1412,2025-04,35-44,0
+ORD-00666,2025-02-06,C1007,56,South,Website,Webcam Pro,Office,2,3107.81,0.15,5283.28,4413.09,Festive Sale,UPI,5,2,No,870.19,0.1647,2025-02,55+,0
+ORD-00667,2026-01-26,C1005,24,South,Website,Wireless Mouse,Accessories,1,811.74,0.05,771.15,560.1,Influencer,Net Banking,4,4,No,211.05,0.2737,2026-01,18-24,0
+ORD-00668,2026-01-24,C1064,19,South,Website,Portable Speaker,Audio,1,2243.85,0.2,1795.08,1638.01,Festive Sale,UPI,3,5,No,157.07,0.0875,2026-01,18-24,0
+ORD-00669,2025-09-19,C1336,36,South,Website,Webcam Pro,Office,1,2829.8,0.25,2122.35,2009.16,Email Offer,Net Banking,1,3,No,113.19,0.0533,2025-09,35-44,0
+ORD-00670,2025-03-28,C1044,20,South,Website,Bluetooth Headphones,Audio,4,2346.4,0.2,7508.48,6757.64,Festive Sale,Debit Card,6,4,No,750.84,0.1,2025-03,18-24,0
+ORD-00671,2025-11-04,C1179,24,West,Website,USB-C Hub,Accessories,2,1995.49,0.1,3591.88,2634.04,Organic,UPI,3,3,No,957.84,0.2667,2025-11,18-24,0
+ORD-00672,2026-02-08,C1245,22,South,Mobile App,Wireless Mouse,Accessories,1,827.3,0.25,620.47,570.83,Email Offer,Debit Card,5,3,No,49.64,0.08,2026-02,18-24,0
+ORD-00673,2025-03-16,C1218,48,East,Retail Store,Bluetooth Headphones,Audio,1,2426.76,0.15,2062.75,1747.26,Referral,Credit Card,4,5,No,315.49,0.1529,2025-03,45-54,0
+ORD-00674,2025-07-16,C1298,63,West,Mobile App,Webcam Pro,Office,1,2943.64,0.2,2354.91,2089.98,Search Ads,Credit Card,2,4,No,264.93,0.1125,2025-07,55+,0
+ORD-00675,2025-12-26,C1069,25,South,Website,Bluetooth Headphones,Audio,1,2522.34,0.0,2522.34,1816.09,Referral,Debit Card,6,2,No,706.25,0.28,2025-12,25-34,0
+ORD-00676,2025-08-24,C1357,63,West,Website,USB-C Hub,Accessories,3,1788.95,0.0,5366.85,3542.12,Influencer,Net Banking,1,3,No,1824.73,0.34,2025-08,55+,0
+ORD-00677,2025-07-10,C1188,27,North,Mobile App,Wireless Mouse,Accessories,1,738.94,0.2,591.15,509.87,Search Ads,Credit Card,1,2,No,81.28,0.1375,2025-07,25-34,0
+ORD-00678,2025-08-29,C1147,25,East,Mobile App,USB-C Hub,Accessories,2,1958.32,0.15,3329.14,2584.99,Influencer,Cash,2,3,No,744.15,0.2235,2025-08,25-34,0
+ORD-00679,2026-01-20,C1133,54,South,Website,USB-C Hub,Accessories,3,1963.23,0.15,5006.24,3887.2,Organic,Cash,3,4,No,1119.04,0.2235,2026-01,45-54,0
+ORD-00680,2025-07-13,C1287,56,South,Website,USB-C Hub,Accessories,1,1996.99,0.15,1697.44,1318.01,Search Ads,Net Banking,4,5,No,379.43,0.2235,2025-07,55+,0
+ORD-00681,2025-06-10,C1054,22,West,Website,Webcam Pro,Office,3,2888.6,0.15,7365.93,6152.71,Search Ads,Cash,3,4,No,1213.22,0.1647,2025-06,18-24,0
+ORD-00682,2025-02-24,C1327,20,South,Mobile App,Bluetooth Headphones,Audio,2,2519.67,0.1,4535.41,3628.32,Search Ads,Cash,5,3,No,907.09,0.2,2025-02,18-24,0
+ORD-00683,2025-01-23,C1204,50,North,Website,Portable Speaker,Audio,1,2287.55,0.2,1830.04,1669.91,Festive Sale,UPI,3,3,No,160.13,0.0875,2025-01,45-54,0
+ORD-00684,2025-06-19,C1245,55,North,Mobile App,Webcam Pro,Office,3,3141.07,0.0,9423.21,6690.47,Organic,Credit Card,1,5,Yes,2732.74,0.29,2025-06,55+,1
+ORD-00685,2025-12-16,C1335,27,North,Retail Store,Portable Speaker,Audio,1,2307.18,0.05,2191.82,1684.24,Search Ads,Cash,6,5,No,507.58,0.2316,2025-12,25-34,0
+ORD-00686,2025-11-30,C1221,20,West,Mobile App,Mechanical Keyboard,Accessories,1,3698.28,0.1,3328.45,2588.79,Organic,Credit Card,3,5,No,739.66,0.2222,2025-11,18-24,0
+ORD-00687,2025-04-17,C1159,53,South,Mobile App,Bluetooth Headphones,Audio,5,2605.48,0.15,11073.29,9379.74,Festive Sale,Debit Card,5,5,No,1693.55,0.1529,2025-04,45-54,0
+ORD-00688,2025-03-28,C1236,34,South,Website,Laptop Stand,Office,2,1232.32,0.1,2218.18,1552.73,Festive Sale,Credit Card,3,5,No,665.45,0.3,2025-03,25-34,0
+ORD-00689,2025-03-05,C1067,46,North,Website,Portable Speaker,Audio,1,2345.77,0.15,1993.9,1712.41,Organic,Net Banking,5,4,No,281.49,0.1412,2025-03,45-54,0
+ORD-00690,2025-09-17,C1030,33,East,Retail Store,Portable Speaker,Audio,5,2366.98,0.0,11834.9,8639.48,Organic,UPI,3,5,No,3195.42,0.27,2025-09,25-34,0
+ORD-00691,2025-05-29,C1179,47,South,Mobile App,Webcam Pro,Office,3,3080.17,0.25,6930.38,6560.75,Email Offer,UPI,4,4,No,369.63,0.0533,2025-05,45-54,0
+ORD-00692,2025-07-23,C1360,48,South,Website,Webcam Pro,Office,1,2992.42,0.1,2693.18,2124.62,Organic,Credit Card,3,3,No,568.56,0.2111,2025-07,45-54,0
+ORD-00693,2025-08-29,C1186,45,South,Website,USB-C Hub,Accessories,1,2031.61,0.1,1828.45,1340.87,Email Offer,Net Banking,4,5,No,487.58,0.2667,2025-08,45-54,0
+ORD-00694,2025-05-19,C1232,44,South,Website,Laptop Stand,Office,1,1376.69,0.2,1101.35,867.31,Festive Sale,Credit Card,4,4,No,234.04,0.2125,2025-05,35-44,0
+ORD-00695,2026-03-02,C1215,48,North,Retail Store,Wireless Mouse,Accessories,1,760.47,0.1,684.42,524.72,Search Ads,Cash,5,4,No,159.7,0.2333,2026-03,45-54,0
+ORD-00696,2025-07-19,C1376,38,South,Website,Wireless Mouse,Accessories,2,776.47,0.2,1242.35,1071.52,Search Ads,Net Banking,6,1,No,170.83,0.1375,2025-07,35-44,0
+ORD-00697,2026-03-19,C1231,26,North,Mobile App,Mechanical Keyboard,Accessories,2,3623.44,0.1,6522.19,5072.82,Organic,Credit Card,3,4,No,1449.37,0.2222,2026-03,25-34,0
+ORD-00698,2025-08-04,C1008,41,West,Website,USB-C Hub,Accessories,1,1922.35,0.05,1826.23,1268.75,Influencer,Cash,3,5,Yes,557.48,0.3053,2025-08,35-44,1
+ORD-00699,2026-02-24,C1278,45,West,Mobile App,Bluetooth Headphones,Audio,1,2439.91,0.15,2073.92,1756.73,Referral,Debit Card,4,4,No,317.19,0.1529,2026-02,45-54,0
+ORD-00700,2025-04-01,C1318,24,West,Website,USB-C Hub,Accessories,3,1833.14,0.15,4674.51,3629.62,Influencer,UPI,4,5,No,1044.89,0.2235,2025-04,18-24,0
+ORD-00701,2025-11-29,C1228,50,West,Website,Wireless Mouse,Accessories,2,747.83,0.2,1196.53,1032.0,Organic,Net Banking,3,4,Yes,164.53,0.1375,2025-11,45-54,1
+ORD-00702,2025-10-10,C1238,44,North,Website,Webcam Pro,Office,1,3223.38,0.0,3223.38,2288.6,Referral,Net Banking,5,5,No,934.78,0.29,2025-10,35-44,0
+ORD-00703,2025-01-04,C1213,61,South,Mobile App,Mechanical Keyboard,Accessories,1,3688.5,0.1,3319.65,2581.95,Referral,Debit Card,3,3,No,737.7,0.2222,2025-01,55+,0
+ORD-00704,2026-03-07,C1201,30,East,Website,Mechanical Keyboard,Accessories,2,3530.21,0.15,6001.36,4942.29,Search Ads,Cash,4,4,No,1059.07,0.1765,2026-03,25-34,0
+ORD-00705,2025-08-08,C1119,24,West,Retail Store,USB-C Hub,Accessories,1,1795.22,0.1,1615.7,1184.85,Organic,Debit Card,5,5,No,430.85,0.2667,2025-08,18-24,0
+ORD-00706,2026-03-05,C1363,52,East,Website,USB-C Hub,Accessories,1,1755.53,0.15,1492.2,1158.65,Festive Sale,UPI,5,5,No,333.55,0.2235,2026-03,45-54,0
+ORD-00707,2026-01-16,C1114,37,West,Mobile App,USB-C Hub,Accessories,3,1945.34,0.05,5544.22,3851.78,Search Ads,Debit Card,3,3,No,1692.44,0.3053,2026-01,35-44,0
+ORD-00708,2025-12-04,C1053,25,East,Website,Wireless Mouse,Accessories,1,860.98,0.0,860.98,594.07,Influencer,Credit Card,1,4,No,266.91,0.31,2025-12,25-34,0
+ORD-00709,2025-05-25,C1252,19,South,Website,Laptop Stand,Office,1,1276.3,0.1,1148.67,804.07,Search Ads,Net Banking,3,4,No,344.6,0.3,2025-05,18-24,0
+ORD-00710,2025-06-10,C1311,20,South,Website,Portable Speaker,Audio,1,2222.68,0.05,2111.55,1622.55,Influencer,Unknown,3,3,No,489.0,0.2316,2025-06,18-24,0
+ORD-00711,2025-11-11,C1275,19,South,Mobile App,Wireless Mouse,Accessories,1,812.57,0.0,812.57,560.67,Search Ads,UPI,4,4,No,251.9,0.31,2025-11,18-24,0
+ORD-00712,2025-06-17,C1103,23,South,Website,USB-C Hub,Accessories,2,1830.23,0.05,3477.44,2415.9,Referral,Net Banking,5,4,No,1061.54,0.3053,2025-06,18-24,0
+ORD-00713,2026-01-17,C1352,63,West,Mobile App,Portable Speaker,Audio,1,2083.93,0.05,1979.73,1521.27,Referral,Credit Card,1,3,No,458.46,0.2316,2026-01,55+,0
+ORD-00714,2026-02-11,C1164,57,West,Website,Smart Watch,Wearables,1,5779.84,0.2,4623.87,4334.88,Influencer,Cash,2,2,No,288.99,0.0625,2026-02,55+,0
+ORD-00715,2025-06-30,C1151,56,North,Website,Mechanical Keyboard,Accessories,3,3547.63,0.2,8514.31,7450.03,Referral,UPI,5,5,No,1064.28,0.125,2025-06,55+,0
+ORD-00716,2025-04-03,C1191,27,West,Mobile App,Mechanical Keyboard,Accessories,1,3586.87,0.0,3586.87,2510.81,Search Ads,UPI,3,5,No,1076.06,0.3,2025-04,25-34,0
+ORD-00717,2026-01-03,C1146,56,South,Mobile App,Mechanical Keyboard,Accessories,3,3256.16,0.05,9280.06,6837.94,Organic,UPI,1,3,No,2442.12,0.2632,2026-01,55+,0
+ORD-00718,2025-10-21,C1141,44,West,Website,Webcam Pro,Office,1,2998.35,0.25,2248.76,2128.83,Festive Sale,Debit Card,3,3,No,119.93,0.0533,2025-10,35-44,0
+ORD-00719,2025-10-30,C1207,20,South,Mobile App,Webcam Pro,Office,1,2895.53,0.25,2171.65,2055.83,Festive Sale,Net Banking,6,5,No,115.82,0.0533,2025-10,18-24,0
+ORD-00720,2025-02-18,C1025,43,East,Website,Webcam Pro,Office,2,2996.03,0.2,4793.65,4254.37,Festive Sale,UPI,4,4,No,539.28,0.1125,2025-02,35-44,0
+ORD-00721,2026-03-08,C1166,62,North,Website,Mechanical Keyboard,Accessories,1,3277.94,0.0,3277.94,2294.56,Search Ads,Cash,6,5,No,983.38,0.3,2026-03,55+,0
+ORD-00722,2025-01-03,C1169,62,East,Retail Store,Wireless Mouse,Accessories,1,744.67,0.0,744.67,513.82,Referral,Credit Card,5,4,No,230.85,0.31,2025-01,55+,0
+ORD-00723,2025-03-12,C1268,51,North,Website,Portable Speaker,Audio,3,2258.19,0.25,5080.93,4945.44,Email Offer,Net Banking,2,3,No,135.49,0.0267,2025-03,45-54,0
+ORD-00724,2025-04-26,C1125,60,East,Mobile App,Bluetooth Headphones,Audio,2,2633.16,0.1,4739.69,3791.75,Organic,UPI,4,4,No,947.94,0.2,2025-04,55+,0
+ORD-00725,2025-02-08,C1175,31,North,Website,Portable Speaker,Audio,2,2194.65,0.15,3730.9,3204.19,Email Offer,Net Banking,2,5,No,526.71,0.1412,2025-02,25-34,0
+ORD-00726,2025-12-02,C1263,30,North,Retail Store,USB-C Hub,Accessories,1,2010.77,0.25,1508.08,1327.11,Email Offer,Net Banking,4,5,No,180.97,0.12,2025-12,25-34,0
+ORD-00727,2025-03-26,C1236,29,North,Website,Laptop Stand,Office,3,1198.53,0.0,3595.59,2265.22,Search Ads,Cash,2,3,No,1330.37,0.37,2025-03,25-34,0
+ORD-00728,2025-02-13,C1226,35,West,Website,Mechanical Keyboard,Accessories,1,3405.92,0.15,2895.03,2384.14,Organic,Net Banking,3,4,Yes,510.89,0.1765,2025-02,35-44,1
+ORD-00729,2025-04-10,C1222,24,South,Website,Laptop Stand,Office,2,1297.67,0.2,2076.27,1635.07,Organic,UPI,5,5,No,441.2,0.2125,2025-04,18-24,0
+ORD-00730,2025-10-22,C1208,43,South,Website,Laptop Stand,Office,1,1340.47,0.05,1273.45,844.49,Organic,Debit Card,3,4,No,428.96,0.3368,2025-10,35-44,0
+ORD-00731,2025-09-11,C1376,18,South,Mobile App,Smart Watch,Wearables,1,6091.45,0.1,5482.3,4568.58,Influencer,Credit Card,3,2,No,913.72,0.1667,2025-09,18-24,0
+ORD-00732,2025-03-29,C1342,48,North,Website,Mechanical Keyboard,Accessories,1,3757.78,0.15,3194.11,2630.45,Search Ads,UPI,2,4,Yes,563.66,0.1765,2025-03,45-54,1
+ORD-00733,2025-03-29,C1024,19,East,Retail Store,Wireless Mouse,Accessories,2,795.49,0.15,1352.33,1097.78,Search Ads,Credit Card,5,4,No,254.55,0.1882,2025-03,18-24,0
+ORD-00734,2026-02-01,C1132,60,North,Website,Bluetooth Headphones,Audio,2,2694.84,0.2,4311.74,3880.57,Email Offer,Debit Card,2,4,No,431.17,0.1,2026-02,55+,0
+ORD-00735,2025-06-04,C1113,60,West,Website,Mechanical Keyboard,Accessories,2,3766.96,0.0,7533.92,5273.74,Search Ads,Net Banking,6,5,No,2260.18,0.3,2025-06,55+,0
+ORD-00736,2025-07-04,C1348,52,North,Website,Smart Watch,Wearables,4,6361.0,0.0,25444.0,19082.99,Referral,Credit Card,4,5,No,6361.01,0.25,2025-07,45-54,0
+ORD-00737,2025-05-16,C1297,51,East,Website,Mechanical Keyboard,Accessories,1,3325.77,0.1,2993.19,2328.04,Referral,Debit Card,6,5,No,665.15,0.2222,2025-05,45-54,0
+ORD-00738,2025-05-28,C1149,57,North,Mobile App,Bluetooth Headphones,Audio,2,2359.15,0.15,4010.56,3397.17,Influencer,Debit Card,6,4,No,613.39,0.1529,2025-05,55+,0
+ORD-00739,2025-02-03,C1003,45,North,Website,Laptop Stand,Office,1,1296.58,0.1,1166.92,816.85,Festive Sale,Cash,5,4,No,350.07,0.3,2025-02,45-54,0
+ORD-00740,2025-12-07,C1017,48,North,Mobile App,USB-C Hub,Accessories,1,1835.44,0.1,1651.9,1211.39,Email Offer,Net Banking,4,5,No,440.51,0.2667,2025-12,45-54,0
+ORD-00741,2025-08-05,C1224,61,North,Retail Store,Webcam Pro,Office,4,2842.24,0.2,9095.17,8071.95,Referral,Credit Card,5,5,No,1023.22,0.1125,2025-08,55+,0
+ORD-00742,2025-08-02,C1224,24,East,Website,Smart Watch,Wearables,1,5695.09,0.15,4840.83,4271.32,Organic,Cash,6,3,No,569.51,0.1176,2025-08,18-24,0
+ORD-00743,2025-12-17,C1014,44,West,Website,Mechanical Keyboard,Accessories,1,3729.97,0.1,3356.97,2610.98,Email Offer,Cash,6,2,No,745.99,0.2222,2025-12,35-44,0
+ORD-00744,2025-07-11,C1391,51,East,Website,USB-C Hub,Accessories,3,1887.7,0.1,5096.79,3737.65,Email Offer,Debit Card,2,4,No,1359.14,0.2667,2025-07,45-54,0
+ORD-00745,2026-03-01,C1063,55,East,Mobile App,Bluetooth Headphones,Audio,3,2644.67,0.2,6347.21,5712.48,Email Offer,Cash,5,4,No,634.73,0.1,2026-03,55+,0
+ORD-00746,2026-01-15,C1369,18,South,Website,Portable Speaker,Audio,2,2244.12,0.05,4263.83,3276.41,Referral,UPI,4,5,No,987.42,0.2316,2026-01,18-24,0
+ORD-00747,2025-02-04,C1243,19,South,Mobile App,Wireless Mouse,Accessories,1,761.2,0.0,761.2,525.23,Search Ads,Net Banking,4,5,No,235.97,0.31,2025-02,18-24,0
+ORD-00748,2025-04-05,C1012,29,East,Retail Store,Smart Watch,Wearables,2,5659.45,0.25,8489.17,8489.18,Festive Sale,Credit Card,4,3,No,-0.01,-0.0,2025-04,25-34,0
+ORD-00749,2025-09-19,C1342,35,West,Mobile App,Smart Watch,Wearables,1,5992.25,0.0,5992.25,4494.19,Organic,Credit Card,5,4,No,1498.06,0.25,2025-09,35-44,0
+ORD-00750,2025-01-15,C1334,60,West,Website,Laptop Stand,Office,1,1202.16,0.2,961.73,757.36,Referral,Credit Card,5,4,Yes,204.37,0.2125,2025-01,55+,1
+ORD-00751,2025-08-28,C1362,51,East,Website,Portable Speaker,Audio,1,2097.24,0.2,1677.79,1530.99,Organic,Cash,3,4,Yes,146.8,0.0875,2025-08,45-54,1
+ORD-00752,2025-06-23,C1331,48,South,Website,Portable Speaker,Audio,2,2345.42,0.1,4221.76,3424.32,Email Offer,Credit Card,2,4,No,797.44,0.1889,2025-06,45-54,0
+ORD-00753,2025-10-22,C1207,22,South,Mobile App,Laptop Stand,Office,2,1316.56,0.2,2106.5,1658.87,Referral,Net Banking,4,2,No,447.63,0.2125,2025-10,18-24,0
+ORD-00754,2025-12-14,C1197,44,East,Mobile App,Portable Speaker,Audio,5,2279.28,0.15,9686.94,8319.36,Festive Sale,UPI,4,5,Yes,1367.58,0.1412,2025-12,35-44,1
+ORD-00755,2025-01-20,C1358,46,West,Mobile App,Bluetooth Headphones,Audio,2,2427.49,0.0,4854.98,3495.59,Search Ads,Net Banking,3,4,No,1359.39,0.28,2025-01,45-54,0
+ORD-00756,2025-08-13,C1013,58,South,Website,Laptop Stand,Office,1,1212.96,0.2,970.37,764.16,Search Ads,Credit Card,3,5,No,206.21,0.2125,2025-08,55+,0
+ORD-00757,2025-01-03,C1373,59,West,Mobile App,Mechanical Keyboard,Accessories,3,3601.09,0.1,9722.94,7562.3,Search Ads,Debit Card,4,4,No,2160.64,0.2222,2025-01,55+,0
+ORD-00758,2025-07-02,C1265,37,North,Website,USB-C Hub,Accessories,2,1770.82,0.0,3541.64,2337.49,Organic,Cash,7,2,No,1204.15,0.34,2025-07,35-44,0
+ORD-00759,2025-10-04,C1081,36,North,Website,Mechanical Keyboard,Accessories,4,3257.12,0.2,10422.78,9119.94,Email Offer,Debit Card,6,2,No,1302.84,0.125,2025-10,35-44,0
+ORD-00760,2025-07-24,C1174,44,North,Mobile App,Wireless Mouse,Accessories,4,738.91,0.1,2660.08,2039.4,Influencer,Credit Card,1,3,No,620.68,0.2333,2025-07,35-44,0
+ORD-00761,2025-04-15,C1392,20,North,Website,Mechanical Keyboard,Accessories,1,3612.7,0.2,2890.16,2528.89,Organic,Cash,1,4,No,361.27,0.125,2025-04,18-24,0
+ORD-00762,2025-09-03,C1180,45,East,Mobile App,USB-C Hub,Accessories,1,1815.52,0.15,1543.19,1198.24,Organic,UPI,5,4,No,344.95,0.2235,2025-09,45-54,0
+ORD-00763,2025-01-29,C1199,42,South,Mobile App,Wireless Mouse,Accessories,3,796.72,0.0,2390.16,1649.21,Organic,UPI,3,5,No,740.95,0.31,2025-01,35-44,0
+ORD-00764,2025-11-12,C1302,18,East,Website,Mechanical Keyboard,Accessories,1,3348.98,0.0,3348.98,2344.29,Search Ads,Cash,4,3,No,1004.69,0.3,2025-11,18-24,0
+ORD-00765,2025-01-24,C1161,40,South,Mobile App,Wireless Mouse,Accessories,1,771.21,0.15,655.53,532.13,Email Offer,Net Banking,5,4,No,123.4,0.1882,2025-01,35-44,0
+ORD-00766,2025-12-03,C1113,46,North,Website,Bluetooth Headphones,Audio,4,2657.99,0.2,8505.57,7655.02,Email Offer,Debit Card,4,5,No,850.55,0.1,2025-12,45-54,0
+ORD-00767,2026-03-21,C1362,57,East,Website,Smart Watch,Wearables,2,6383.34,0.2,10213.34,9575.02,Festive Sale,Credit Card,6,4,No,638.32,0.0625,2026-03,55+,0
+ORD-00768,2025-06-06,C1333,47,North,Website,Smart Watch,Wearables,3,6189.38,0.15,15782.92,13926.1,Festive Sale,Debit Card,2,5,Yes,1856.82,0.1176,2025-06,45-54,1
+ORD-00769,2025-05-23,C1010,42,East,Retail Store,Webcam Pro,Office,1,2943.31,0.1,2648.98,2089.75,Organic,Cash,4,4,Yes,559.23,0.2111,2025-05,35-44,1
+ORD-00770,2025-01-27,C1173,34,North,Mobile App,Laptop Stand,Office,1,1351.89,0.0,1351.89,851.69,Organic,Debit Card,5,5,No,500.2,0.37,2025-01,25-34,0
+ORD-00771,2026-01-07,C1348,36,West,Mobile App,Webcam Pro,Office,4,3216.11,0.25,9648.33,9133.77,Festive Sale,Cash,2,5,No,514.56,0.0533,2026-01,35-44,0
+ORD-00772,2025-05-14,C1144,61,West,Mobile App,USB-C Hub,Accessories,5,2022.88,0.05,9608.68,6675.5,Search Ads,Cash,4,5,No,2933.18,0.3053,2025-05,55+,0
+ORD-00773,2025-06-01,C1335,56,West,Website,Mechanical Keyboard,Accessories,1,3359.33,0.1,3023.4,2351.53,Influencer,Net Banking,2,1,No,671.87,0.2222,2025-06,55+,0
+ORD-00774,2025-08-25,C1297,23,West,Website,Wireless Mouse,Accessories,1,787.32,0.15,669.22,543.25,Email Offer,UPI,1,3,No,125.97,0.1882,2025-08,18-24,0
+ORD-00775,2025-08-14,C1090,27,East,Mobile App,USB-C Hub,Accessories,1,1816.18,0.15,1543.75,1198.68,Search Ads,Cash,4,5,No,345.07,0.2235,2025-08,25-34,0
+ORD-00776,2026-03-17,C1132,19,East,Website,Portable Speaker,Audio,2,2372.1,0.0,4744.2,3463.26,Influencer,Cash,6,4,No,1280.94,0.27,2026-03,18-24,0
+ORD-00777,2026-01-03,C1167,54,South,Website,Wireless Mouse,Accessories,1,765.38,0.1,688.84,528.11,Festive Sale,Credit Card,2,4,No,160.73,0.2333,2026-01,45-54,0
+ORD-00778,2025-01-13,C1083,41,East,Website,Mechanical Keyboard,Accessories,1,3567.25,0.2,2853.8,2497.08,Email Offer,UPI,5,2,No,356.72,0.125,2025-01,35-44,0
+ORD-00779,2025-02-24,C1111,42,East,Mobile App,Smart Watch,Wearables,3,6203.29,0.2,14887.9,13957.41,Organic,UPI,3,5,Yes,930.49,0.0625,2025-02,35-44,1
+ORD-00780,2025-02-09,C1267,46,West,Mobile App,Smart Watch,Wearables,1,6151.8,0.25,4613.85,4613.85,Festive Sale,Debit Card,2,4,No,0.0,0.0,2025-02,45-54,0
+ORD-00781,2025-05-05,C1060,62,South,Mobile App,Mechanical Keyboard,Accessories,5,3637.95,0.2,14551.8,12732.81,Email Offer,Cash,5,3,No,1818.99,0.125,2025-05,55+,0
+ORD-00782,2025-09-16,C1065,52,East,Mobile App,Bluetooth Headphones,Audio,2,2526.73,0.15,4295.44,3638.49,Email Offer,Cash,3,3,No,656.95,0.1529,2025-09,45-54,0
+ORD-00783,2025-12-07,C1076,54,East,Mobile App,USB-C Hub,Accessories,1,1875.0,0.25,1406.25,1237.5,Festive Sale,UPI,4,4,No,168.75,0.12,2025-12,45-54,0
+ORD-00784,2025-03-27,C1018,45,West,Website,Bluetooth Headphones,Audio,2,2339.46,0.15,3977.08,3368.83,Influencer,Credit Card,5,1,No,608.25,0.1529,2025-03,45-54,0
+ORD-00785,2025-09-21,C1061,39,West,Website,Webcam Pro,Office,1,3100.72,0.2,2480.58,2201.51,Search Ads,UPI,2,5,No,279.07,0.1125,2025-09,35-44,0
+ORD-00786,2025-02-07,C1359,26,West,Retail Store,Mechanical Keyboard,Accessories,2,3643.25,0.15,6193.52,5100.55,Referral,Cash,2,5,No,1092.97,0.1765,2025-02,25-34,0
+ORD-00787,2025-02-12,C1261,55,North,Mobile App,USB-C Hub,Accessories,1,1880.34,0.2,1504.27,1241.02,Email Offer,Cash,4,3,No,263.25,0.175,2025-02,55+,0
+ORD-00788,2025-09-23,C1377,31,East,Website,Webcam Pro,Office,1,2779.2,0.05,2640.24,1973.23,Search Ads,Debit Card,6,4,No,667.01,0.2526,2025-09,25-34,0
+ORD-00789,2025-02-20,C1148,34,East,Website,Mechanical Keyboard,Accessories,1,3714.73,0.15,3157.52,2600.31,Email Offer,UPI,6,5,No,557.21,0.1765,2025-02,25-34,0
+ORD-00790,2025-04-16,C1004,49,North,Mobile App,USB-C Hub,Accessories,1,1989.85,0.2,1591.88,1313.3,Organic,Debit Card,3,5,Yes,278.58,0.175,2025-04,45-54,1
+ORD-00791,2025-10-20,C1222,49,West,Mobile App,Webcam Pro,Office,3,2972.32,0.1,8025.26,6331.05,Festive Sale,Debit Card,6,3,No,1694.21,0.2111,2025-10,45-54,0
+ORD-00792,2026-02-16,C1323,50,South,Mobile App,Bluetooth Headphones,Audio,1,2409.48,0.2,1927.58,1734.82,Referral,Debit Card,4,4,Yes,192.76,0.1,2026-02,45-54,1
+ORD-00793,2025-01-20,C1339,58,North,Retail Store,Webcam Pro,Office,3,3162.83,0.1,8539.64,6736.83,Search Ads,Credit Card,5,1,No,1802.81,0.2111,2025-01,55+,0
+ORD-00794,2025-12-11,C1068,30,East,Mobile App,Smart Watch,Wearables,1,5995.86,0.05,5696.07,4496.89,Influencer,Credit Card,4,4,No,1199.18,0.2105,2025-12,25-34,0
+ORD-00795,2025-01-02,C1315,42,North,Mobile App,Webcam Pro,Office,2,3089.2,0.25,4633.8,4386.67,Festive Sale,Debit Card,3,4,No,247.13,0.0533,2025-01,35-44,0
+ORD-00796,2026-03-07,C1247,36,East,Mobile App,Smart Watch,Wearables,1,5861.87,0.15,4982.59,4396.4,Organic,Net Banking,5,2,No,586.19,0.1176,2026-03,35-44,0
+ORD-00797,2025-08-17,C1178,62,South,Mobile App,Mechanical Keyboard,Accessories,1,3588.92,0.15,3050.58,2512.24,Referral,Cash,6,4,No,538.34,0.1765,2025-08,55+,0
+ORD-00798,2025-07-30,C1163,44,North,Website,Smart Watch,Wearables,1,5770.18,0.2,4616.14,4327.63,Festive Sale,Debit Card,2,4,No,288.51,0.0625,2025-07,35-44,0
+ORD-00799,2025-01-28,C1114,54,West,Mobile App,Laptop Stand,Office,1,1288.12,0.0,1288.12,811.51,Referral,Cash,4,5,No,476.61,0.37,2025-01,45-54,0
+ORD-00800,2025-06-18,C1393,53,North,Retail Store,USB-C Hub,Accessories,1,2024.25,0.2,1619.4,1336.01,Festive Sale,Debit Card,3,2,Yes,283.39,0.175,2025-06,45-54,1
+ORD-00801,2025-10-02,C1192,39,South,Retail Store,Smart Watch,Wearables,1,6288.19,0.05,5973.78,4716.14,Referral,Cash,4,4,No,1257.64,0.2105,2025-10,35-44,0
+ORD-00802,2025-02-22,C1353,33,West,Website,Webcam Pro,Office,1,3062.13,0.0,3062.13,2174.11,Search Ads,Net Banking,4,1,No,888.02,0.29,2025-02,25-34,0
+ORD-00803,2025-03-09,C1278,56,North,Website,Laptop Stand,Office,1,1349.43,0.1,1214.49,850.14,Festive Sale,Debit Card,2,5,No,364.35,0.3,2025-03,55+,0
+ORD-00804,2026-02-06,C1336,54,West,Mobile App,Mechanical Keyboard,Accessories,1,3274.88,0.15,2783.65,2292.42,Email Offer,Credit Card,3,4,No,491.23,0.1765,2026-02,45-54,0
+ORD-00805,2025-07-28,C1255,43,West,Website,Laptop Stand,Office,2,1274.56,0.2,2039.3,1605.95,Search Ads,UPI,3,5,No,433.35,0.2125,2025-07,35-44,0
+ORD-00806,2025-07-23,C1323,23,West,Website,Smart Watch,Wearables,2,5657.08,0.1,10182.74,8485.62,Referral,Cash,2,2,No,1697.12,0.1667,2025-07,18-24,0
+ORD-00807,2025-05-08,C1390,32,South,Website,Bluetooth Headphones,Audio,3,2634.81,0.2,6323.54,5691.18,Influencer,UPI,1,2,No,632.36,0.1,2025-05,25-34,0
+ORD-00808,2025-06-14,C1334,33,North,Website,Webcam Pro,Office,1,2909.28,0.25,2181.96,2065.59,Email Offer,Cash,5,4,No,116.37,0.0533,2025-06,25-34,0
+ORD-00809,2026-03-16,C1063,28,North,Website,Bluetooth Headphones,Audio,1,2506.97,0.15,2130.92,1805.02,Festive Sale,Credit Card,6,3,No,325.9,0.1529,2026-03,25-34,0
+ORD-00810,2025-11-17,C1151,61,South,Mobile App,Portable Speaker,Audio,2,2064.45,0.2,3303.12,3014.1,Festive Sale,Cash,6,3,No,289.02,0.0875,2025-11,55+,0
+ORD-00811,2025-11-29,C1310,34,South,Website,USB-C Hub,Accessories,2,1859.88,0.2,2975.81,2455.04,Influencer,Credit Card,2,4,No,520.77,0.175,2025-11,25-34,0
+ORD-00812,2025-09-26,C1097,30,North,Website,Portable Speaker,Audio,1,2132.8,0.1,1919.52,1556.94,Festive Sale,UPI,6,5,No,362.58,0.1889,2025-09,25-34,0
+ORD-00813,2025-02-01,C1099,35,South,Website,Portable Speaker,Audio,2,2244.32,0.05,4264.21,3276.71,Referral,Cash,1,3,No,987.5,0.2316,2025-02,35-44,0
+ORD-00814,2026-01-28,C1111,35,East,Mobile App,Webcam Pro,Office,2,2808.49,0.15,4774.43,3988.06,Festive Sale,Cash,5,3,No,786.37,0.1647,2026-01,35-44,0
+ORD-00815,2025-10-28,C1378,57,East,Mobile App,Webcam Pro,Office,3,3222.92,0.2,7735.01,6864.82,Referral,UPI,5,4,No,870.19,0.1125,2025-10,55+,0
+ORD-00816,2026-02-16,C1226,41,South,Website,USB-C Hub,Accessories,3,1788.7,0.1,4829.49,3541.62,Festive Sale,UPI,6,4,No,1287.87,0.2667,2026-02,35-44,0
+ORD-00817,2025-05-04,C1163,51,West,Mobile App,Webcam Pro,Office,2,3161.5,0.1,5690.7,4489.33,Referral,Debit Card,4,2,No,1201.37,0.2111,2025-05,45-54,0
+ORD-00818,2025-12-31,C1223,59,West,Mobile App,USB-C Hub,Accessories,1,1783.61,0.1,1605.25,1177.19,Influencer,Net Banking,5,4,Yes,428.06,0.2667,2025-12,55+,1
+ORD-00819,2026-01-30,C1383,18,West,Website,Mechanical Keyboard,Accessories,2,3319.29,0.2,5310.86,4647.01,Email Offer,UPI,4,3,No,663.85,0.125,2026-01,18-24,0
+ORD-00820,2025-07-08,C1023,62,North,Mobile App,Laptop Stand,Office,1,1294.58,0.1,1165.12,815.59,Influencer,Cash,6,5,No,349.53,0.3,2025-07,55+,0
+ORD-00821,2026-02-26,C1332,52,West,Retail Store,Wireless Mouse,Accessories,2,795.61,0.15,1352.54,1097.94,Search Ads,Credit Card,7,5,Yes,254.6,0.1882,2026-02,45-54,1
+ORD-00822,2026-03-22,C1279,35,North,Website,USB-C Hub,Accessories,3,1842.56,0.1,4974.91,3648.26,Email Offer,UPI,4,5,No,1326.65,0.2667,2026-03,35-44,0
+ORD-00823,2025-06-20,C1341,43,South,Retail Store,Mechanical Keyboard,Accessories,2,3227.01,0.1,5808.62,4517.82,Organic,Credit Card,5,4,No,1290.8,0.2222,2025-06,35-44,0
+ORD-00824,2026-01-09,C1210,29,North,Website,Laptop Stand,Office,1,1338.22,0.2,1070.58,843.08,Search Ads,Debit Card,4,4,No,227.5,0.2125,2026-01,25-34,0
+ORD-00825,2025-05-21,C1046,25,North,Website,Mechanical Keyboard,Accessories,2,3739.88,0.0,7479.76,5235.84,Organic,UPI,5,5,No,2243.92,0.3,2025-05,25-34,0
+ORD-00826,2026-01-28,C1158,61,North,Website,USB-C Hub,Accessories,1,2033.67,0.0,2033.67,1342.22,Influencer,Credit Card,4,4,No,691.45,0.34,2026-01,55+,0
+ORD-00827,2025-06-08,C1116,30,West,Mobile App,Wireless Mouse,Accessories,1,775.42,0.05,736.65,535.04,Organic,Debit Card,5,3,No,201.61,0.2737,2025-06,25-34,0
+ORD-00828,2025-02-17,C1300,42,East,Mobile App,Portable Speaker,Audio,1,2036.0,0.15,1730.6,1486.28,Email Offer,Net Banking,4,3,No,244.32,0.1412,2025-02,35-44,0
+ORD-00829,2025-06-27,C1047,50,South,Website,Laptop Stand,Office,4,1360.17,0.2,4352.54,3427.62,Influencer,Cash,3,5,No,924.92,0.2125,2025-06,45-54,0
+ORD-00830,2025-12-04,C1302,20,West,Website,USB-C Hub,Accessories,2,1861.9,0.1,3351.42,2457.71,Organic,UPI,4,4,No,893.71,0.2667,2025-12,18-24,0
+ORD-00831,2025-03-23,C1157,28,West,Website,Webcam Pro,Office,2,3197.25,0.0,6394.5,4540.09,Search Ads,Cash,7,4,No,1854.41,0.29,2025-03,25-34,0
+ORD-00832,2025-10-22,C1348,43,West,Mobile App,Webcam Pro,Office,1,2921.21,0.1,2629.09,2074.06,Organic,Cash,4,4,No,555.03,0.2111,2025-10,35-44,0
+ORD-00833,2025-02-25,C1263,28,West,Mobile App,Webcam Pro,Office,4,2772.78,0.15,9427.45,7874.7,Organic,Cash,7,5,No,1552.75,0.1647,2025-02,25-34,0
+ORD-00834,2026-01-20,C1073,40,South,Mobile App,USB-C Hub,Accessories,3,1987.98,0.2,4771.15,3936.21,Festive Sale,Credit Card,3,4,No,834.94,0.175,2026-01,35-44,0
+ORD-00835,2025-04-13,C1079,61,East,Website,USB-C Hub,Accessories,1,1967.1,0.1,1770.39,1298.29,Email Offer,Net Banking,5,4,No,472.1,0.2667,2025-04,55+,0
+ORD-00836,2025-10-09,C1050,42,South,Retail Store,Webcam Pro,Office,2,2875.56,0.15,4888.45,4083.29,Influencer,Net Banking,4,3,No,805.16,0.1647,2025-10,35-44,0
+ORD-00837,2026-01-31,C1037,40,East,Mobile App,Mechanical Keyboard,Accessories,2,3439.57,0.15,5847.27,4815.4,Organic,Credit Card,3,4,No,1031.87,0.1765,2026-01,35-44,0
+ORD-00838,2026-01-29,C1204,22,East,Website,Smart Watch,Wearables,1,6094.19,0.0,6094.19,4570.64,Organic,UPI,3,4,No,1523.55,0.25,2026-01,18-24,0
+ORD-00839,2025-04-19,C1199,61,West,Website,Laptop Stand,Office,1,1254.31,0.15,1066.16,790.21,Email Offer,Net Banking,5,5,Yes,275.95,0.2588,2025-04,55+,1
+ORD-00840,2025-12-16,C1007,28,West,Mobile App,Bluetooth Headphones,Audio,1,2643.93,0.0,2643.93,1903.63,Influencer,Net Banking,3,4,No,740.3,0.28,2025-12,25-34,0
+ORD-00841,2025-01-06,C1060,56,West,Website,Portable Speaker,Audio,1,2284.17,0.15,1941.54,1667.44,Referral,Debit Card,1,5,No,274.1,0.1412,2025-01,55+,0
+ORD-00842,2026-03-09,C1173,63,North,Mobile App,Mechanical Keyboard,Accessories,5,3303.27,0.1,14864.71,11561.45,Email Offer,Net Banking,4,4,No,3303.26,0.2222,2026-03,55+,0
+ORD-00843,2025-08-11,C1307,61,West,Website,Wireless Mouse,Accessories,1,741.48,0.2,593.18,511.62,Email Offer,Cash,2,4,No,81.56,0.1375,2025-08,55+,0
+ORD-00844,2025-05-17,C1306,25,East,Website,USB-C Hub,Accessories,1,1940.32,0.1,1746.29,1280.61,Referral,Net Banking,1,4,Yes,465.68,0.2667,2025-05,25-34,1
+ORD-00845,2025-05-08,C1141,40,North,Mobile App,USB-C Hub,Accessories,1,1897.01,0.05,1802.16,1252.03,Influencer,Cash,4,5,No,550.13,0.3053,2025-05,35-44,0
+ORD-00846,2025-10-19,C1327,24,North,Website,Portable Speaker,Audio,1,2366.77,0.05,2248.43,1727.74,Organic,Debit Card,7,4,No,520.69,0.2316,2025-10,18-24,0
+ORD-00847,2025-11-23,C1041,45,West,Website,Laptop Stand,Office,1,1330.78,0.1,1197.7,838.39,Influencer,Cash,1,5,No,359.31,0.3,2025-11,45-54,0
+ORD-00848,2025-10-04,C1096,35,North,Website,Smart Watch,Wearables,1,6235.96,0.15,5300.57,4676.97,Referral,Credit Card,1,4,Yes,623.6,0.1176,2025-10,35-44,1
+ORD-00849,2025-12-14,C1137,47,East,Website,Laptop Stand,Office,1,1222.05,0.15,1038.74,769.89,Influencer,Debit Card,3,4,No,268.85,0.2588,2025-12,45-54,0
+ORD-00850,2025-04-24,C1305,39,East,Mobile App,Bluetooth Headphones,Audio,2,2467.32,0.15,4194.44,3552.94,Organic,UPI,5,4,No,641.5,0.1529,2025-04,35-44,0
+ORD-00851,2025-06-25,C1273,62,East,Website,Mechanical Keyboard,Accessories,1,3498.43,0.15,2973.67,2448.9,Influencer,UPI,2,3,No,524.77,0.1765,2025-06,55+,0
+ORD-00852,2025-11-20,C1385,38,East,Website,Portable Speaker,Audio,2,2130.05,0.2,3408.08,3109.87,Referral,Cash,5,4,No,298.21,0.0875,2025-11,35-44,0
+ORD-00853,2025-10-27,C1252,33,East,Mobile App,USB-C Hub,Accessories,1,1916.15,0.0,1916.15,1264.66,Referral,UPI,1,4,No,651.49,0.34,2025-10,25-34,0
+ORD-00854,2025-07-22,C1377,43,South,Retail Store,Smart Watch,Wearables,2,6255.16,0.05,11884.8,9382.74,Search Ads,Net Banking,6,4,No,2502.06,0.2105,2025-07,35-44,0
+ORD-00855,2025-11-03,C1201,32,East,Mobile App,Laptop Stand,Office,2,1306.4,0.1,2351.52,1646.07,Organic,Credit Card,1,5,No,705.45,0.3,2025-11,25-34,0
+ORD-00856,2026-03-24,C1051,42,West,Website,USB-C Hub,Accessories,2,1954.71,0.15,3323.01,2580.22,Email Offer,Net Banking,4,4,No,742.79,0.2235,2026-03,35-44,0
+ORD-00857,2025-04-07,C1210,19,South,Website,Wireless Mouse,Accessories,2,808.02,0.0,1616.04,1115.07,Organic,Debit Card,2,4,No,500.97,0.31,2025-04,18-24,0
+ORD-00858,2025-01-12,C1090,48,South,Retail Store,Webcam Pro,Office,1,3178.77,0.1,2860.89,2256.93,Influencer,Credit Card,3,5,No,603.96,0.2111,2025-01,45-54,0
+ORD-00859,2025-05-31,C1124,29,North,Website,Bluetooth Headphones,Audio,1,2540.28,0.05,2413.27,1829.0,Influencer,Credit Card,5,5,No,584.27,0.2421,2025-05,25-34,0
+ORD-00860,2025-05-06,C1198,22,North,Website,Portable Speaker,Audio,1,2373.35,0.15,2017.35,1732.54,Organic,Cash,5,5,No,284.81,0.1412,2025-05,18-24,0
+ORD-00861,2025-03-03,C1367,50,West,Mobile App,Wireless Mouse,Accessories,2,781.53,0.1,1406.75,1078.52,Email Offer,Cash,4,4,No,328.23,0.2333,2025-03,45-54,0
+ORD-00862,2026-01-21,C1108,34,South,Website,Bluetooth Headphones,Audio,2,2617.17,0.05,4972.62,3768.73,Search Ads,Net Banking,3,2,No,1203.89,0.2421,2026-01,25-34,0
+ORD-00863,2025-12-30,C1359,34,South,Mobile App,Portable Speaker,Audio,1,2300.11,0.15,1955.09,1679.08,Referral,UPI,4,4,No,276.01,0.1412,2025-12,25-34,0
+ORD-00864,2025-04-24,C1244,63,East,Mobile App,Mechanical Keyboard,Accessories,1,3573.96,0.05,3395.26,2501.77,Organic,Credit Card,3,4,No,893.49,0.2632,2025-04,55+,0
+ORD-00865,2025-03-17,C1300,18,West,Website,Laptop Stand,Office,1,1258.05,0.05,1195.15,792.57,Organic,Net Banking,4,3,No,402.58,0.3368,2025-03,18-24,0
+ORD-00866,2025-11-13,C1194,49,East,Mobile App,USB-C Hub,Accessories,2,1906.09,0.2,3049.74,2516.04,Referral,Credit Card,1,4,No,533.7,0.175,2025-11,45-54,0
+ORD-00867,2025-09-05,C1077,35,North,Mobile App,Webcam Pro,Office,1,2858.13,0.05,2715.22,2029.27,Referral,Net Banking,4,4,No,685.95,0.2526,2025-09,35-44,0
+ORD-00868,2025-10-19,C1260,22,South,Mobile App,Wireless Mouse,Accessories,1,856.79,0.1,771.11,591.18,Email Offer,Cash,4,3,No,179.93,0.2333,2025-10,18-24,0
+ORD-00869,2026-03-23,C1094,62,North,Website,Bluetooth Headphones,Audio,2,2617.86,0.05,4973.93,3769.72,Referral,UPI,4,5,No,1204.21,0.2421,2026-03,55+,0
+ORD-00870,2025-11-08,C1032,31,East,Website,Laptop Stand,Office,1,1303.69,0.0,1303.69,821.32,Search Ads,Net Banking,6,3,No,482.37,0.37,2025-11,25-34,0
+ORD-00871,2025-08-26,C1244,30,North,Website,Bluetooth Headphones,Audio,2,2475.77,0.1,4456.39,3565.11,Email Offer,Cash,3,2,No,891.28,0.2,2025-08,25-34,0
+ORD-00872,2025-08-09,C1209,56,West,Mobile App,Bluetooth Headphones,Audio,1,2399.74,0.1,2159.77,1727.81,Email Offer,Cash,3,3,No,431.96,0.2,2025-08,55+,0
+ORD-00873,2025-09-05,C1258,37,East,Website,Laptop Stand,Office,2,1335.96,0.1,2404.73,1683.31,Referral,Debit Card,4,4,No,721.42,0.3,2025-09,35-44,0
+ORD-00874,2025-09-18,C1227,39,West,Website,Portable Speaker,Audio,1,2130.26,0.15,1810.72,1555.09,Influencer,Credit Card,3,4,No,255.63,0.1412,2025-09,35-44,0
+ORD-00875,2026-02-03,C1351,37,South,Website,Bluetooth Headphones,Audio,1,2487.75,0.1,2238.98,1791.18,Organic,Net Banking,3,5,No,447.8,0.2,2026-02,35-44,0
+ORD-00876,2026-02-07,C1138,32,South,Mobile App,USB-C Hub,Accessories,1,1984.0,0.25,1488.0,1309.44,Email Offer,Debit Card,2,5,No,178.56,0.12,2026-02,25-34,0
+ORD-00877,2025-03-16,C1202,44,East,Mobile App,Laptop Stand,Office,3,1283.47,0.2,3080.33,2425.77,Email Offer,Credit Card,5,1,No,654.56,0.2125,2025-03,35-44,0
+ORD-00878,2025-08-22,C1013,38,North,Mobile App,Laptop Stand,Office,1,1368.12,0.1,1231.31,861.91,Referral,Cash,4,4,No,369.4,0.3,2025-08,35-44,0
+ORD-00879,2026-01-14,C1167,48,South,Mobile App,Smart Watch,Wearables,1,5752.45,0.1,5177.2,4314.34,Festive Sale,Net Banking,7,5,No,862.86,0.1667,2026-01,45-54,0
+ORD-00880,2025-12-19,C1176,35,South,Website,Portable Speaker,Audio,2,2042.82,0.1,3677.08,2982.52,Festive Sale,UPI,3,4,No,694.56,0.1889,2025-12,35-44,0
+ORD-00881,2025-08-30,C1302,37,North,Website,USB-C Hub,Accessories,3,2012.62,0.15,5132.18,3984.99,Search Ads,Debit Card,2,4,No,1147.19,0.2235,2025-08,35-44,0
+ORD-00882,2025-10-13,C1229,31,North,Website,Laptop Stand,Office,2,1383.2,0.1,2489.76,1742.83,Referral,Debit Card,4,3,No,746.93,0.3,2025-10,25-34,0
+ORD-00883,2025-06-20,C1211,45,East,Website,Smart Watch,Wearables,2,5633.48,0.0,11266.96,8450.23,Search Ads,Debit Card,6,4,No,2816.73,0.25,2025-06,45-54,0
+ORD-00884,2025-01-09,C1295,39,North,Retail Store,Webcam Pro,Office,3,2995.17,0.1,8086.96,6379.7,Organic,UPI,4,4,No,1707.26,0.2111,2025-01,35-44,0
+ORD-00885,2025-10-13,C1313,59,South,Mobile App,Bluetooth Headphones,Audio,3,2667.93,0.0,8003.79,5762.73,Organic,Net Banking,4,5,No,2241.06,0.28,2025-10,55+,0
+ORD-00886,2025-08-20,C1206,54,East,Website,USB-C Hub,Accessories,2,2017.31,0.25,3025.96,2662.85,Email Offer,UPI,2,4,No,363.11,0.12,2025-08,45-54,0
+ORD-00887,2025-01-05,C1168,52,East,Website,Smart Watch,Wearables,1,6166.53,0.05,5858.2,4624.9,Organic,Cash,4,4,No,1233.3,0.2105,2025-01,45-54,0
+ORD-00888,2025-03-20,C1021,26,South,Website,Smart Watch,Wearables,1,6096.83,0.0,6096.83,4572.62,Organic,Debit Card,2,4,No,1524.21,0.25,2025-03,25-34,0
+ORD-00889,2025-04-28,C1112,40,South,Website,Smart Watch,Wearables,1,6417.78,0.1,5776.0,4813.34,Search Ads,UPI,4,1,No,962.66,0.1667,2025-04,35-44,0
+ORD-00890,2025-08-16,C1303,25,West,Website,Smart Watch,Wearables,1,6259.1,0.05,5946.14,4694.33,Search Ads,Cash,3,2,No,1251.81,0.2105,2025-08,25-34,0
+ORD-00891,2025-03-04,C1163,44,South,Website,USB-C Hub,Accessories,1,1974.86,0.2,1579.89,1303.41,Referral,Cash,4,3,No,276.48,0.175,2025-03,35-44,0
+ORD-00892,2025-02-27,C1159,22,North,Website,Portable Speaker,Audio,3,2149.88,0.2,5159.71,4708.24,Festive Sale,Credit Card,2,4,No,451.47,0.0875,2025-02,18-24,0
+ORD-00893,2025-12-26,C1166,20,West,Retail Store,Bluetooth Headphones,Audio,1,2557.92,0.1,2302.13,1841.7,Influencer,Credit Card,3,3,No,460.43,0.2,2025-12,18-24,0
+ORD-00894,2025-12-22,C1081,44,North,Website,Portable Speaker,Audio,3,2240.36,0.1,6048.97,4906.39,Referral,Credit Card,3,3,No,1142.58,0.1889,2025-12,35-44,0
+ORD-00895,2025-07-06,C1136,57,South,Website,Bluetooth Headphones,Audio,1,2448.29,0.15,2081.05,1762.77,Influencer,Credit Card,2,4,No,318.28,0.1529,2025-07,55+,0
+ORD-00896,2025-07-28,C1179,32,West,Mobile App,Wireless Mouse,Accessories,2,747.88,0.05,1420.97,1032.07,Search Ads,Net Banking,7,2,No,388.9,0.2737,2025-07,25-34,0
+ORD-00897,2025-08-26,C1132,26,West,Website,Webcam Pro,Office,2,2987.6,0.0,5975.2,4242.39,Referral,Net Banking,6,4,No,1732.81,0.29,2025-08,25-34,0
+ORD-00898,2025-09-10,C1381,24,South,Website,Smart Watch,Wearables,1,6151.82,0.05,5844.23,4613.86,Search Ads,UPI,3,5,No,1230.37,0.2105,2025-09,18-24,0
+ORD-00899,2025-05-08,C1343,55,East,Website,Smart Watch,Wearables,2,6453.92,0.1,11617.06,9680.88,Influencer,Debit Card,6,4,No,1936.18,0.1667,2025-05,55+,0
+ORD-00900,2025-08-05,C1198,58,South,Mobile App,Mechanical Keyboard,Accessories,4,3726.3,0.0,14905.2,10433.65,Influencer,UPI,2,2,No,4471.55,0.3,2025-08,55+,0
+ORD-00901,2025-03-15,C1097,58,South,Website,Wireless Mouse,Accessories,1,844.73,0.25,633.55,582.86,Email Offer,Cash,1,5,No,50.69,0.08,2025-03,55+,0
+ORD-00902,2025-05-15,C1096,34,North,Mobile App,Portable Speaker,Audio,2,2141.74,0.2,3426.78,3126.94,Referral,Net Banking,7,4,No,299.84,0.0875,2025-05,25-34,0
+ORD-00903,2025-12-06,C1065,24,East,Mobile App,Bluetooth Headphones,Audio,1,2684.83,0.1,2416.35,1933.08,Email Offer,Credit Card,5,3,No,483.27,0.2,2025-12,18-24,0
+ORD-00904,2026-03-24,C1262,30,East,Website,Mechanical Keyboard,Accessories,2,3321.31,0.0,6642.62,4649.84,Organic,Credit Card,5,3,No,1992.78,0.3,2026-03,25-34,0
+ORD-00905,2026-01-11,C1118,62,South,Mobile App,Mechanical Keyboard,Accessories,2,3422.11,0.0,6844.22,4790.95,Organic,Cash,3,5,No,2053.27,0.3,2026-01,55+,0
+ORD-00906,2025-04-26,C1268,44,West,Retail Store,USB-C Hub,Accessories,1,1865.51,0.15,1585.68,1231.24,Referral,Debit Card,4,5,No,354.44,0.2235,2025-04,35-44,0
+ORD-00907,2025-01-01,C1035,21,East,Mobile App,Bluetooth Headphones,Audio,2,2544.23,0.05,4834.04,3663.69,Influencer,Net Banking,3,5,No,1170.35,0.2421,2025-01,18-24,0
+ORD-00908,2026-02-07,C1142,26,West,Website,USB-C Hub,Accessories,1,2039.79,0.15,1733.82,1346.26,Festive Sale,Cash,4,5,No,387.56,0.2235,2026-02,25-34,0
+ORD-00909,2025-12-11,C1269,24,South,Website,USB-C Hub,Accessories,2,1905.27,0.1,3429.49,2514.95,Festive Sale,Cash,4,5,No,914.54,0.2667,2025-12,18-24,0
+ORD-00910,2026-01-16,C1021,42,South,Website,Portable Speaker,Audio,5,2357.15,0.1,10607.18,8603.59,Referral,Net Banking,5,5,No,2003.59,0.1889,2026-01,35-44,0
+ORD-00911,2025-08-07,C1341,49,West,Mobile App,USB-C Hub,Accessories,1,1820.39,0.2,1456.31,1201.46,Festive Sale,Debit Card,2,5,No,254.85,0.175,2025-08,45-54,0
+ORD-00912,2025-05-09,C1249,33,West,Mobile App,Mechanical Keyboard,Accessories,1,3275.7,0.1,2948.13,2292.99,Festive Sale,Debit Card,5,4,No,655.14,0.2222,2025-05,25-34,0
+ORD-00913,2025-02-23,C1330,24,West,Mobile App,Portable Speaker,Audio,3,2230.79,0.1,6023.13,4885.42,Festive Sale,Cash,4,4,No,1137.71,0.1889,2025-02,18-24,0
+ORD-00914,2025-08-04,C1020,43,North,Website,Webcam Pro,Office,3,3173.38,0.15,8092.12,6759.3,Organic,UPI,2,5,No,1332.82,0.1647,2025-08,35-44,0
+ORD-00915,2025-04-21,C1130,40,North,Mobile App,USB-C Hub,Accessories,1,1968.6,0.1,1771.74,1299.27,Email Offer,UPI,5,5,No,472.47,0.2667,2025-04,35-44,0
+ORD-00916,2025-06-16,C1380,43,East,Mobile App,Portable Speaker,Audio,1,2251.17,0.2,1800.94,1643.36,Organic,Net Banking,4,5,No,157.58,0.0875,2025-06,35-44,0
+ORD-00917,2026-03-15,C1052,23,East,Website,Bluetooth Headphones,Audio,2,2630.42,0.05,4997.8,3787.81,Referral,Credit Card,3,4,No,1209.99,0.2421,2026-03,18-24,0
+ORD-00918,2025-05-16,C1166,19,East,Website,Portable Speaker,Audio,1,2360.6,0.1,2124.54,1723.24,Search Ads,Cash,4,3,No,401.3,0.1889,2025-05,18-24,0
+ORD-00919,2025-06-01,C1075,63,West,Mobile App,USB-C Hub,Accessories,1,2006.02,0.25,1504.52,1323.97,Festive Sale,Debit Card,5,4,No,180.55,0.12,2025-06,55+,0
+ORD-00920,2025-11-11,C1342,35,East,Retail Store,Bluetooth Headphones,Audio,1,2518.19,0.0,2518.19,1813.09,Search Ads,Credit Card,5,1,No,705.1,0.28,2025-11,35-44,0
+ORD-00921,2025-05-06,C1011,57,West,Mobile App,Smart Watch,Wearables,1,5752.97,0.0,5752.97,4314.73,Referral,Net Banking,1,4,No,1438.24,0.25,2025-05,55+,0
+ORD-00922,2025-04-06,C1187,33,West,Mobile App,Webcam Pro,Office,2,2966.04,0.1,5338.87,4211.78,Referral,Credit Card,2,4,No,1127.09,0.2111,2025-04,25-34,0
+ORD-00923,2025-06-14,C1161,24,South,Website,Smart Watch,Wearables,4,5975.71,0.2,19122.27,17927.14,Influencer,Cash,3,5,No,1195.13,0.0625,2025-06,18-24,0
+ORD-00924,2026-02-25,C1303,45,West,Website,Smart Watch,Wearables,3,5939.37,0.15,15145.39,13363.57,Organic,Cash,1,2,No,1781.82,0.1176,2026-02,45-54,0
+ORD-00925,2025-08-18,C1369,35,East,Mobile App,Wireless Mouse,Accessories,2,780.39,0.0,1560.78,1076.94,Influencer,Net Banking,3,4,No,483.84,0.31,2025-08,35-44,0
+ORD-00926,2025-12-27,C1170,32,West,Website,USB-C Hub,Accessories,1,1952.07,0.2,1561.66,1288.37,Influencer,Credit Card,1,4,No,273.29,0.175,2025-12,25-34,0
+ORD-00927,2026-01-28,C1037,57,North,Retail Store,Mechanical Keyboard,Accessories,1,3286.08,0.1,2957.47,2300.26,Organic,Credit Card,4,2,No,657.21,0.2222,2026-01,55+,0
+ORD-00928,2026-03-04,C1207,54,North,Mobile App,USB-C Hub,Accessories,1,1774.15,0.0,1774.15,1170.94,Referral,Net Banking,5,5,No,603.21,0.34,2026-03,45-54,0
+ORD-00929,2025-12-23,C1221,34,South,Retail Store,Portable Speaker,Audio,1,2085.5,0.1,1876.95,1522.42,Referral,UPI,3,4,No,354.53,0.1889,2025-12,25-34,0
+ORD-00930,2025-06-23,C1049,28,North,Mobile App,Portable Speaker,Audio,1,2263.28,0.1,2036.95,1652.2,Festive Sale,UPI,4,1,No,384.75,0.1889,2025-06,25-34,0
+ORD-00931,2025-06-17,C1089,30,East,Website,Webcam Pro,Office,4,3171.43,0.2,10148.58,9006.87,Referral,Credit Card,1,4,No,1141.71,0.1125,2025-06,25-34,0
+ORD-00932,2025-11-04,C1228,19,South,Retail Store,Mechanical Keyboard,Accessories,2,3302.41,0.05,6274.58,4623.38,Organic,Debit Card,3,4,No,1651.2,0.2632,2025-11,18-24,0
+ORD-00933,2025-05-30,C1080,57,East,Mobile App,Bluetooth Headphones,Audio,2,2376.31,0.25,3564.46,3421.89,Festive Sale,Net Banking,6,5,No,142.57,0.04,2025-05,55+,0
+ORD-00934,2025-03-01,C1022,40,East,Website,Bluetooth Headphones,Audio,1,2616.57,0.15,2224.08,1883.93,Search Ads,Cash,3,2,No,340.15,0.1529,2025-03,35-44,0
+ORD-00935,2025-02-20,C1280,59,East,Retail Store,Bluetooth Headphones,Audio,2,2456.69,0.2,3930.7,3537.63,Organic,Net Banking,3,3,No,393.07,0.1,2025-02,55+,0
+ORD-00936,2025-07-26,C1313,42,West,Website,Webcam Pro,Office,1,3028.39,0.0,3028.39,2150.16,Referral,UPI,4,4,No,878.23,0.29,2025-07,35-44,0
+ORD-00937,2025-09-28,C1278,29,South,Retail Store,Wireless Mouse,Accessories,1,850.17,0.2,680.14,586.62,Influencer,Net Banking,3,4,No,93.52,0.1375,2025-09,25-34,0
+ORD-00938,2025-04-07,C1092,50,North,Retail Store,Mechanical Keyboard,Accessories,2,3503.69,0.15,5956.27,4905.16,Influencer,UPI,4,4,No,1051.11,0.1765,2025-04,45-54,0
+ORD-00939,2025-08-23,C1314,18,South,Mobile App,USB-C Hub,Accessories,1,1920.62,0.15,1632.53,1267.61,Email Offer,UPI,4,2,No,364.92,0.2235,2025-08,18-24,0
+ORD-00940,2025-05-04,C1307,33,South,Retail Store,Mechanical Keyboard,Accessories,3,3306.38,0.1,8927.23,6943.39,Email Offer,Cash,3,4,No,1983.84,0.2222,2025-05,25-34,0
+ORD-00941,2025-12-30,C1212,42,South,Retail Store,Laptop Stand,Office,2,1281.52,0.1,2306.74,1614.71,Email Offer,UPI,4,3,No,692.03,0.3,2025-12,35-44,0
+ORD-00942,2025-11-17,C1251,22,North,Mobile App,Webcam Pro,Office,1,2814.4,0.1,2532.96,1998.22,Festive Sale,Debit Card,2,3,No,534.74,0.2111,2025-11,18-24,0
+ORD-00943,2025-12-15,C1062,43,East,Mobile App,Webcam Pro,Office,1,2811.14,0.2,2248.91,1995.91,Referral,Credit Card,6,5,No,253.0,0.1125,2025-12,35-44,0
+ORD-00944,2025-03-07,C1356,22,West,Mobile App,Wireless Mouse,Accessories,1,745.77,0.15,633.9,514.58,Email Offer,Credit Card,3,3,No,119.32,0.1882,2025-03,18-24,0
+ORD-00945,2025-08-15,C1079,39,South,Mobile App,Wireless Mouse,Accessories,2,736.9,0.0,1473.8,1016.92,Organic,UPI,5,5,No,456.88,0.31,2025-08,35-44,0
+ORD-00946,2025-07-20,C1172,60,South,Retail Store,Webcam Pro,Office,1,3060.04,0.05,2907.04,2172.63,Search Ads,UPI,5,5,Yes,734.41,0.2526,2025-07,55+,1
+ORD-00947,2026-03-08,C1210,51,East,Mobile App,Smart Watch,Wearables,1,6176.34,0.1,5558.71,4632.26,Festive Sale,UPI,5,4,No,926.45,0.1667,2026-03,45-54,0
+ORD-00948,2025-03-15,C1391,58,South,Website,Bluetooth Headphones,Audio,1,2641.74,0.1,2377.57,1902.06,Email Offer,Net Banking,7,1,No,475.51,0.2,2025-03,55+,0
+ORD-00949,2025-10-20,C1129,40,East,Mobile App,Webcam Pro,Office,1,2994.47,0.05,2844.75,2126.07,Influencer,Cash,1,5,No,718.68,0.2526,2025-10,35-44,0
+ORD-00950,2025-07-04,C1189,19,South,Website,Smart Watch,Wearables,2,6365.6,0.15,10821.52,9548.4,Referral,Net Banking,4,4,No,1273.12,0.1176,2025-07,18-24,0
+ORD-00951,2025-07-30,C1236,46,West,Website,Smart Watch,Wearables,2,6367.22,0.25,9550.83,9550.82,Email Offer,Credit Card,3,4,No,0.01,0.0,2025-07,45-54,0
+ORD-00952,2026-01-06,C1317,41,South,Website,Smart Watch,Wearables,1,6151.93,0.05,5844.33,4613.95,Influencer,Debit Card,5,5,No,1230.38,0.2105,2026-01,35-44,0
+ORD-00953,2025-11-26,C1320,44,South,Website,Laptop Stand,Office,1,1289.09,0.2,1031.27,812.13,Influencer,Cash,3,2,No,219.14,0.2125,2025-11,35-44,0
+ORD-00954,2025-08-10,C1382,61,West,Website,USB-C Hub,Accessories,1,1799.44,0.2,1439.55,1187.63,Influencer,Cash,3,4,No,251.92,0.175,2025-08,55+,0
+ORD-00955,2026-02-05,C1391,57,South,Website,Smart Watch,Wearables,1,6104.93,0.2,4883.94,4578.69,Email Offer,UPI,4,4,No,305.25,0.0625,2026-02,55+,0
+ORD-00956,2025-01-11,C1110,37,North,Website,Wireless Mouse,Accessories,1,830.14,0.1,747.13,572.8,Search Ads,Cash,4,5,No,174.33,0.2333,2025-01,35-44,0
+ORD-00957,2026-03-01,C1078,28,West,Website,Portable Speaker,Audio,1,2340.02,0.15,1989.02,1708.22,Festive Sale,Net Banking,3,4,No,280.8,0.1412,2026-03,25-34,0
+ORD-00958,2025-12-25,C1070,42,South,Retail Store,Laptop Stand,Office,2,1352.14,0.1,2433.85,1703.7,Email Offer,Cash,3,4,No,730.15,0.3,2025-12,35-44,0
+ORD-00959,2025-12-19,C1044,41,West,Mobile App,Mechanical Keyboard,Accessories,1,3714.88,0.2,2971.9,2600.41,Email Offer,UPI,3,2,No,371.49,0.125,2025-12,35-44,0
+ORD-00960,2026-02-09,C1254,19,East,Website,Smart Watch,Wearables,3,6097.68,0.0,18293.04,13719.79,Referral,Debit Card,5,4,No,4573.25,0.25,2026-02,18-24,0
+ORD-00961,2026-03-12,C1027,59,South,Mobile App,Laptop Stand,Office,5,1383.34,0.2,5533.36,4357.54,Email Offer,Debit Card,2,3,No,1175.82,0.2125,2026-03,55+,0
+ORD-00962,2026-01-19,C1103,48,North,Website,Portable Speaker,Audio,1,2129.59,0.1,1916.63,1554.6,Festive Sale,Debit Card,4,4,Yes,362.03,0.1889,2026-01,45-54,1
+ORD-00963,2025-12-23,C1178,34,East,Website,Webcam Pro,Office,1,2822.58,0.2,2258.06,2004.03,Email Offer,UPI,3,4,No,254.03,0.1125,2025-12,25-34,0
+ORD-00964,2026-02-17,C1192,22,North,Website,Mechanical Keyboard,Accessories,1,3260.74,0.0,3260.74,2282.52,Search Ads,UPI,7,3,No,978.22,0.3,2026-02,18-24,0
+ORD-00965,2025-01-05,C1236,58,East,Retail Store,Wireless Mouse,Accessories,2,815.12,0.05,1548.73,1124.87,Organic,Credit Card,4,5,No,423.86,0.2737,2025-01,55+,0
+ORD-00966,2025-04-13,C1368,23,South,Website,Bluetooth Headphones,Audio,4,2383.13,0.15,8102.64,6863.43,Email Offer,Net Banking,4,4,No,1239.21,0.1529,2025-04,18-24,0
+ORD-00967,2026-02-23,C1032,46,West,Mobile App,Smart Watch,Wearables,1,6168.08,0.1,5551.27,4626.06,Influencer,Cash,4,3,Yes,925.21,0.1667,2026-02,45-54,1
+ORD-00968,2025-10-22,C1117,28,North,Mobile App,Smart Watch,Wearables,1,6244.99,0.05,5932.74,4683.75,Referral,Cash,5,4,No,1248.99,0.2105,2025-10,25-34,0
+ORD-00969,2025-07-31,C1350,34,South,Website,Laptop Stand,Office,3,1196.53,0.05,3410.11,2261.44,Organic,UPI,5,3,No,1148.67,0.3368,2025-07,25-34,0
+ORD-00970,2025-11-14,C1395,41,North,Mobile App,Webcam Pro,Office,3,2911.86,0.1,7862.02,6202.26,Festive Sale,Cash,4,5,No,1659.76,0.2111,2025-11,35-44,0
+ORD-00971,2025-05-15,C1161,52,West,Website,Mechanical Keyboard,Accessories,3,3646.47,0.2,8751.53,7657.58,Email Offer,Net Banking,3,5,No,1093.95,0.125,2025-05,45-54,0
+ORD-00972,2025-08-27,C1073,42,East,Retail Store,Portable Speaker,Audio,3,2182.17,0.25,4909.88,4778.96,Email Offer,Debit Card,3,4,Yes,130.92,0.0267,2025-08,35-44,1
+ORD-00973,2025-07-15,C1095,31,West,Website,USB-C Hub,Accessories,1,1927.24,0.05,1830.88,1271.98,Search Ads,Net Banking,5,2,No,558.9,0.3053,2025-07,25-34,0
+ORD-00974,2025-07-20,C1311,49,East,Retail Store,USB-C Hub,Accessories,3,1804.79,0.1,4872.93,3573.49,Search Ads,Net Banking,5,4,No,1299.44,0.2667,2025-07,45-54,0
+ORD-00975,2025-12-07,C1149,27,East,Retail Store,Wireless Mouse,Accessories,1,796.02,0.1,716.42,549.25,Influencer,Debit Card,4,3,No,167.17,0.2333,2025-12,25-34,0
+ORD-00976,2025-11-20,C1067,51,East,Mobile App,USB-C Hub,Accessories,2,1784.1,0.15,3032.97,2355.01,Organic,Credit Card,2,3,No,677.96,0.2235,2025-11,45-54,0
+ORD-00977,2025-07-09,C1353,32,North,Website,Portable Speaker,Audio,1,2355.42,0.05,2237.65,1719.46,Search Ads,Debit Card,1,5,No,518.19,0.2316,2025-07,25-34,0
+ORD-00978,2025-10-12,C1118,63,East,Mobile App,Mechanical Keyboard,Accessories,4,3539.46,0.1,12742.06,9910.49,Influencer,Net Banking,1,4,No,2831.57,0.2222,2025-10,55+,0
+ORD-00979,2025-10-16,C1042,51,North,Website,Portable Speaker,Audio,3,2242.49,0.15,5718.35,4911.05,Search Ads,UPI,7,4,No,807.3,0.1412,2025-10,45-54,0
+ORD-00980,2025-08-19,C1031,48,South,Mobile App,Webcam Pro,Office,1,3165.88,0.05,3007.59,2247.77,Referral,Debit Card,1,3,No,759.82,0.2526,2025-08,45-54,0
+ORD-00981,2026-02-27,C1275,30,South,Mobile App,Portable Speaker,Audio,4,2235.86,0.15,7601.92,6528.72,Referral,Debit Card,6,5,No,1073.2,0.1412,2026-02,25-34,0
+ORD-00982,2026-01-11,C1006,37,South,Mobile App,Wireless Mouse,Accessories,1,824.65,0.25,618.49,569.01,Email Offer,UPI,3,3,No,49.48,0.08,2026-01,35-44,0
+ORD-00983,2025-11-30,C1305,46,North,Website,Webcam Pro,Office,3,3025.52,0.25,6807.42,6444.35,Email Offer,Cash,4,5,No,363.07,0.0533,2025-11,45-54,0
+ORD-00984,2025-08-21,C1283,48,South,Mobile App,Laptop Stand,Office,1,1375.43,0.1,1237.89,866.52,Festive Sale,Net Banking,5,4,No,371.37,0.3,2025-08,45-54,0
+ORD-00985,2025-10-09,C1018,59,West,Mobile App,Wireless Mouse,Accessories,1,841.96,0.1,757.76,580.95,Organic,Credit Card,1,3,No,176.81,0.2333,2025-10,55+,0
+ORD-00986,2025-09-12,C1387,41,North,Website,Bluetooth Headphones,Audio,1,2393.05,0.05,2273.4,1722.99,Influencer,Debit Card,2,5,No,550.41,0.2421,2025-09,35-44,0
+ORD-00987,2026-01-20,C1356,27,West,Website,Bluetooth Headphones,Audio,1,2614.85,0.15,2222.62,1882.69,Influencer,Credit Card,4,4,No,339.93,0.1529,2026-01,25-34,0
+ORD-00988,2025-05-03,C1389,32,North,Website,Wireless Mouse,Accessories,3,740.47,0.1,1999.27,1532.78,Email Offer,Cash,5,5,No,466.49,0.2333,2025-05,25-34,0
+ORD-00989,2025-06-13,C1253,19,West,Mobile App,Mechanical Keyboard,Accessories,2,3647.66,0.0,7295.32,5106.72,Organic,UPI,3,4,No,2188.6,0.3,2025-06,18-24,0
+ORD-00990,2025-04-17,C1085,43,West,Website,Smart Watch,Wearables,2,6007.78,0.2,9612.45,9011.67,Referral,Cash,4,3,No,600.78,0.0625,2025-04,35-44,0
+ORD-00991,2025-05-25,C1101,38,East,Mobile App,Laptop Stand,Office,1,1248.34,0.05,1185.92,786.46,Organic,Cash,3,5,No,399.46,0.3368,2025-05,35-44,0
+ORD-00992,2025-11-30,C1106,30,South,Website,Webcam Pro,Office,1,3206.81,0.0,3206.81,2276.84,Influencer,Credit Card,2,5,No,929.97,0.29,2025-11,25-34,0
+ORD-00993,2025-10-31,C1130,31,East,Mobile App,Laptop Stand,Office,2,1380.1,0.05,2622.19,1738.93,Organic,Credit Card,4,4,No,883.26,0.3368,2025-10,25-34,0
+ORD-00994,2025-09-13,C1147,60,East,Website,Webcam Pro,Office,1,3028.19,0.25,2271.14,2150.01,Email Offer,UPI,5,5,No,121.13,0.0533,2025-09,55+,0
+ORD-00995,2025-01-01,C1374,54,North,Retail Store,Wireless Mouse,Accessories,4,791.98,0.0,3167.92,2185.86,Referral,Debit Card,2,5,No,982.06,0.31,2025-01,45-54,0
+ORD-00996,2025-02-08,C1234,31,West,Mobile App,Laptop Stand,Office,1,1224.56,0.2,979.65,771.47,Festive Sale,UPI,5,3,No,208.18,0.2125,2025-02,25-34,0
+ORD-00997,2025-09-01,C1140,35,North,Website,USB-C Hub,Accessories,2,1958.22,0.15,3328.97,2584.86,Organic,UPI,6,1,No,744.11,0.2235,2025-09,35-44,0
+ORD-00998,2025-07-23,C1296,20,North,Website,Webcam Pro,Office,1,3225.92,0.15,2742.03,2290.4,Email Offer,Debit Card,5,4,No,451.63,0.1647,2025-07,18-24,0
+ORD-00999,2026-01-04,C1230,18,South,Mobile App,Portable Speaker,Audio,1,2105.7,0.1,1895.13,1537.16,Search Ads,Net Banking,1,5,Yes,357.97,0.1889,2026-01,18-24,1
+ORD-01000,2026-02-10,C1192,60,North,Website,Smart Watch,Wearables,1,6041.8,0.25,4531.35,4531.35,Email Offer,Credit Card,2,5,No,0.0,0.0,2026-02,55+,0
+ORD-01001,2025-06-14,C1076,61,West,Website,Mechanical Keyboard,Accessories,1,3648.65,0.15,3101.35,2554.06,Referral,UPI,2,5,No,547.29,0.1765,2025-06,55+,0
+ORD-01002,2025-11-05,C1176,50,South,Website,Laptop Stand,Office,1,1380.0,0.15,1173.0,869.4,Email Offer,Cash,3,5,No,303.6,0.2588,2025-11,45-54,0
+ORD-01003,2025-06-24,C1257,52,South,Retail Store,USB-C Hub,Accessories,3,2014.68,0.25,4533.03,3989.06,Festive Sale,Credit Card,7,2,No,543.97,0.12,2025-06,45-54,0
+ORD-01004,2026-01-14,C1268,60,East,Mobile App,Smart Watch,Wearables,1,6418.38,0.1,5776.54,4813.79,Organic,Net Banking,4,5,No,962.75,0.1667,2026-01,55+,0
+ORD-01005,2025-12-19,C1259,24,South,Mobile App,Bluetooth Headphones,Audio,1,2299.32,0.05,2184.35,1655.51,Influencer,Debit Card,3,4,No,528.84,0.2421,2025-12,18-24,0
+ORD-01006,2026-02-27,C1096,61,North,Retail Store,Smart Watch,Wearables,1,5635.29,0.2,4508.23,4226.47,Festive Sale,Net Banking,2,2,No,281.76,0.0625,2026-02,55+,0
+ORD-01007,2025-07-03,C1220,57,North,Mobile App,Webcam Pro,Office,1,2859.1,0.15,2430.23,2029.96,Referral,UPI,3,4,No,400.27,0.1647,2025-07,55+,0
+ORD-01008,2025-09-13,C1217,62,East,Website,Mechanical Keyboard,Accessories,2,3650.04,0.15,6205.07,5110.05,Organic,Net Banking,3,4,No,1095.02,0.1765,2025-09,55+,0
+ORD-01009,2025-01-14,C1043,33,North,Retail Store,Webcam Pro,Office,2,3019.99,0.2,4831.98,4288.38,Email Offer,Debit Card,5,5,No,543.6,0.1125,2025-01,25-34,0
+ORD-01010,2025-05-04,C1049,18,North,Website,Portable Speaker,Audio,2,2239.01,0.15,3806.32,3268.96,Search Ads,UPI,3,5,No,537.36,0.1412,2025-05,18-24,0
+ORD-01011,2025-09-17,C1061,62,North,Mobile App,Portable Speaker,Audio,1,2112.17,0.1,1900.95,1541.88,Email Offer,Debit Card,1,4,No,359.07,0.1889,2025-09,55+,0
+ORD-01012,2025-11-04,C1128,18,West,Website,Mechanical Keyboard,Accessories,1,3489.0,0.0,3489.0,2442.3,Search Ads,Credit Card,5,4,No,1046.7,0.3,2025-11,18-24,0
+ORD-01013,2026-01-31,C1359,25,North,Website,Webcam Pro,Office,1,3101.6,0.15,2636.36,2202.14,Email Offer,UPI,3,2,No,434.22,0.1647,2026-01,25-34,0
+ORD-01014,2025-08-13,C1279,24,East,Mobile App,Portable Speaker,Audio,1,2152.66,0.2,1722.13,1571.44,Influencer,Cash,1,4,Yes,150.69,0.0875,2025-08,18-24,1
+ORD-01015,2025-12-26,C1125,26,North,Website,Webcam Pro,Office,1,3002.41,0.25,2251.81,2131.71,Email Offer,Cash,2,3,No,120.1,0.0533,2025-12,25-34,0
+ORD-01016,2025-07-11,C1287,20,West,Website,Laptop Stand,Office,3,1280.97,0.05,3650.76,2421.04,Organic,Net Banking,3,3,No,1229.72,0.3368,2025-07,18-24,0
+ORD-01017,2025-01-06,C1272,18,North,Mobile App,Mechanical Keyboard,Accessories,1,3367.93,0.2,2694.34,2357.55,Influencer,Credit Card,3,4,No,336.79,0.125,2025-01,18-24,0
+ORD-01018,2025-04-07,C1278,22,West,Mobile App,Portable Speaker,Audio,1,2245.93,0.15,1909.04,1639.53,Organic,Credit Card,5,3,No,269.51,0.1412,2025-04,18-24,0
+ORD-01019,2026-03-17,C1386,44,West,Mobile App,Bluetooth Headphones,Audio,5,2397.87,0.2,9591.48,8632.32,Search Ads,Net Banking,4,5,No,959.16,0.1,2026-03,35-44,0
+ORD-01020,2025-01-22,C1116,26,West,Website,Mechanical Keyboard,Accessories,2,3558.59,0.25,5337.88,4982.02,Email Offer,Net Banking,5,4,No,355.86,0.0667,2025-01,25-34,0
+ORD-01021,2025-11-27,C1288,23,South,Mobile App,USB-C Hub,Accessories,1,1873.88,0.1,1686.49,1236.76,Email Offer,Net Banking,4,5,No,449.73,0.2667,2025-11,18-24,0
+ORD-01022,2025-05-24,C1241,50,East,Website,Portable Speaker,Audio,2,2324.04,0.1,4183.27,3393.09,Referral,Cash,3,4,No,790.18,0.1889,2025-05,45-54,0
+ORD-01023,2025-12-22,C1324,22,West,Website,USB-C Hub,Accessories,2,1904.16,0.1,3427.49,2513.5,Organic,Credit Card,4,3,No,913.99,0.2667,2025-12,18-24,0
+ORD-01024,2025-06-10,C1266,61,South,Mobile App,Mechanical Keyboard,Accessories,1,3681.36,0.1,3313.22,2576.95,Search Ads,Credit Card,5,4,No,736.27,0.2222,2025-06,55+,0
+ORD-01025,2026-01-29,C1237,55,East,Website,USB-C Hub,Accessories,2,1844.66,0.2,2951.46,2434.95,Organic,Credit Card,3,4,No,516.51,0.175,2026-01,55+,0
+ORD-01026,2025-11-03,C1368,35,South,Retail Store,Mechanical Keyboard,Accessories,3,3438.33,0.1,9283.49,7220.49,Search Ads,Credit Card,2,5,No,2063.0,0.2222,2025-11,35-44,0
+ORD-01027,2025-05-11,C1131,49,East,Website,Bluetooth Headphones,Audio,1,2325.69,0.1,2093.12,1674.5,Email Offer,Net Banking,3,4,No,418.62,0.2,2025-05,45-54,0
+ORD-01028,2025-04-12,C1224,42,North,Retail Store,Laptop Stand,Office,2,1217.54,0.15,2069.82,1534.1,Organic,Debit Card,3,4,No,535.72,0.2588,2025-04,35-44,0
+ORD-01029,2026-01-25,C1050,61,North,Retail Store,Wireless Mouse,Accessories,1,769.39,0.2,615.51,530.88,Organic,Debit Card,3,4,Yes,84.63,0.1375,2026-01,55+,1
+ORD-01030,2025-11-16,C1137,53,East,Website,Laptop Stand,Office,1,1313.68,0.2,1050.94,827.62,Organic,Cash,3,4,No,223.32,0.2125,2025-11,45-54,0
+ORD-01031,2025-10-27,C1009,28,South,Website,Mechanical Keyboard,Accessories,4,3522.35,0.15,11975.99,9862.58,Search Ads,UPI,5,2,No,2113.41,0.1765,2025-10,25-34,0
+ORD-01032,2025-02-18,C1144,24,West,Website,Smart Watch,Wearables,1,6399.85,0.05,6079.86,4799.89,Search Ads,Cash,4,1,No,1279.97,0.2105,2025-02,18-24,0
+ORD-01033,2026-03-17,C1379,42,West,Website,Webcam Pro,Office,1,2971.42,0.25,2228.56,2109.71,Email Offer,Net Banking,6,5,No,118.85,0.0533,2026-03,35-44,0
+ORD-01034,2025-08-12,C1361,22,East,Website,Mechanical Keyboard,Accessories,1,3427.88,0.15,2913.7,2399.51,Email Offer,Credit Card,4,4,No,514.19,0.1765,2025-08,18-24,0
+ORD-01035,2026-02-08,C1119,42,South,Website,Webcam Pro,Office,1,3102.13,0.1,2791.92,2202.52,Search Ads,UPI,7,4,No,589.4,0.2111,2026-02,35-44,0
+ORD-01036,2025-08-20,C1218,23,West,Mobile App,Wireless Mouse,Accessories,1,827.66,0.25,620.74,571.08,Email Offer,Debit Card,4,4,No,49.66,0.08,2025-08,18-24,0
+ORD-01037,2025-05-14,C1101,20,South,Website,Portable Speaker,Audio,3,2209.88,0.2,5303.71,4839.65,Organic,UPI,4,5,No,464.06,0.0875,2025-05,18-24,0
+ORD-01038,2025-11-12,C1224,35,East,Website,Wireless Mouse,Accessories,4,772.56,0.15,2626.7,2132.26,Search Ads,Debit Card,3,5,No,494.44,0.1882,2025-11,35-44,0
+ORD-01039,2025-03-27,C1380,29,South,Retail Store,Bluetooth Headphones,Audio,2,2612.2,0.2,4179.52,3761.56,Influencer,Credit Card,3,3,No,417.96,0.1,2025-03,25-34,0
+ORD-01040,2025-11-05,C1237,53,North,Mobile App,Bluetooth Headphones,Audio,1,2348.72,0.05,2231.28,1691.07,Organic,Cash,4,5,No,540.21,0.2421,2025-11,45-54,0
+ORD-01041,2025-04-06,C1257,50,North,Website,Smart Watch,Wearables,1,6299.72,0.1,5669.75,4724.79,Organic,Credit Card,5,5,No,944.96,0.1667,2025-04,45-54,0
+ORD-01042,2026-03-18,C1328,56,East,Mobile App,Mechanical Keyboard,Accessories,1,3358.04,0.0,3358.04,2350.63,Influencer,Credit Card,5,5,No,1007.41,0.3,2026-03,55+,0
+ORD-01043,2025-01-01,C1207,51,West,Mobile App,Laptop Stand,Office,1,1307.62,0.15,1111.48,823.8,Organic,Net Banking,1,4,No,287.68,0.2588,2025-01,45-54,0
+ORD-01044,2026-01-20,C1189,37,West,Website,Laptop Stand,Office,3,1210.34,0.15,3086.37,2287.54,Festive Sale,Net Banking,3,3,No,798.83,0.2588,2026-01,35-44,0
+ORD-01045,2025-06-03,C1327,27,North,Website,Mechanical Keyboard,Accessories,1,3462.91,0.0,3462.91,2424.04,Search Ads,Net Banking,4,4,No,1038.87,0.3,2025-06,25-34,0
+ORD-01046,2025-05-06,C1239,41,North,Retail Store,USB-C Hub,Accessories,4,1888.78,0.25,5666.34,4986.37,Email Offer,UPI,3,5,No,679.97,0.12,2025-05,35-44,0
+ORD-01047,2025-05-06,C1151,40,North,Website,USB-C Hub,Accessories,1,1770.82,0.25,1328.12,1168.74,Email Offer,UPI,8,5,No,159.38,0.12,2025-05,35-44,0
+ORD-01048,2025-06-30,C1288,35,South,Website,Mechanical Keyboard,Accessories,1,3635.79,0.15,3090.42,2545.05,Festive Sale,Cash,5,2,No,545.37,0.1765,2025-06,35-44,0
+ORD-01049,2025-07-10,C1146,41,West,Website,Wireless Mouse,Accessories,3,814.57,0.15,2077.15,1686.15,Referral,Net Banking,5,2,No,391.0,0.1882,2025-07,35-44,0
+ORD-01050,2026-01-26,C1226,58,North,Retail Store,Wireless Mouse,Accessories,1,819.53,0.15,696.6,565.48,Referral,UPI,5,3,No,131.12,0.1882,2026-01,55+,0
+ORD-01051,2025-11-12,C1292,30,East,Website,Webcam Pro,Office,1,2852.41,0.15,2424.55,2025.21,Festive Sale,Credit Card,5,4,No,399.34,0.1647,2025-11,25-34,0
+ORD-01052,2025-01-01,C1085,61,South,Retail Store,Bluetooth Headphones,Audio,1,2486.33,0.15,2113.38,1790.16,Festive Sale,Debit Card,5,4,Yes,323.22,0.1529,2025-01,55+,1
+ORD-01053,2025-11-12,C1380,39,West,Retail Store,Mechanical Keyboard,Accessories,1,3716.87,0.2,2973.5,2601.81,Organic,Cash,5,4,No,371.69,0.125,2025-11,35-44,0
+ORD-01054,2025-09-24,C1261,37,South,Website,Laptop Stand,Office,1,1263.28,0.15,1073.79,795.87,Referral,UPI,6,4,No,277.92,0.2588,2025-09,35-44,0
+ORD-01055,2025-10-30,C1128,47,East,Website,Laptop Stand,Office,1,1378.13,0.05,1309.22,868.22,Search Ads,Net Banking,3,5,No,441.0,0.3368,2025-10,45-54,0
+ORD-01056,2025-08-03,C1161,21,East,Website,Mechanical Keyboard,Accessories,1,3256.21,0.15,2767.78,2279.35,Influencer,Net Banking,2,4,No,488.43,0.1765,2025-08,18-24,0
+ORD-01057,2025-08-31,C1203,55,East,Retail Store,Wireless Mouse,Accessories,1,853.69,0.25,640.27,589.05,Email Offer,Debit Card,4,3,No,51.22,0.08,2025-08,55+,0
+ORD-01058,2025-03-23,C1277,45,West,Retail Store,Mechanical Keyboard,Accessories,1,3223.83,0.0,3223.83,2256.68,Influencer,Credit Card,5,4,No,967.15,0.3,2025-03,45-54,0
+ORD-01059,2025-01-27,C1359,40,West,Website,Wireless Mouse,Accessories,1,822.73,0.1,740.46,567.69,Influencer,UPI,4,4,No,172.77,0.2333,2025-01,35-44,0
+ORD-01060,2025-10-26,C1252,24,North,Mobile App,Bluetooth Headphones,Audio,3,2657.76,0.05,7574.62,5740.76,Search Ads,UPI,5,3,No,1833.86,0.2421,2025-10,18-24,0
+ORD-01061,2026-03-02,C1359,50,South,Website,Laptop Stand,Office,2,1328.82,0.1,2391.88,1674.31,Search Ads,Credit Card,4,2,No,717.57,0.3,2026-03,45-54,0
+ORD-01062,2025-12-22,C1206,44,West,Website,Portable Speaker,Audio,1,2271.36,0.1,2044.22,1658.09,Influencer,Debit Card,3,5,No,386.13,0.1889,2025-12,35-44,0
+ORD-01063,2025-04-18,C1230,26,West,Website,Smart Watch,Wearables,1,5660.83,0.1,5094.75,4245.62,Festive Sale,Credit Card,4,3,No,849.13,0.1667,2025-04,25-34,0
+ORD-01064,2026-01-03,C1364,31,West,Website,Portable Speaker,Audio,4,2229.85,0.2,7135.52,6511.15,Influencer,Credit Card,1,5,No,624.37,0.0875,2026-01,25-34,0
+ORD-01065,2025-07-20,C1238,60,East,Website,Smart Watch,Wearables,1,6298.97,0.15,5354.12,4724.23,Email Offer,Net Banking,5,5,No,629.89,0.1176,2025-07,55+,0
+ORD-01066,2025-12-04,C1172,27,South,Website,Mechanical Keyboard,Accessories,3,3491.66,0.1,9427.48,7332.49,Email Offer,Cash,2,2,No,2094.99,0.2222,2025-12,25-34,0
+ORD-01067,2025-09-11,C1176,57,South,Mobile App,Laptop Stand,Office,1,1270.05,0.0,1270.05,800.13,Influencer,Credit Card,1,4,Yes,469.92,0.37,2025-09,55+,1
+ORD-01068,2025-04-19,C1271,55,East,Mobile App,USB-C Hub,Accessories,3,1908.38,0.2,4580.11,3778.59,Referral,UPI,4,4,No,801.52,0.175,2025-04,55+,0
+ORD-01069,2025-08-21,C1033,48,West,Website,Laptop Stand,Office,1,1325.4,0.15,1126.59,835.0,Organic,Credit Card,1,5,No,291.59,0.2588,2025-08,45-54,0
+ORD-01070,2025-06-11,C1297,34,West,Website,Smart Watch,Wearables,3,6160.67,0.0,18482.01,13861.5,Search Ads,UPI,4,4,Yes,4620.51,0.25,2025-06,25-34,1
+ORD-01071,2025-04-24,C1280,44,South,Website,Portable Speaker,Audio,1,2211.41,0.0,2211.41,1614.33,Referral,Cash,3,1,No,597.08,0.27,2025-04,35-44,0
+ORD-01072,2025-12-06,C1121,42,West,Retail Store,Wireless Mouse,Accessories,1,834.75,0.2,667.8,575.98,Referral,Credit Card,1,4,No,91.82,0.1375,2025-12,35-44,0
+ORD-01073,2025-01-08,C1384,34,North,Website,Webcam Pro,Office,1,2821.4,0.1,2539.26,2003.19,Festive Sale,Credit Card,4,3,No,536.07,0.2111,2025-01,25-34,0
+ORD-01074,2026-01-09,C1328,22,East,Website,USB-C Hub,Accessories,4,1957.2,0.1,7045.92,5167.02,Organic,UPI,5,2,No,1878.9,0.2667,2026-01,18-24,0
+ORD-01075,2025-05-03,C1393,52,East,Retail Store,Bluetooth Headphones,Audio,1,2347.64,0.15,1995.49,1690.3,Referral,Debit Card,3,4,No,305.19,0.1529,2025-05,45-54,0
+ORD-01076,2026-02-08,C1318,23,East,Website,Bluetooth Headphones,Audio,3,2589.09,0.2,6213.82,5592.43,Referral,Credit Card,3,5,No,621.39,0.1,2026-02,18-24,0
+ORD-01077,2025-09-25,C1388,45,West,Retail Store,Smart Watch,Wearables,2,6338.31,0.2,10141.3,9507.46,Festive Sale,Cash,4,2,No,633.84,0.0625,2025-09,45-54,0
+ORD-01078,2025-11-23,C1199,38,North,Retail Store,Portable Speaker,Audio,2,2294.29,0.15,3900.29,3349.67,Organic,UPI,3,4,No,550.62,0.1412,2025-11,35-44,0
+ORD-01079,2025-08-20,C1384,18,North,Mobile App,Smart Watch,Wearables,1,5844.2,0.1,5259.78,4383.15,Influencer,Cash,6,5,No,876.63,0.1667,2025-08,18-24,0
+ORD-01080,2025-10-15,C1062,57,South,Mobile App,Bluetooth Headphones,Audio,2,2603.59,0.2,4165.74,3749.17,Influencer,Debit Card,5,5,No,416.57,0.1,2025-10,55+,0
+ORD-01081,2025-05-06,C1071,62,West,Website,Laptop Stand,Office,3,1333.26,0.0,3999.78,2519.86,Referral,UPI,5,3,No,1479.92,0.37,2025-05,55+,0
+ORD-01082,2025-09-29,C1168,29,North,Mobile App,Mechanical Keyboard,Accessories,2,3768.43,0.1,6783.17,5275.8,Festive Sale,Cash,5,5,No,1507.37,0.2222,2025-09,25-34,0
+ORD-01083,2025-11-03,C1094,54,East,Website,Bluetooth Headphones,Audio,5,2654.3,0.1,11944.35,9555.48,Referral,Cash,4,3,No,2388.87,0.2,2025-11,45-54,0
+ORD-01084,2026-03-16,C1216,23,East,Retail Store,Bluetooth Headphones,Audio,2,2423.79,0.1,4362.82,3490.25,Email Offer,Credit Card,5,4,No,872.57,0.2,2026-03,18-24,0
+ORD-01085,2025-02-05,C1055,34,North,Website,Bluetooth Headphones,Audio,1,2461.41,0.15,2092.2,1772.22,Referral,Credit Card,5,3,No,319.98,0.1529,2025-02,25-34,0
+ORD-01086,2025-04-05,C1350,50,North,Mobile App,Bluetooth Headphones,Audio,2,2594.11,0.05,4928.81,3735.51,Search Ads,Cash,3,3,No,1193.3,0.2421,2025-04,45-54,0
+ORD-01087,2026-03-25,C1199,30,South,Mobile App,Laptop Stand,Office,1,1322.54,0.15,1124.16,833.2,Search Ads,Cash,7,5,No,290.96,0.2588,2026-03,25-34,0
+ORD-01088,2025-05-28,C1255,18,South,Mobile App,Laptop Stand,Office,3,1329.83,0.15,3391.07,2513.38,Referral,Debit Card,7,5,No,877.69,0.2588,2025-05,18-24,0
+ORD-01089,2025-12-20,C1119,33,South,Mobile App,USB-C Hub,Accessories,2,1963.13,0.05,3729.95,2591.33,Search Ads,Debit Card,3,5,No,1138.62,0.3053,2025-12,25-34,0
+ORD-01090,2025-02-27,C1229,27,South,Mobile App,Wireless Mouse,Accessories,3,778.72,0.1,2102.54,1611.95,Email Offer,Debit Card,3,3,No,490.59,0.2333,2025-02,25-34,0
+ORD-01091,2025-06-16,C1326,27,West,Mobile App,Webcam Pro,Office,2,2855.79,0.15,4854.84,4055.22,Influencer,Credit Card,6,3,No,799.62,0.1647,2025-06,25-34,0
+ORD-01092,2025-09-08,C1031,47,East,Website,Portable Speaker,Audio,1,2044.68,0.15,1737.98,1492.62,Email Offer,Debit Card,1,4,No,245.36,0.1412,2025-09,45-54,0
+ORD-01093,2025-03-14,C1233,40,East,Website,Laptop Stand,Office,2,1208.65,0.15,2054.7,1522.9,Organic,Net Banking,5,4,No,531.8,0.2588,2025-03,35-44,0
+ORD-01094,2025-05-19,C1197,32,West,Website,USB-C Hub,Accessories,4,1943.12,0.0,7772.48,5129.85,Search Ads,Credit Card,7,5,No,2642.63,0.34,2025-05,25-34,0
+ORD-01095,2025-02-26,C1159,43,East,Mobile App,Laptop Stand,Office,2,1302.43,0.1,2344.37,1641.06,Influencer,Debit Card,5,1,No,703.31,0.3,2025-02,35-44,0
+ORD-01096,2026-02-19,C1168,62,South,Mobile App,Smart Watch,Wearables,5,6439.2,0.0,32196.0,24147.01,Search Ads,UPI,3,5,No,8048.99,0.25,2026-02,55+,0
+ORD-01097,2025-09-04,C1140,55,South,Website,Smart Watch,Wearables,1,6187.15,0.15,5259.08,4640.37,Referral,Debit Card,5,3,No,618.71,0.1176,2025-09,55+,0
+ORD-01098,2025-02-19,C1389,33,West,Mobile App,Webcam Pro,Office,3,2930.33,0.2,7032.79,6241.59,Festive Sale,Cash,2,4,No,791.2,0.1125,2025-02,25-34,0
+ORD-01099,2025-01-09,C1274,22,North,Mobile App,Bluetooth Headphones,Audio,1,2485.84,0.15,2112.96,1789.8,Festive Sale,Credit Card,1,2,No,323.16,0.1529,2025-01,18-24,0
+ORD-01100,2025-04-22,C1330,55,North,Website,Mechanical Keyboard,Accessories,1,3774.06,0.1,3396.65,2641.84,Email Offer,Debit Card,3,5,No,754.81,0.2222,2025-04,55+,0
+ORD-01101,2025-05-02,C1390,33,North,Mobile App,Bluetooth Headphones,Audio,3,2550.62,0.2,6121.49,5509.34,Influencer,UPI,1,2,No,612.15,0.1,2025-05,25-34,0
+ORD-01102,2026-03-08,C1143,18,South,Mobile App,Portable Speaker,Audio,3,2348.47,0.15,5988.6,5143.14,Festive Sale,Net Banking,3,4,No,845.46,0.1412,2026-03,18-24,0
+ORD-01103,2025-10-12,C1081,32,North,Mobile App,USB-C Hub,Accessories,5,1805.58,0.2,7222.32,5958.42,Festive Sale,Debit Card,4,5,No,1263.9,0.175,2025-10,25-34,0
+ORD-01104,2025-08-24,C1105,41,West,Website,Wireless Mouse,Accessories,1,851.7,0.0,851.7,587.67,Influencer,Net Banking,5,4,No,264.03,0.31,2025-08,35-44,0
+ORD-01105,2025-03-20,C1216,24,South,Mobile App,Bluetooth Headphones,Audio,1,2572.75,0.15,2186.84,1852.38,Festive Sale,Credit Card,5,2,No,334.46,0.1529,2025-03,18-24,0
+ORD-01106,2025-12-25,C1300,39,East,Mobile App,USB-C Hub,Accessories,2,2020.22,0.2,3232.35,2666.7,Organic,Cash,4,5,No,565.65,0.175,2025-12,35-44,0
+ORD-01107,2025-12-05,C1311,31,West,Website,Smart Watch,Wearables,2,5822.13,0.15,9897.62,8733.2,Referral,Net Banking,4,5,No,1164.42,0.1176,2025-12,25-34,0
+ORD-01108,2026-01-31,C1274,25,North,Retail Store,Portable Speaker,Audio,1,2282.39,0.15,1940.03,1666.14,Festive Sale,Cash,3,4,No,273.89,0.1412,2026-01,25-34,0
+ORD-01109,2025-12-31,C1026,50,North,Mobile App,USB-C Hub,Accessories,2,1820.15,0.05,3458.28,2402.6,Search Ads,Debit Card,5,5,No,1055.68,0.3053,2025-12,45-54,0
+ORD-01110,2025-09-26,C1106,26,East,Website,Bluetooth Headphones,Audio,2,2495.2,0.25,3742.8,3593.09,Festive Sale,UPI,5,5,No,149.71,0.04,2025-09,25-34,0
+ORD-01111,2025-09-23,C1349,35,West,Website,USB-C Hub,Accessories,2,1887.12,0.2,3019.39,2491.0,Festive Sale,UPI,4,5,No,528.39,0.175,2025-09,35-44,0
+ORD-01112,2026-03-18,C1247,24,North,Website,Wireless Mouse,Accessories,2,823.03,0.1,1481.45,1135.78,Festive Sale,Debit Card,4,4,No,345.67,0.2333,2026-03,18-24,0
+ORD-01113,2025-01-30,C1386,36,South,Retail Store,Wireless Mouse,Accessories,1,817.61,0.0,817.61,564.15,Organic,Cash,5,3,No,253.46,0.31,2025-01,35-44,0
+ORD-01114,2025-09-02,C1148,50,West,Mobile App,Laptop Stand,Office,2,1366.41,0.05,2596.18,1721.68,Search Ads,Net Banking,2,4,Yes,874.5,0.3368,2025-09,45-54,1
+ORD-01115,2025-01-21,C1126,42,West,Website,Webcam Pro,Office,2,2884.46,0.0,5768.92,4095.93,Influencer,Credit Card,2,4,No,1672.99,0.29,2025-01,35-44,0
+ORD-01116,2025-07-27,C1165,41,North,Website,Webcam Pro,Office,1,2868.41,0.1,2581.57,2036.57,Organic,Cash,5,4,No,545.0,0.2111,2025-07,35-44,0
+ORD-01117,2025-07-12,C1315,53,North,Mobile App,Wireless Mouse,Accessories,1,787.52,0.05,748.14,543.39,Search Ads,Cash,6,4,No,204.75,0.2737,2025-07,45-54,0
+ORD-01118,2025-04-05,C1064,53,North,Website,USB-C Hub,Accessories,3,2000.76,0.2,4801.82,3961.5,Email Offer,Debit Card,4,5,No,840.32,0.175,2025-04,45-54,0
+ORD-01119,2026-03-15,C1392,30,West,Mobile App,USB-C Hub,Accessories,4,1861.96,0.2,5958.27,4915.57,Search Ads,Credit Card,4,4,No,1042.7,0.175,2026-03,25-34,0
+ORD-01120,2025-12-23,C1125,44,East,Mobile App,Webcam Pro,Office,2,2835.18,0.2,4536.29,4025.95,Email Offer,Cash,5,5,No,510.34,0.1125,2025-12,35-44,0
+ORD-01121,2025-08-09,C1150,58,North,Website,Smart Watch,Wearables,3,6308.1,0.1,17031.87,14193.23,Email Offer,Credit Card,4,4,No,2838.64,0.1667,2025-08,55+,0
+ORD-01122,2025-07-26,C1374,19,East,Website,Smart Watch,Wearables,2,6439.78,0.1,11591.6,9659.66,Search Ads,Net Banking,1,4,No,1931.94,0.1667,2025-07,18-24,0
+ORD-01123,2026-02-10,C1012,32,East,Mobile App,Laptop Stand,Office,4,1385.52,0.2,4433.66,3491.51,Organic,Debit Card,2,5,No,942.15,0.2125,2026-02,25-34,0
+ORD-01124,2025-06-19,C1030,36,West,Mobile App,USB-C Hub,Accessories,2,1955.77,0.2,3129.23,2581.61,Festive Sale,Debit Card,3,3,No,547.62,0.175,2025-06,35-44,0
+ORD-01125,2025-04-10,C1047,24,East,Retail Store,Laptop Stand,Office,1,1362.59,0.05,1294.46,858.43,Search Ads,Cash,1,5,No,436.03,0.3368,2025-04,18-24,0
+ORD-01126,2025-01-25,C1330,38,South,Mobile App,Smart Watch,Wearables,2,5648.38,0.15,9602.25,8472.57,Email Offer,UPI,4,5,Yes,1129.68,0.1176,2025-01,35-44,1
+ORD-01127,2026-01-06,C1049,47,North,Retail Store,Bluetooth Headphones,Audio,2,2695.49,0.2,4312.78,3881.51,Email Offer,UPI,4,5,No,431.27,0.1,2026-01,45-54,0
+ORD-01128,2025-01-06,C1213,25,South,Retail Store,USB-C Hub,Accessories,5,1779.51,0.0,8897.55,5872.4,Organic,UPI,1,4,No,3025.15,0.34,2025-01,25-34,0
+ORD-01129,2025-05-06,C1306,25,East,Mobile App,Webcam Pro,Office,2,2895.19,0.1,5211.34,4111.16,Influencer,Credit Card,7,5,No,1100.18,0.2111,2025-05,25-34,0
+ORD-01130,2025-07-20,C1064,51,East,Website,Mechanical Keyboard,Accessories,1,3258.78,0.1,2932.9,2281.15,Organic,Cash,2,4,No,651.75,0.2222,2025-07,45-54,0
+ORD-01131,2025-05-30,C1209,30,South,Website,Smart Watch,Wearables,1,5652.78,0.0,5652.78,4239.58,Organic,Credit Card,6,3,No,1413.2,0.25,2025-05,25-34,0
+ORD-01132,2025-02-07,C1357,36,West,Website,Smart Watch,Wearables,1,6415.36,0.2,5132.29,4811.52,Festive Sale,UPI,3,3,No,320.77,0.0625,2025-02,35-44,0
+ORD-01133,2026-03-01,C1381,20,North,Mobile App,Mechanical Keyboard,Accessories,1,3462.82,0.25,2597.12,2423.97,Email Offer,UPI,4,4,No,173.15,0.0667,2026-03,18-24,0
+ORD-01134,2025-04-09,C1351,47,South,Website,Wireless Mouse,Accessories,1,784.46,0.1,706.01,541.28,Festive Sale,UPI,2,2,No,164.73,0.2333,2025-04,45-54,0
+ORD-01135,2025-03-31,C1224,54,East,Retail Store,Smart Watch,Wearables,1,6047.27,0.15,5140.18,4535.45,Organic,Credit Card,1,2,No,604.73,0.1176,2025-03,45-54,0
+ORD-01136,2025-11-15,C1284,18,East,Website,Smart Watch,Wearables,4,5810.88,0.0,23243.52,17432.63,Search Ads,Debit Card,4,5,No,5810.89,0.25,2025-11,18-24,0
+ORD-01137,2025-06-02,C1109,32,West,Retail Store,Smart Watch,Wearables,4,5910.17,0.2,18912.54,17730.52,Search Ads,Net Banking,4,4,No,1182.02,0.0625,2025-06,25-34,0
+ORD-01138,2025-12-20,C1149,36,North,Mobile App,Wireless Mouse,Accessories,5,743.37,0.2,2973.48,2564.62,Influencer,Net Banking,4,4,No,408.86,0.1375,2025-12,35-44,0
+ORD-01139,2025-05-11,C1320,54,West,Mobile App,USB-C Hub,Accessories,2,1874.92,0.2,2999.87,2474.89,Influencer,Cash,2,5,No,524.98,0.175,2025-05,45-54,0
+ORD-01140,2026-01-24,C1327,54,North,Retail Store,Portable Speaker,Audio,1,2226.89,0.2,1781.51,1625.63,Referral,Debit Card,1,3,No,155.88,0.0875,2026-01,45-54,0
+ORD-01141,2025-01-11,C1115,36,South,Retail Store,Laptop Stand,Office,3,1369.5,0.0,4108.5,2588.35,Search Ads,Net Banking,2,5,No,1520.15,0.37,2025-01,35-44,0
+ORD-01142,2025-11-15,C1090,31,West,Website,Wireless Mouse,Accessories,2,817.15,0.1,1470.87,1127.66,Email Offer,Credit Card,5,4,No,343.21,0.2333,2025-11,25-34,0
+ORD-01143,2025-09-24,C1267,26,East,Mobile App,Smart Watch,Wearables,2,5753.24,0.1,10355.83,8629.87,Influencer,UPI,7,4,No,1725.96,0.1667,2025-09,25-34,0
+ORD-01144,2025-06-26,C1016,53,North,Retail Store,Webcam Pro,Office,4,2967.4,0.2,9495.68,8427.42,Organic,Cash,4,5,No,1068.26,0.1125,2025-06,45-54,0
+ORD-01145,2026-01-26,C1323,22,South,Website,Mechanical Keyboard,Accessories,1,3412.07,0.25,2559.05,2388.45,Email Offer,Credit Card,1,5,No,170.6,0.0667,2026-01,18-24,0
+ORD-01146,2026-01-28,C1137,43,East,Mobile App,Smart Watch,Wearables,5,6328.52,0.0,31642.6,23731.95,Referral,Cash,3,4,No,7910.65,0.25,2026-01,35-44,0
+ORD-01147,2025-05-20,C1264,45,North,Retail Store,Wireless Mouse,Accessories,1,820.44,0.1,738.4,566.1,Festive Sale,Net Banking,1,4,No,172.3,0.2333,2025-05,45-54,0
+ORD-01148,2025-09-15,C1014,21,North,Website,Smart Watch,Wearables,1,6309.57,0.2,5047.66,4732.17,Referral,Cash,7,5,No,315.49,0.0625,2025-09,18-24,0
+ORD-01149,2025-11-28,C1091,58,North,Website,Laptop Stand,Office,2,1279.84,0.25,1919.76,1612.59,Festive Sale,Credit Card,6,4,No,307.17,0.16,2025-11,55+,0
+ORD-01150,2025-01-26,C1201,28,South,Mobile App,Mechanical Keyboard,Accessories,1,3554.33,0.25,2665.75,2488.03,Email Offer,Net Banking,3,2,No,177.72,0.0667,2025-01,25-34,0
+ORD-01151,2026-01-26,C1243,42,South,Mobile App,Webcam Pro,Office,1,3106.96,0.25,2330.22,2205.94,Festive Sale,Debit Card,1,5,No,124.28,0.0533,2026-01,35-44,0
+ORD-01152,2025-01-12,C1068,38,East,Website,Webcam Pro,Office,1,2801.88,0.15,2381.6,1989.33,Email Offer,Debit Card,2,4,No,392.27,0.1647,2025-01,35-44,0
+ORD-01153,2025-07-25,C1085,61,West,Mobile App,Bluetooth Headphones,Audio,1,2638.76,0.0,2638.76,1899.91,Search Ads,Credit Card,4,2,No,738.85,0.28,2025-07,55+,0
+ORD-01154,2026-02-27,C1230,22,South,Mobile App,Mechanical Keyboard,Accessories,2,3325.67,0.1,5986.21,4655.93,Email Offer,Debit Card,4,5,No,1330.28,0.2222,2026-02,18-24,0
+ORD-01155,2025-10-31,C1049,45,South,Retail Store,Wireless Mouse,Accessories,1,800.31,0.2,640.25,552.22,Email Offer,UPI,4,3,No,88.03,0.1375,2025-10,45-54,0
+ORD-01156,2025-07-23,C1096,22,North,Retail Store,Portable Speaker,Audio,4,2203.71,0.15,7492.61,6434.84,Influencer,Net Banking,5,1,No,1057.77,0.1412,2025-07,18-24,0
+ORD-01157,2026-02-25,C1175,49,North,Mobile App,USB-C Hub,Accessories,1,1921.03,0.15,1632.88,1267.88,Search Ads,Cash,1,5,No,365.0,0.2235,2026-02,45-54,0
+ORD-01158,2025-05-05,C1385,46,South,Mobile App,Bluetooth Headphones,Audio,5,2390.61,0.2,9562.44,8606.18,Festive Sale,Cash,5,5,Yes,956.26,0.1,2025-05,45-54,1
+ORD-01159,2025-10-06,C1255,33,West,Mobile App,Webcam Pro,Office,5,2952.29,0.1,13285.3,10480.64,Email Offer,Debit Card,5,5,No,2804.66,0.2111,2025-10,25-34,0
+ORD-01160,2026-01-27,C1179,38,West,Mobile App,Wireless Mouse,Accessories,1,763.7,0.05,725.52,526.96,Search Ads,Debit Card,1,4,No,198.56,0.2737,2026-01,35-44,0
+ORD-01161,2025-01-08,C1038,51,West,Retail Store,Mechanical Keyboard,Accessories,2,3303.25,0.15,5615.52,4624.55,Organic,Cash,6,4,No,990.97,0.1765,2025-01,45-54,0
+ORD-01162,2025-07-23,C1312,52,North,Mobile App,Portable Speaker,Audio,2,2174.36,0.1,3913.85,3174.56,Search Ads,Credit Card,5,3,No,739.29,0.1889,2025-07,45-54,0
+ORD-01163,2025-03-06,C1222,56,East,Mobile App,Wireless Mouse,Accessories,4,842.69,0.05,3202.22,2325.83,Influencer,Cash,6,5,No,876.39,0.2737,2025-03,55+,0
+ORD-01164,2025-06-22,C1385,20,North,Website,Bluetooth Headphones,Audio,1,2482.16,0.2,1985.73,1787.16,Organic,Credit Card,3,5,No,198.57,0.1,2025-06,18-24,0
+ORD-01165,2025-05-01,C1040,57,West,Website,Webcam Pro,Office,1,2890.99,0.25,2168.24,2052.6,Festive Sale,Net Banking,6,2,No,115.64,0.0533,2025-05,55+,0
+ORD-01166,2025-07-16,C1296,30,West,Mobile App,USB-C Hub,Accessories,2,1844.34,0.05,3504.25,2434.53,Search Ads,Cash,3,4,No,1069.72,0.3053,2025-07,25-34,0
+ORD-01167,2025-06-12,C1138,19,West,Mobile App,Wireless Mouse,Accessories,2,741.71,0.05,1409.25,1023.56,Referral,Cash,4,4,No,385.69,0.2737,2025-06,18-24,0
+ORD-01168,2025-06-19,C1383,39,North,Website,Portable Speaker,Audio,1,2084.97,0.1,1876.47,1522.03,Organic,Cash,2,5,No,354.44,0.1889,2025-06,35-44,0
+ORD-01169,2025-07-21,C1127,58,West,Website,Portable Speaker,Audio,1,2088.41,0.2,1670.73,1524.54,Referral,Credit Card,3,5,No,146.19,0.0875,2025-07,55+,0
+ORD-01170,2026-03-20,C1168,29,North,Website,Smart Watch,Wearables,1,6172.28,0.0,6172.28,4629.21,Influencer,Credit Card,1,4,No,1543.07,0.25,2026-03,25-34,0
+ORD-01171,2025-06-25,C1114,39,South,Retail Store,Webcam Pro,Office,1,3175.74,0.2,2540.59,2254.78,Search Ads,UPI,3,4,No,285.81,0.1125,2025-06,35-44,0
+ORD-01172,2025-10-14,C1198,53,East,Website,Webcam Pro,Office,4,2885.21,0.15,9809.71,8193.98,Organic,Debit Card,5,4,No,1615.73,0.1647,2025-10,45-54,0
+ORD-01173,2026-02-27,C1058,48,South,Website,Laptop Stand,Office,1,1387.61,0.1,1248.85,874.19,Festive Sale,Cash,5,4,No,374.66,0.3,2026-02,45-54,0
+ORD-01174,2025-05-01,C1151,47,North,Website,Laptop Stand,Office,1,1213.41,0.15,1031.4,764.45,Referral,UPI,7,2,No,266.95,0.2588,2025-05,45-54,0
+ORD-01175,2025-04-21,C1219,46,East,Mobile App,USB-C Hub,Accessories,1,1819.44,0.1,1637.5,1200.83,Email Offer,UPI,5,5,Yes,436.67,0.2667,2025-04,45-54,1
+ORD-01176,2025-05-26,C1063,62,North,Mobile App,Bluetooth Headphones,Audio,1,2510.68,0.15,2134.08,1807.69,Organic,Cash,3,4,No,326.39,0.1529,2025-05,55+,0
+ORD-01177,2026-01-11,C1393,40,West,Website,USB-C Hub,Accessories,1,1907.14,0.05,1811.78,1258.71,Organic,Net Banking,6,4,No,553.07,0.3053,2026-01,35-44,0
+ORD-01178,2025-01-30,C1086,26,West,Mobile App,Mechanical Keyboard,Accessories,1,3386.28,0.15,2878.34,2370.39,Referral,Debit Card,3,4,No,507.95,0.1765,2025-01,25-34,0
+ORD-01179,2025-10-05,C1148,29,West,Retail Store,Mechanical Keyboard,Accessories,3,3690.23,0.1,9963.62,7749.48,Influencer,Net Banking,3,4,No,2214.14,0.2222,2025-10,25-34,0
+ORD-01180,2025-06-20,C1191,58,South,Retail Store,Wireless Mouse,Accessories,1,837.56,0.15,711.93,577.92,Festive Sale,UPI,3,3,No,134.01,0.1882,2025-06,55+,0
+ORD-01181,2025-05-02,C1175,48,North,Mobile App,USB-C Hub,Accessories,3,1748.77,0.0,5246.31,3462.57,Search Ads,UPI,2,1,No,1783.74,0.34,2025-05,45-54,0
+ORD-01182,2025-05-26,C1354,32,East,Retail Store,Laptop Stand,Office,2,1225.02,0.25,1837.53,1543.53,Email Offer,Debit Card,2,4,No,294.0,0.16,2025-05,25-34,0
+ORD-01183,2025-11-26,C1189,36,South,Mobile App,Webcam Pro,Office,1,3096.74,0.2,2477.39,2198.68,Influencer,Cash,1,3,No,278.71,0.1125,2025-11,35-44,0
+ORD-01184,2026-02-18,C1331,18,South,Website,Bluetooth Headphones,Audio,1,2356.34,0.05,2238.52,1696.57,Organic,Net Banking,3,4,No,541.95,0.2421,2026-02,18-24,0
+ORD-01185,2026-01-14,C1284,47,North,Mobile App,Wireless Mouse,Accessories,1,761.15,0.15,646.98,525.2,Search Ads,UPI,4,4,No,121.78,0.1882,2026-01,45-54,0
+ORD-01186,2025-12-07,C1186,53,South,Mobile App,Portable Speaker,Audio,3,2114.68,0.2,5075.23,4631.15,Email Offer,Credit Card,2,4,No,444.08,0.0875,2025-12,45-54,0
+ORD-01187,2026-03-18,C1201,21,East,Website,Wireless Mouse,Accessories,1,828.35,0.15,704.1,571.56,Email Offer,Credit Card,3,4,No,132.54,0.1882,2026-03,18-24,0
+ORD-01188,2025-02-02,C1096,19,South,Website,Portable Speaker,Audio,3,2253.67,0.05,6422.96,4935.55,Organic,Cash,4,4,No,1487.41,0.2316,2025-02,18-24,0
+ORD-01189,2025-11-11,C1300,22,West,Retail Store,Smart Watch,Wearables,4,6149.93,0.15,20909.76,18449.8,Referral,Unknown,3,4,No,2459.96,0.1176,2025-11,18-24,0
+ORD-01190,2025-12-01,C1158,35,South,Mobile App,Mechanical Keyboard,Accessories,3,3398.34,0.2,8156.02,7136.52,Search Ads,Net Banking,3,4,No,1019.5,0.125,2025-12,35-44,0
+ORD-01191,2026-01-13,C1130,54,South,Website,Portable Speaker,Audio,1,2114.92,0.2,1691.94,1543.89,Festive Sale,Net Banking,2,5,No,148.05,0.0875,2026-01,45-54,0
+ORD-01192,2025-11-06,C1127,60,North,Website,Portable Speaker,Audio,1,2042.59,0.0,2042.59,1491.09,Search Ads,Net Banking,2,5,No,551.5,0.27,2025-11,55+,0
+ORD-01193,2026-01-04,C1286,51,South,Mobile App,Bluetooth Headphones,Audio,3,2530.82,0.1,6833.21,5466.57,Search Ads,Credit Card,5,3,No,1366.64,0.2,2026-01,45-54,0
+ORD-01194,2026-02-11,C1020,20,West,Mobile App,Mechanical Keyboard,Accessories,2,3324.58,0.0,6649.16,4654.41,Organic,Net Banking,1,3,No,1994.75,0.3,2026-02,18-24,0
+ORD-01195,2025-09-23,C1095,33,East,Mobile App,Portable Speaker,Audio,2,2204.04,0.1,3967.27,3217.9,Influencer,Credit Card,7,4,No,749.37,0.1889,2025-09,25-34,0
+ORD-01196,2025-01-09,C1294,38,East,Website,Laptop Stand,Office,1,1372.82,0.0,1372.82,864.88,Organic,Credit Card,5,2,No,507.94,0.37,2025-01,35-44,0
+ORD-01197,2026-03-23,C1384,40,North,Mobile App,Bluetooth Headphones,Audio,2,2675.66,0.05,5083.75,3852.95,Influencer,Cash,4,4,No,1230.8,0.2421,2026-03,35-44,0
+ORD-01198,2025-04-09,C1256,23,South,Retail Store,Wireless Mouse,Accessories,2,822.88,0.15,1398.9,1135.57,Festive Sale,UPI,5,4,No,263.33,0.1882,2025-04,18-24,0
+ORD-01199,2025-11-21,C1072,21,South,Website,USB-C Hub,Accessories,1,1975.77,0.25,1481.83,1304.01,Email Offer,Net Banking,3,3,No,177.82,0.12,2025-11,18-24,0
+ORD-01200,2025-02-23,C1339,51,South,Website,USB-C Hub,Accessories,2,1966.76,0.15,3343.49,2596.12,Email Offer,Cash,3,5,No,747.37,0.2235,2025-02,45-54,0
+ORD-01201,2026-01-18,C1007,60,North,Website,Smart Watch,Wearables,1,5719.11,0.15,4861.24,4289.33,Referral,UPI,3,3,No,571.91,0.1176,2026-01,55+,0
+ORD-01202,2025-03-18,C1269,26,South,Website,Laptop Stand,Office,1,1277.13,0.2,1021.7,804.59,Influencer,Debit Card,3,5,No,217.11,0.2125,2025-03,25-34,0
+ORD-01203,2025-03-10,C1188,40,East,Website,USB-C Hub,Accessories,1,1959.96,0.2,1567.97,1293.57,Search Ads,UPI,6,5,No,274.4,0.175,2025-03,35-44,0
+ORD-01204,2026-02-17,C1233,25,East,Website,Smart Watch,Wearables,2,5738.75,0.1,10329.75,8608.13,Festive Sale,Cash,5,3,No,1721.62,0.1667,2026-02,25-34,0
+ORD-01205,2025-06-17,C1381,27,West,Website,Mechanical Keyboard,Accessories,4,3746.18,0.2,11987.78,10489.29,Festive Sale,Cash,5,1,No,1498.49,0.125,2025-06,25-34,0
+ORD-01206,2025-03-24,C1227,23,South,Mobile App,Portable Speaker,Audio,1,2241.02,0.05,2128.97,1635.94,Organic,Net Banking,3,4,No,493.03,0.2316,2025-03,18-24,0
+ORD-01207,2025-04-27,C1082,61,South,Retail Store,USB-C Hub,Accessories,2,1844.14,0.0,3688.28,2434.26,Referral,Credit Card,3,4,Yes,1254.02,0.34,2025-04,55+,1
+ORD-01208,2025-01-31,C1158,57,North,Mobile App,Bluetooth Headphones,Audio,4,2446.45,0.25,7339.35,7045.77,Email Offer,Debit Card,1,2,No,293.58,0.04,2025-01,55+,0
+ORD-01209,2025-07-10,C1129,47,West,Retail Store,Laptop Stand,Office,4,1223.52,0.1,4404.67,3083.28,Email Offer,UPI,1,4,No,1321.39,0.3,2025-07,45-54,0
+ORD-01210,2025-01-20,C1231,43,North,Mobile App,Smart Watch,Wearables,2,5739.7,0.15,9757.49,8609.55,Organic,Credit Card,3,3,No,1147.94,0.1176,2025-01,35-44,0
+ORD-01211,2025-08-05,C1016,24,North,Mobile App,Wireless Mouse,Accessories,3,754.02,0.1,2035.85,1560.82,Email Offer,Net Banking,3,5,No,475.03,0.2333,2025-08,18-24,0
+ORD-01212,2025-08-20,C1148,41,South,Website,Bluetooth Headphones,Audio,2,2624.15,0.1,4723.47,3778.77,Festive Sale,Debit Card,4,5,No,944.7,0.2,2025-08,35-44,0
+ORD-01213,2025-04-13,C1179,52,South,Website,Webcam Pro,Office,1,2967.86,0.0,2967.86,2107.18,Organic,Debit Card,1,5,No,860.68,0.29,2025-04,45-54,0
+ORD-01214,2025-09-12,C1103,56,South,Website,Wireless Mouse,Accessories,1,837.82,0.05,795.93,578.1,Influencer,Debit Card,5,4,No,217.83,0.2737,2025-09,55+,0
+ORD-01215,2026-03-06,C1124,26,West,Website,Webcam Pro,Office,1,2789.83,0.1,2510.85,1980.78,Organic,Net Banking,8,5,No,530.07,0.2111,2026-03,25-34,0
+ORD-01216,2025-08-06,C1302,49,East,Retail Store,Bluetooth Headphones,Audio,2,2319.3,0.1,4174.74,3339.8,Festive Sale,UPI,5,4,No,834.94,0.2,2025-08,45-54,0
+ORD-01217,2025-01-11,C1359,63,South,Mobile App,Laptop Stand,Office,4,1312.08,0.0,5248.32,3306.44,Influencer,UPI,5,4,No,1941.88,0.37,2025-01,55+,0
+ORD-01218,2025-06-12,C1307,49,North,Website,USB-C Hub,Accessories,2,1837.51,0.0,3675.02,2425.52,Organic,Cash,4,5,No,1249.5,0.34,2025-06,45-54,0
+ORD-01219,2025-09-10,C1384,36,North,Website,Smart Watch,Wearables,2,6097.85,0.25,9146.78,9146.78,Email Offer,Debit Card,5,2,No,0.0,0.0,2025-09,35-44,0
+ORD-01220,2025-01-26,C1108,62,West,Mobile App,Portable Speaker,Audio,1,2176.8,0.05,2067.96,1589.06,Referral,Debit Card,3,5,No,478.9,0.2316,2025-01,55+,0
+ORD-01221,2025-10-26,C1339,26,West,Mobile App,Bluetooth Headphones,Audio,1,2652.31,0.1,2387.08,1909.66,Search Ads,Credit Card,1,1,No,477.42,0.2,2025-10,25-34,0
+ORD-01222,2025-02-24,C1322,34,West,Website,Bluetooth Headphones,Audio,1,2620.25,0.0,2620.25,1886.58,Influencer,UPI,3,2,No,733.67,0.28,2025-02,25-34,0
+ORD-01223,2025-05-01,C1276,50,West,Retail Store,Mechanical Keyboard,Accessories,3,3628.3,0.1,9796.41,7619.43,Email Offer,Cash,5,4,No,2176.98,0.2222,2025-05,45-54,0
+ORD-01224,2025-07-24,C1378,32,East,Mobile App,Laptop Stand,Office,1,1303.56,0.2,1042.85,821.24,Email Offer,Debit Card,3,4,No,221.61,0.2125,2025-07,25-34,0
+ORD-01225,2025-08-13,C1243,60,South,Website,Wireless Mouse,Accessories,1,795.72,0.25,596.79,549.04,Festive Sale,Debit Card,5,2,No,47.75,0.08,2025-08,55+,0
+ORD-01226,2025-11-01,C1346,55,North,Mobile App,Webcam Pro,Office,2,3186.61,0.05,6054.56,4524.99,Organic,Net Banking,2,3,No,1529.57,0.2526,2025-11,55+,0
+ORD-01227,2025-10-14,C1137,20,West,Mobile App,USB-C Hub,Accessories,1,1940.14,0.15,1649.12,1280.49,Influencer,Cash,6,4,No,368.63,0.2235,2025-10,18-24,0
+ORD-01228,2025-08-05,C1250,36,East,Website,Bluetooth Headphones,Audio,1,2398.28,0.2,1918.62,1726.77,Influencer,Cash,6,4,No,191.85,0.1,2025-08,35-44,0
+ORD-01229,2025-04-25,C1338,60,West,Website,Mechanical Keyboard,Accessories,3,3665.76,0.15,9347.69,7698.09,Organic,Debit Card,2,4,No,1649.6,0.1765,2025-04,55+,0
+ORD-01230,2026-03-04,C1262,37,West,Mobile App,Webcam Pro,Office,2,2886.55,0.1,5195.79,4098.9,Email Offer,Cash,1,3,No,1096.89,0.2111,2026-03,35-44,0
+ORD-01231,2025-06-23,C1323,44,West,Website,Bluetooth Headphones,Audio,5,2602.98,0.1,11713.41,9370.72,Organic,Debit Card,8,3,No,2342.69,0.2,2025-06,35-44,0
+ORD-01232,2025-10-01,C1078,51,South,Mobile App,Webcam Pro,Office,3,2948.71,0.05,8403.82,6280.75,Referral,UPI,4,4,No,2123.07,0.2526,2025-10,45-54,0
+ORD-01233,2025-11-16,C1372,33,North,Website,Bluetooth Headphones,Audio,1,2657.36,0.0,2657.36,1913.3,Organic,Net Banking,1,4,No,744.06,0.28,2025-11,25-34,0
+ORD-01234,2025-02-25,C1128,20,South,Mobile App,Smart Watch,Wearables,1,5698.17,0.0,5698.17,4273.63,Referral,UPI,2,5,No,1424.54,0.25,2025-02,18-24,0
+ORD-01235,2025-07-25,C1135,25,North,Retail Store,Mechanical Keyboard,Accessories,1,3496.53,0.1,3146.88,2447.57,Referral,Debit Card,2,4,No,699.31,0.2222,2025-07,25-34,0
+ORD-01236,2025-05-21,C1265,26,West,Website,Wireless Mouse,Accessories,1,743.43,0.15,631.92,512.97,Influencer,Cash,1,5,No,118.95,0.1882,2025-05,25-34,0
+ORD-01237,2025-11-19,C1041,46,North,Retail Store,Wireless Mouse,Accessories,1,747.47,0.2,597.98,515.75,Search Ads,Cash,7,3,No,82.23,0.1375,2025-11,45-54,0
+ORD-01238,2025-04-05,C1128,62,West,Retail Store,Webcam Pro,Office,2,3017.43,0.2,4827.89,4284.75,Influencer,Cash,4,5,No,543.14,0.1125,2025-04,55+,0
+ORD-01239,2025-08-14,C1134,38,West,Mobile App,Laptop Stand,Office,2,1265.8,0.0,2531.6,1594.91,Referral,Credit Card,4,5,Yes,936.69,0.37,2025-08,35-44,1
+ORD-01240,2025-01-30,C1243,23,East,Website,Portable Speaker,Audio,4,2062.97,0.0,8251.88,6023.89,Referral,Cash,4,4,No,2227.99,0.27,2025-01,18-24,0
+ORD-01241,2025-10-03,C1307,21,South,Website,Webcam Pro,Office,1,2916.3,0.2,2333.04,2070.57,Festive Sale,Debit Card,6,4,Yes,262.47,0.1125,2025-10,18-24,1
+ORD-01242,2026-02-18,C1193,61,East,Mobile App,USB-C Hub,Accessories,2,2026.77,0.2,3242.83,2675.33,Festive Sale,Cash,4,5,No,567.5,0.175,2026-02,55+,0
+ORD-01243,2025-11-11,C1160,38,West,Mobile App,Webcam Pro,Office,1,2836.73,0.15,2411.22,2014.08,Referral,Cash,4,4,No,397.14,0.1647,2025-11,35-44,0
+ORD-01244,2025-08-19,C1067,33,East,Retail Store,Laptop Stand,Office,1,1201.08,0.2,960.86,756.68,Organic,Net Banking,2,5,No,204.18,0.2125,2025-08,25-34,0
+ORD-01245,2026-02-06,C1172,56,South,Mobile App,USB-C Hub,Accessories,1,1867.55,0.1,1680.8,1232.58,Festive Sale,Net Banking,6,4,No,448.22,0.2667,2026-02,55+,0
+ORD-01246,2025-03-24,C1243,37,North,Website,USB-C Hub,Accessories,1,1957.93,0.25,1468.45,1292.23,Email Offer,UPI,5,4,No,176.22,0.12,2025-03,35-44,0
+ORD-01247,2025-07-19,C1258,34,North,Website,Wireless Mouse,Accessories,1,851.51,0.2,681.21,587.54,Festive Sale,UPI,3,4,No,93.67,0.1375,2025-07,25-34,0
+ORD-01248,2025-02-25,C1041,29,West,Mobile App,Portable Speaker,Audio,1,2092.0,0.2,1673.6,1527.16,Search Ads,Net Banking,4,4,No,146.44,0.0875,2025-02,25-34,0
+ORD-01249,2026-02-07,C1327,45,East,Website,Wireless Mouse,Accessories,5,844.09,0.15,3587.38,2912.13,Referral,Debit Card,4,2,No,675.25,0.1882,2026-02,45-54,0
+ORD-01250,2025-04-28,C1386,52,East,Website,Portable Speaker,Audio,1,2158.84,0.2,1727.07,1575.96,Influencer,Credit Card,3,2,No,151.11,0.0875,2025-04,45-54,0
