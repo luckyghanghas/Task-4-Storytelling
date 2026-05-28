@@ -15,6 +15,9 @@ reports/
   hypothesis_testing_summary.md
 presentation/
   final_presentation_deck.md
+  task_4_data_storytelling.pptx
+scripts/
+  create_storytelling_pptx.js
 Data-Storytelling-and-Statistical-Validation().pptx
 README.md
 ```
@@ -27,8 +30,10 @@ The statistical test compares the high-satisfaction rate between Website and Mob
 
 - Hypothesis testing summary: `reports/hypothesis_testing_summary.md`
 - Final presentation outline: `presentation/final_presentation_deck.md`
+- PowerPoint presentation: `presentation/task_4_data_storytelling.pptx`
 - Cleaned dataset: `data/sales_transactions_cleaned.csv`
 - Existing presentation file: `Data-Storytelling-and-Statistical-Validation().pptx`
+- PPTX generation script: `scripts/create_storytelling_pptx.js`
 
 ## Business Recommendation
 
