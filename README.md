@@ -18,8 +18,10 @@ presentation/
   task_4_data_storytelling.pptx
 scripts/
   create_storytelling_pptx.js
-Data-Storytelling-and-Statistical-Validation().pptx
+  hypothesis_testing.py
+data_storytelling_and_statistical_validation.pptx
 README.md
+requirements.txt
 ```
 
 ## Hypothesis
@@ -32,9 +34,26 @@ The statistical test compares the high-satisfaction rate between Website and Mob
 - Final presentation outline: `presentation/final_presentation_deck.md`
 - PowerPoint presentation: `presentation/task_4_data_storytelling.pptx`
 - Cleaned dataset: `data/sales_transactions_cleaned.csv`
-- Existing presentation file: `Data-Storytelling-and-Statistical-Validation().pptx`
+- Existing presentation file: `data_storytelling_and_statistical_validation.pptx` (renamed to remove special characters)
+- Python hypothesis testing script: `scripts/hypothesis_testing.py`
 - PPTX generation script: `scripts/create_storytelling_pptx.js`
+
+## How to Run
+
+1. **Install Python dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   ```
+2. **Run Python statistical validation**:
+   ```bash
+   python scripts/hypothesis_testing.py
+   ```
+3. **Generate PPTX deck**:
+   ```bash
+   node scripts/create_storytelling_pptx.js
+   ```
 
 ## Business Recommendation
 
 The business should continue investing in digital channels while reducing product return risk and tracking customer satisfaction together with revenue performance.
+
