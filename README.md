@@ -34,7 +34,7 @@ The statistical test compares the high-satisfaction rate between Website and Mob
 - Final presentation outline: `presentation/final_presentation_deck.md`
 - PowerPoint presentation: `presentation/task_4_data_storytelling.pptx`
 - Cleaned dataset: `data/sales_transactions_cleaned.csv`
-- Existing presentation file: `data_storytelling_and_statistical_validation.pptx` (renamed to remove special characters)
+- Existing presentation file: `data_storytelling_and_statistical_validation.pptx`  
 - Python hypothesis testing script: `scripts/hypothesis_testing.py`
 - PPTX generation script: `scripts/create_storytelling_pptx.js`
 
